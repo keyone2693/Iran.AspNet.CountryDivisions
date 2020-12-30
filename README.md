@@ -20,16 +20,15 @@ In this version:
 you can get all provinces, cities, districts, cities, towns and villages
 or search for them
 
-and there is no relation between tables 
-i think we won't need this future
-if you think otherwise tell me :)
+and there is no relation between tables , 
+i think we won't need this future :)
 
 ##
 .net standard 2.0
 
 ## Easy to install
 Use the library as dll, reference from [nuget](https://www.nuget.org/packages/Iran.AspNet.CountryDivisions/)
-or use this in package manager console
+or use this in your package manager console
 ```c#
 Install-Package Iran.AspNet.CountryDivisions
 ```
@@ -51,9 +50,7 @@ public void ConfigureServices(IServiceCollection services)
   //...
 }
 ```
-
 or :
-
 ```c#
 public void Configure(IApplicationBuilder app, IHostingEnvironment env)
 {
@@ -63,14 +60,13 @@ public void Configure(IApplicationBuilder app, IHostingEnvironment env)
 }
 ```
 or :
-
 ```c#
   //...
   IIranCountryDivisions _iranCountryDivisions = new IranCountryDivisions();
   //...
 ```
 
-then you can uus it like this :
+then you can use it like this :
 
 ```c#
   //...
@@ -89,5 +85,5 @@ same for others
 ## Special thanks
 
 [Ahmad Azizi](https://github.com/ahmadazizi) and his [database](https://github.com/ahmadazizi/iran-cities/)
-
+the package will be updated base on his database
 
