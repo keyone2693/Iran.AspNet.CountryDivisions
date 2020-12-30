@@ -18,6 +18,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Data\DataBase\locations.db" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Data\DataBase\locations.db">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Hosting.Abstractions" Version="2.2.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.2.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="2.2.0" />
@@ -25,9 +35,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="Data\DataBase\locations.db">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
     <None Include="..\LICENSE">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
