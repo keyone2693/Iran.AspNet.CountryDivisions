@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+    <Version>1.1.0</Version>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageIcon>logo.png</PackageIcon>
+    <RepositoryUrl>https://github.com/keyone2693/Iran.AspNet.CountryDivisions</RepositoryUrl>
+    <RepositoryType>public</RepositoryType>
+    <Description>The regions and divisions of Iran include the list of all provinces, cities, districts, cities, towns and villages</Description>
+    <PackageReleaseNotes>first version</PackageReleaseNotes>
+    <PackageTags>iran ,provinces, cities, districts, cities, towns , villages</PackageTags>
+    <PackageProjectUrl>https://github.com/keyone2693/Iran.AspNet.CountryDivisions</PackageProjectUrl>
+    <Copyright />
+    <Authors>keyVan Abdollahzadeh</Authors>
+    <Company>keyVan Abdollahzadeh</Company>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Hosting.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="2.2.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Data\DataBase\locations.db">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="..\logo.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

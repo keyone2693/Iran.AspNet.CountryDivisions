@@ -1,0 +1,7695 @@
+﻿[
+  {
+    "id": "1",
+    "name": "آب پخش",
+    "ostanId": "7",
+    "shahrestanId": "185",
+    "amarCode": "180306"
+  },
+  {
+    "id": "2",
+    "name": "آبدان",
+    "ostanId": "7",
+    "shahrestanId": "197",
+    "amarCode": "180503"
+  },
+  {
+    "id": "3",
+    "name": "آبژدان",
+    "ostanId": "13",
+    "shahrestanId": "45",
+    "amarCode": "62101"
+  },
+  {
+    "id": "4",
+    "name": "آبش احمد",
+    "ostanId": "1",
+    "shahrestanId": "343",
+    "amarCode": "31503"
+  },
+  {
+    "id": "5",
+    "name": "آبگرم",
+    "ostanId": "18",
+    "shahrestanId": "15",
+    "amarCode": "260602"
+  },
+  {
+    "id": "6",
+    "name": "آرمرده",
+    "ostanId": "20",
+    "shahrestanId": "62",
+    "amarCode": "120101"
+  },
+  {
+    "id": "7",
+    "name": "آسارا",
+    "ostanId": "5",
+    "shahrestanId": "336",
+    "amarCode": "300103"
+  },
+  {
+    "id": "8",
+    "name": "آسفیج",
+    "ostanId": "31",
+    "shahrestanId": "92",
+    "amarCode": "211101"
+  },
+  {
+    "id": "9",
+    "name": "آسمینون",
+    "ostanId": "21",
+    "shahrestanId": "402",
+    "amarCode": "81302"
+  },
+  {
+    "id": "10",
+    "name": "آشار",
+    "ostanId": "16",
+    "shahrestanId": "408",
+    "amarCode": "111302"
+  },
+  {
+    "id": "11",
+    "name": "آفتاب",
+    "ostanId": "8",
+    "shahrestanId": "126",
+    "amarCode": "230103"
+  },
+  {
+    "id": "12",
+    "name": "آهوران",
+    "ostanId": "16",
+    "shahrestanId": "433",
+    "amarCode": "110706"
+  },
+  {
+    "id": "13",
+    "name": "آیسک",
+    "ostanId": "10",
+    "shahrestanId": "241",
+    "amarCode": "290601"
+  },
+  {
+    "id": "14",
+    "name": "ابولفارس",
+    "ostanId": "13",
+    "shahrestanId": "205",
+    "amarCode": "61005"
+  },
+  {
+    "id": "15",
+    "name": "احمد آباد مستوفی",
+    "ostanId": "8",
+    "shahrestanId": "33",
+    "amarCode": "231003"
+  },
+  {
+    "id": "16",
+    "name": "احمدآباد",
+    "ostanId": "11",
+    "shahrestanId": "396",
+    "amarCode": "91601"
+  },
+  {
+    "id": "17",
+    "name": "احمدسرگوراب",
+    "ostanId": "25",
+    "shahrestanId": "274",
+    "amarCode": "11201"
+  },
+  {
+    "id": "18",
+    "name": "احمدی",
+    "ostanId": "29",
+    "shahrestanId": "149",
+    "amarCode": "220803"
+  },
+  {
+    "id": "19",
+    "name": "ارجمند",
+    "ostanId": "8",
+    "shahrestanId": "315",
+    "amarCode": "231401"
+  },
+  {
+    "id": "20",
+    "name": "ارد",
+    "ostanId": "17",
+    "shahrestanId": "361",
+    "amarCode": "72702"
+  },
+  {
+    "id": "21",
+    "name": "ارژن",
+    "ostanId": "17",
+    "shahrestanId": "283",
+    "amarCode": "70706"
+  },
+  {
+    "id": "22",
+    "name": "ارس",
+    "ostanId": "2",
+    "shahrestanId": "110",
+    "amarCode": "41501"
+  },
+  {
+    "id": "23",
+    "name": "ارسک",
+    "ostanId": "10",
+    "shahrestanId": "76",
+    "amarCode": "290802"
+  },
+  {
+    "id": "24",
+    "name": "ارشق",
+    "ostanId": "3",
+    "shahrestanId": "395",
+    "amarCode": "240401"
+  },
+  {
+    "id": "25",
+    "name": "ارم",
+    "ostanId": "7",
+    "shahrestanId": "185",
+    "amarCode": "180304"
+  },
+  {
+    "id": "26",
+    "name": "ارمند",
+    "ostanId": "9",
+    "shahrestanId": "153",
+    "amarCode": "141002"
+  },
+  {
+    "id": "27",
+    "name": "اروندکنار",
+    "ostanId": "13",
+    "shahrestanId": "1",
+    "amarCode": "60101"
+  },
+  {
+    "id": "28",
+    "name": "ازگله",
+    "ostanId": "22",
+    "shahrestanId": "128",
+    "amarCode": "51202"
+  },
+  {
+    "id": "29",
+    "name": "اسالم",
+    "ostanId": "25",
+    "shahrestanId": "291",
+    "amarCode": "10405"
+  },
+  {
+    "id": "30",
+    "name": "اسفرورین",
+    "ostanId": "18",
+    "shahrestanId": "113",
+    "amarCode": "260201"
+  },
+  {
+    "id": "31",
+    "name": "اسفندقه",
+    "ostanId": "21",
+    "shahrestanId": "138",
+    "amarCode": "80306"
+  },
+  {
+    "id": "32",
+    "name": "اسلام آباد",
+    "ostanId": "3",
+    "shahrestanId": "103",
+    "amarCode": "240604"
+  },
+  {
+    "id": "33",
+    "name": "اسلامیه",
+    "ostanId": "10",
+    "shahrestanId": "303",
+    "amarCode": "290703"
+  },
+  {
+    "id": "34",
+    "name": "اسماعیلی",
+    "ostanId": "21",
+    "shahrestanId": "138",
+    "amarCode": "80305"
+  },
+  {
+    "id": "35",
+    "name": "اسماعیلیه",
+    "ostanId": "13",
+    "shahrestanId": "49",
+    "amarCode": "60304"
+  },
+  {
+    "id": "36",
+    "name": "اسیر",
+    "ostanId": "17",
+    "shahrestanId": "406",
+    "amarCode": "72104"
+  },
+  {
+    "id": "37",
+    "name": "اشترینان",
+    "ostanId": "26",
+    "shahrestanId": "71",
+    "amarCode": "150201"
+  },
+  {
+    "id": "38",
+    "name": "اشکنان",
+    "ostanId": "17",
+    "shahrestanId": "375",
+    "amarCode": "71503"
+  },
+  {
+    "id": "39",
+    "name": "اطاقور",
+    "ostanId": "25",
+    "shahrestanId": "380",
+    "amarCode": "11002"
+  },
+  {
+    "id": "40",
+    "name": "افزر",
+    "ostanId": "17",
+    "shahrestanId": "329",
+    "amarCode": "72001"
+  },
+  {
+    "id": "41",
+    "name": "افشار",
+    "ostanId": "14",
+    "shahrestanId": "155",
+    "amarCode": "190301"
+  },
+  {
+    "id": "42",
+    "name": "الوارگرمسیری",
+    "ostanId": "13",
+    "shahrestanId": "46",
+    "amarCode": "60201"
+  },
+  {
+    "id": "43",
+    "name": "امام",
+    "ostanId": "20",
+    "shahrestanId": "252",
+    "amarCode": "120304"
+  },
+  {
+    "id": "44",
+    "name": "امام حسن",
+    "ostanId": "7",
+    "shahrestanId": "198",
+    "amarCode": "180801"
+  },
+  {
+    "id": "45",
+    "name": "امام زاده",
+    "ostanId": "4",
+    "shahrestanId": "421",
+    "amarCode": "101502"
+  },
+  {
+    "id": "46",
+    "name": "امامزاده عبدالله",
+    "ostanId": "27",
+    "shahrestanId": "14",
+    "amarCode": "20104"
+  },
+  {
+    "id": "47",
+    "name": "امیراباد",
+    "ostanId": "15",
+    "shahrestanId": "177",
+    "amarCode": "200101"
+  },
+  {
+    "id": "48",
+    "name": "انابد",
+    "ostanId": "11",
+    "shahrestanId": "69",
+    "amarCode": "92301"
+  },
+  {
+    "id": "49",
+    "name": "انار",
+    "ostanId": "21",
+    "shahrestanId": "44",
+    "amarCode": "82001"
+  },
+  {
+    "id": "50",
+    "name": "انارک",
+    "ostanId": "4",
+    "shahrestanId": "418",
+    "amarCode": "101301"
+  },
+  {
+    "id": "51",
+    "name": "انزل",
+    "ostanId": "2",
+    "shahrestanId": "26",
+    "amarCode": "40101"
+  },
+  {
+    "id": "52",
+    "name": "انگوت",
+    "ostanId": "3",
+    "shahrestanId": "365",
+    "amarCode": "240501"
+  },
+  {
+    "id": "53",
+    "name": "انگوران",
+    "ostanId": "14",
+    "shahrestanId": "385",
+    "amarCode": "190901"
+  },
+  {
+    "id": "54",
+    "name": "اورامان",
+    "ostanId": "20",
+    "shahrestanId": "250",
+    "amarCode": "120901"
+  },
+  {
+    "id": "55",
+    "name": "ایرندگان",
+    "ostanId": "16",
+    "shahrestanId": "152",
+    "amarCode": "110303"
+  },
+  {
+    "id": "56",
+    "name": "ایزدخواست",
+    "ostanId": "17",
+    "shahrestanId": "229",
+    "amarCode": "71901"
+  },
+  {
+    "id": "57",
+    "name": "ایلخچی",
+    "ostanId": "1",
+    "shahrestanId": "31",
+    "amarCode": "32201"
+  },
+  {
+    "id": "58",
+    "name": "ایوانکی",
+    "ostanId": "15",
+    "shahrestanId": "363",
+    "amarCode": "200401"
+  },
+  {
+    "id": "59",
+    "name": "ایواوغلی",
+    "ostanId": "2",
+    "shahrestanId": "174",
+    "amarCode": "40304"
+  },
+  {
+    "id": "60",
+    "name": "بابا حیدر",
+    "ostanId": "9",
+    "shahrestanId": "297",
+    "amarCode": "140303"
+  },
+  {
+    "id": "61",
+    "name": "بابل کنار",
+    "ostanId": "27",
+    "shahrestanId": "55",
+    "amarCode": "20204"
+  },
+  {
+    "id": "62",
+    "name": "باجگیران",
+    "ostanId": "11",
+    "shahrestanId": "328",
+    "amarCode": "91301"
+  },
+  {
+    "id": "63",
+    "name": "باروق",
+    "ostanId": "2",
+    "shahrestanId": "411",
+    "amarCode": "40805"
+  },
+  {
+    "id": "64",
+    "name": "بازرگان",
+    "ostanId": "2",
+    "shahrestanId": "383",
+    "amarCode": "40605"
+  },
+  {
+    "id": "65",
+    "name": "بازفت",
+    "ostanId": "9",
+    "shahrestanId": "353",
+    "amarCode": "140601"
+  },
+  {
+    "id": "66",
+    "name": "باشتین",
+    "ostanId": "11",
+    "shahrestanId": "178",
+    "amarCode": "93902"
+  },
+  {
+    "id": "67",
+    "name": "باغ بهادران",
+    "ostanId": "4",
+    "shahrestanId": "378",
+    "amarCode": "101201"
+  },
+  {
+    "id": "68",
+    "name": "باغ حلی",
+    "ostanId": "14",
+    "shahrestanId": "254",
+    "amarCode": "191002"
+  },
+  {
+    "id": "69",
+    "name": "باغ صفا",
+    "ostanId": "17",
+    "shahrestanId": "245",
+    "amarCode": "73202"
+  },
+  {
+    "id": "70",
+    "name": "بالا طالقان",
+    "ostanId": "5",
+    "shahrestanId": "289",
+    "amarCode": "300402"
+  },
+  {
+    "id": "71",
+    "name": "بالا ولایت",
+    "ostanId": "11",
+    "shahrestanId": "57",
+    "amarCode": "93702"
+  },
+  {
+    "id": "72",
+    "name": "بام وصفی آباد",
+    "ostanId": "12",
+    "shahrestanId": "30",
+    "amarCode": "280101"
+  },
+  {
+    "id": "73",
+    "name": "بانش",
+    "ostanId": "17",
+    "shahrestanId": "100",
+    "amarCode": "73102"
+  },
+  {
+    "id": "74",
+    "name": "باهوکلات",
+    "ostanId": "16",
+    "shahrestanId": "187",
+    "amarCode": "112202"
+  },
+  {
+    "id": "75",
+    "name": "بایک",
+    "ostanId": "11",
+    "shahrestanId": "117",
+    "amarCode": "90501"
+  },
+  {
+    "id": "76",
+    "name": "باینگان",
+    "ostanId": "22",
+    "shahrestanId": "107",
+    "amarCode": "50301"
+  },
+  {
+    "id": "77",
+    "name": "بران",
+    "ostanId": "3",
+    "shahrestanId": "38",
+    "amarCode": "241102"
+  },
+  {
+    "id": "78",
+    "name": "بربرود شرقی",
+    "ostanId": "26",
+    "shahrestanId": "41",
+    "amarCode": "150106"
+  },
+  {
+    "id": "79",
+    "name": "بربرود غربی",
+    "ostanId": "26",
+    "shahrestanId": "41",
+    "amarCode": "150105"
+  },
+  {
+    "id": "80",
+    "name": "بردخون",
+    "ostanId": "7",
+    "shahrestanId": "197",
+    "amarCode": "180501"
+  },
+  {
+    "id": "81",
+    "name": "بررود",
+    "ostanId": "11",
+    "shahrestanId": "354",
+    "amarCode": "94102"
+  },
+  {
+    "id": "82",
+    "name": "برزک",
+    "ostanId": "4",
+    "shahrestanId": "332",
+    "amarCode": "101005"
+  },
+  {
+    "id": "83",
+    "name": "بروات",
+    "ostanId": "21",
+    "shahrestanId": "77",
+    "amarCode": "80207"
+  },
+  {
+    "id": "84",
+    "name": "بزمان",
+    "ostanId": "16",
+    "shahrestanId": "52",
+    "amarCode": "110101"
+  },
+  {
+    "id": "85",
+    "name": "بزینه رود",
+    "ostanId": "14",
+    "shahrestanId": "155",
+    "amarCode": "190302"
+  },
+  {
+    "id": "86",
+    "name": "بستان",
+    "ostanId": "13",
+    "shahrestanId": "184",
+    "amarCode": "60901"
+  },
+  {
+    "id": "87",
+    "name": "بسطام",
+    "ostanId": "15",
+    "shahrestanId": "270",
+    "amarCode": "200301"
+  },
+  {
+    "id": "88",
+    "name": "بشاریات",
+    "ostanId": "18",
+    "shahrestanId": "4",
+    "amarCode": "260401"
+  },
+  {
+    "id": "89",
+    "name": "بفروییه",
+    "ostanId": "31",
+    "shahrestanId": "414",
+    "amarCode": "210603"
+  },
+  {
+    "id": "90",
+    "name": "بلبان آباد",
+    "ostanId": "20",
+    "shahrestanId": "195",
+    "amarCode": "121002"
+  },
+  {
+    "id": "91",
+    "name": "بلداجی",
+    "ostanId": "9",
+    "shahrestanId": "72",
+    "amarCode": "140104"
+  },
+  {
+    "id": "92",
+    "name": "بلده",
+    "ostanId": "27",
+    "shahrestanId": "426",
+    "amarCode": "21401"
+  },
+  {
+    "id": "93",
+    "name": "بلورد",
+    "ostanId": "21",
+    "shahrestanId": "264",
+    "amarCode": "80605"
+  },
+  {
+    "id": "94",
+    "name": "بم پشت",
+    "ostanId": "16",
+    "shahrestanId": "240",
+    "amarCode": "110605"
+  },
+  {
+    "id": "95",
+    "name": "بمانی",
+    "ostanId": "29",
+    "shahrestanId": "266",
+    "amarCode": "221201"
+  },
+  {
+    "id": "96",
+    "name": "بن رود",
+    "ostanId": "4",
+    "shahrestanId": "37",
+    "amarCode": "100205"
+  },
+  {
+    "id": "97",
+    "name": "بنارویه",
+    "ostanId": "17",
+    "shahrestanId": "373",
+    "amarCode": "71107"
+  },
+  {
+    "id": "98",
+    "name": "بنت",
+    "ostanId": "16",
+    "shahrestanId": "433",
+    "amarCode": "110701"
+  },
+  {
+    "id": "99",
+    "name": "بندپی شرقی",
+    "ostanId": "27",
+    "shahrestanId": "55",
+    "amarCode": "20203"
+  },
+  {
+    "id": "100",
+    "name": "بندپی غربی",
+    "ostanId": "27",
+    "shahrestanId": "55",
+    "amarCode": "20201"
+  },
+  {
+    "id": "101",
+    "name": "بندرامام خمینی",
+    "ostanId": "13",
+    "shahrestanId": "85",
+    "amarCode": "60501"
+  },
+  {
+    "id": "102",
+    "name": "بندزرک",
+    "ostanId": "29",
+    "shahrestanId": "416",
+    "amarCode": "220505"
+  },
+  {
+    "id": "103",
+    "name": "بوژگان",
+    "ostanId": "11",
+    "shahrestanId": "116",
+    "amarCode": "90604"
+  },
+  {
+    "id": "104",
+    "name": "بوستان",
+    "ostanId": "8",
+    "shahrestanId": "94",
+    "amarCode": "231902"
+  },
+  {
+    "id": "105",
+    "name": "بوستان",
+    "ostanId": "23",
+    "shahrestanId": "58",
+    "amarCode": "170702"
+  },
+  {
+    "id": "106",
+    "name": "بوشکان",
+    "ostanId": "7",
+    "shahrestanId": "185",
+    "amarCode": "180305"
+  },
+  {
+    "id": "107",
+    "name": "بومهن",
+    "ostanId": "8",
+    "shahrestanId": "108",
+    "amarCode": "232001"
+  },
+  {
+    "id": "108",
+    "name": "بهاران",
+    "ostanId": "24",
+    "shahrestanId": "362",
+    "amarCode": "270503"
+  },
+  {
+    "id": "109",
+    "name": "بهمن",
+    "ostanId": "31",
+    "shahrestanId": "16",
+    "amarCode": "210701"
+  },
+  {
+    "id": "110",
+    "name": "بهمن صغاد",
+    "ostanId": "17",
+    "shahrestanId": "2",
+    "amarCode": "70105"
+  },
+  {
+    "id": "111",
+    "name": "بهمیی گرمسیری",
+    "ostanId": "23",
+    "shahrestanId": "97",
+    "amarCode": "170501"
+  },
+  {
+    "id": "112",
+    "name": "بهنمیر",
+    "ostanId": "27",
+    "shahrestanId": "56",
+    "amarCode": "21603"
+  },
+  {
+    "id": "113",
+    "name": "بیارجمند",
+    "ostanId": "15",
+    "shahrestanId": "270",
+    "amarCode": "200302"
+  },
+  {
+    "id": "114",
+    "name": "بیدشهر",
+    "ostanId": "17",
+    "shahrestanId": "47",
+    "amarCode": "73602"
+  },
+  {
+    "id": "115",
+    "name": "بیرانوند",
+    "ostanId": "26",
+    "shahrestanId": "157",
+    "amarCode": "150303"
+  },
+  {
+    "id": "116",
+    "name": "بیرم",
+    "ostanId": "17",
+    "shahrestanId": "373",
+    "amarCode": "71105"
+  },
+  {
+    "id": "117",
+    "name": "بیستون",
+    "ostanId": "22",
+    "shahrestanId": "438",
+    "amarCode": "51101"
+  },
+  {
+    "id": "118",
+    "name": "بیکاه",
+    "ostanId": "29",
+    "shahrestanId": "216",
+    "amarCode": "220704"
+  },
+  {
+    "id": "119",
+    "name": "بیلوار",
+    "ostanId": "22",
+    "shahrestanId": "339",
+    "amarCode": "50208"
+  },
+  {
+    "id": "120",
+    "name": "پاپی",
+    "ostanId": "26",
+    "shahrestanId": "157",
+    "amarCode": "150302"
+  },
+  {
+    "id": "121",
+    "name": "پاتاوه",
+    "ostanId": "23",
+    "shahrestanId": "192",
+    "amarCode": "170401"
+  },
+  {
+    "id": "122",
+    "name": "پادنا",
+    "ostanId": "4",
+    "shahrestanId": "257",
+    "amarCode": "100501"
+  },
+  {
+    "id": "123",
+    "name": "پادنا علیا",
+    "ostanId": "4",
+    "shahrestanId": "257",
+    "amarCode": "100503"
+  },
+  {
+    "id": "124",
+    "name": "پارود",
+    "ostanId": "16",
+    "shahrestanId": "202",
+    "amarCode": "110805"
+  },
+  {
+    "id": "125",
+    "name": "پاریز",
+    "ostanId": "21",
+    "shahrestanId": "264",
+    "amarCode": "80602"
+  },
+  {
+    "id": "126",
+    "name": "پاسارگاد",
+    "ostanId": "17",
+    "shahrestanId": "105",
+    "amarCode": "72302"
+  },
+  {
+    "id": "127",
+    "name": "پایین جام",
+    "ostanId": "11",
+    "shahrestanId": "116",
+    "amarCode": "90605"
+  },
+  {
+    "id": "128",
+    "name": "پره سر",
+    "ostanId": "25",
+    "shahrestanId": "213",
+    "amarCode": "11401"
+  },
+  {
+    "id": "129",
+    "name": "پشتکوه",
+    "ostanId": "16",
+    "shahrestanId": "152",
+    "amarCode": "110304"
+  },
+  {
+    "id": "130",
+    "name": "پشتکوه",
+    "ostanId": "17",
+    "shahrestanId": "430",
+    "amarCode": "71402"
+  },
+  {
+    "id": "131",
+    "name": "پلان",
+    "ostanId": "16",
+    "shahrestanId": "143",
+    "amarCode": "110204"
+  },
+  {
+    "id": "132",
+    "name": "پلنگ آباد",
+    "ostanId": "5",
+    "shahrestanId": "34",
+    "amarCode": "300502"
+  },
+  {
+    "id": "133",
+    "name": "پیربکران",
+    "ostanId": "4",
+    "shahrestanId": "310",
+    "amarCode": "100801"
+  },
+  {
+    "id": "134",
+    "name": "پیرسلمان",
+    "ostanId": "30",
+    "shahrestanId": "29",
+    "amarCode": "130602"
+  },
+  {
+    "id": "135",
+    "name": "پیشخور",
+    "ostanId": "30",
+    "shahrestanId": "300",
+    "amarCode": "130902"
+  },
+  {
+    "id": "136",
+    "name": "پیشکمر",
+    "ostanId": "24",
+    "shahrestanId": "342",
+    "amarCode": "270903"
+  },
+  {
+    "id": "137",
+    "name": "پیشین",
+    "ostanId": "16",
+    "shahrestanId": "202",
+    "amarCode": "110801"
+  },
+  {
+    "id": "138",
+    "name": "تازه کند",
+    "ostanId": "3",
+    "shahrestanId": "103",
+    "amarCode": "240603"
+  },
+  {
+    "id": "139",
+    "name": "تالارپی",
+    "ostanId": "27",
+    "shahrestanId": "267",
+    "amarCode": "22602"
+  },
+  {
+    "id": "140",
+    "name": "تخت",
+    "ostanId": "29",
+    "shahrestanId": "82",
+    "amarCode": "220205"
+  },
+  {
+    "id": "141",
+    "name": "تخت سلیمان",
+    "ostanId": "2",
+    "shahrestanId": "122",
+    "amarCode": "41202"
+  },
+  {
+    "id": "142",
+    "name": "ترکمانچای",
+    "ostanId": "1",
+    "shahrestanId": "413",
+    "amarCode": "31001"
+  },
+  {
+    "id": "143",
+    "name": "تسوج",
+    "ostanId": "1",
+    "shahrestanId": "273",
+    "amarCode": "31403"
+  },
+  {
+    "id": "144",
+    "name": "تشان",
+    "ostanId": "13",
+    "shahrestanId": "95",
+    "amarCode": "60604"
+  },
+  {
+    "id": "145",
+    "name": "تلنگ",
+    "ostanId": "16",
+    "shahrestanId": "325",
+    "amarCode": "111803"
+  },
+  {
+    "id": "146",
+    "name": "تنب",
+    "ostanId": "29",
+    "shahrestanId": "17",
+    "amarCode": "220101"
+  },
+  {
+    "id": "147",
+    "name": "تنکمان",
+    "ostanId": "5",
+    "shahrestanId": "422",
+    "amarCode": "300302"
+  },
+  {
+    "id": "148",
+    "name": "توکهور",
+    "ostanId": "29",
+    "shahrestanId": "416",
+    "amarCode": "220504"
+  },
+  {
+    "id": "149",
+    "name": "تولم",
+    "ostanId": "25",
+    "shahrestanId": "287",
+    "amarCode": "10801"
+  },
+  {
+    "id": "150",
+    "name": "تیکمه داش",
+    "ostanId": "1",
+    "shahrestanId": "73",
+    "amarCode": "31301"
+  },
+  {
+    "id": "151",
+    "name": "تیمورآباد",
+    "ostanId": "16",
+    "shahrestanId": "437",
+    "amarCode": "111602"
+  },
+  {
+    "id": "152",
+    "name": "ثمرین",
+    "ostanId": "3",
+    "shahrestanId": "20",
+    "amarCode": "240106"
+  },
+  {
+    "id": "153",
+    "name": "جاپلق",
+    "ostanId": "26",
+    "shahrestanId": "27",
+    "amarCode": "150701"
+  },
+  {
+    "id": "154",
+    "name": "جاجرود",
+    "ostanId": "8",
+    "shahrestanId": "108",
+    "amarCode": "232002"
+  },
+  {
+    "id": "155",
+    "name": "جازموریان",
+    "ostanId": "21",
+    "shahrestanId": "218",
+    "amarCode": "81501"
+  },
+  {
+    "id": "156",
+    "name": "جالق",
+    "ostanId": "16",
+    "shahrestanId": "240",
+    "amarCode": "110601"
+  },
+  {
+    "id": "157",
+    "name": "جایزان",
+    "ostanId": "13",
+    "shahrestanId": "43",
+    "amarCode": "61601"
+  },
+  {
+    "id": "158",
+    "name": "جبالبارز",
+    "ostanId": "21",
+    "shahrestanId": "138",
+    "amarCode": "80302"
+  },
+  {
+    "id": "159",
+    "name": "جبالبارزجنوبی",
+    "ostanId": "21",
+    "shahrestanId": "296",
+    "amarCode": "81203"
+  },
+  {
+    "id": "160",
+    "name": "جرقویه سفلی",
+    "ostanId": "4",
+    "shahrestanId": "37",
+    "amarCode": "100201"
+  },
+  {
+    "id": "161",
+    "name": "جرقویه علیا",
+    "ostanId": "4",
+    "shahrestanId": "37",
+    "amarCode": "100204"
+  },
+  {
+    "id": "162",
+    "name": "جرگلان",
+    "ostanId": "12",
+    "shahrestanId": "201",
+    "amarCode": "280803"
+  },
+  {
+    "id": "163",
+    "name": "جره وبالاده",
+    "ostanId": "17",
+    "shahrestanId": "331",
+    "amarCode": "71001"
+  },
+  {
+    "id": "164",
+    "name": "جزمان",
+    "ostanId": "6",
+    "shahrestanId": "442",
+    "amarCode": "161102"
+  },
+  {
+    "id": "165",
+    "name": "جزینک",
+    "ostanId": "16",
+    "shahrestanId": "231",
+    "amarCode": "111001"
+  },
+  {
+    "id": "166",
+    "name": "جعفراباد",
+    "ostanId": "19",
+    "shahrestanId": "327",
+    "amarCode": "250101"
+  },
+  {
+    "id": "167",
+    "name": "جغین",
+    "ostanId": "29",
+    "shahrestanId": "216",
+    "amarCode": "220703"
+  },
+  {
+    "id": "168",
+    "name": "جلگه",
+    "ostanId": "4",
+    "shahrestanId": "37",
+    "amarCode": "100206"
+  },
+  {
+    "id": "169",
+    "name": "جلگه چاه هاشم",
+    "ostanId": "16",
+    "shahrestanId": "189",
+    "amarCode": "111202"
+  },
+  {
+    "id": "170",
+    "name": "جلگه رخ",
+    "ostanId": "11",
+    "shahrestanId": "117",
+    "amarCode": "90507"
+  },
+  {
+    "id": "171",
+    "name": "جلگه زوزن",
+    "ostanId": "11",
+    "shahrestanId": "169",
+    "amarCode": "91903"
+  },
+  {
+    "id": "172",
+    "name": "جلگه سنخواست",
+    "ostanId": "12",
+    "shahrestanId": "129",
+    "amarCode": "280301"
+  },
+  {
+    "id": "173",
+    "name": "جلگه شوقان",
+    "ostanId": "12",
+    "shahrestanId": "129",
+    "amarCode": "280302"
+  },
+  {
+    "id": "174",
+    "name": "جلگه ماژان",
+    "ostanId": "10",
+    "shahrestanId": "172",
+    "amarCode": "291002"
+  },
+  {
+    "id": "175",
+    "name": "جلیل آباد",
+    "ostanId": "8",
+    "shahrestanId": "112",
+    "amarCode": "231802"
+  },
+  {
+    "id": "176",
+    "name": "جناح",
+    "ostanId": "29",
+    "shahrestanId": "74",
+    "amarCode": "220901"
+  },
+  {
+    "id": "177",
+    "name": "جنت",
+    "ostanId": "17",
+    "shahrestanId": "175",
+    "amarCode": "70505"
+  },
+  {
+    "id": "178",
+    "name": "جنت آباد",
+    "ostanId": "11",
+    "shahrestanId": "285",
+    "amarCode": "94002"
+  },
+  {
+    "id": "179",
+    "name": "جنگل",
+    "ostanId": "11",
+    "shahrestanId": "212",
+    "amarCode": "92701"
+  },
+  {
+    "id": "180",
+    "name": "جوادآباد",
+    "ostanId": "8",
+    "shahrestanId": "435",
+    "amarCode": "230602"
+  },
+  {
+    "id": "181",
+    "name": "جوزار",
+    "ostanId": "17",
+    "shahrestanId": "401",
+    "amarCode": "71306"
+  },
+  {
+    "id": "182",
+    "name": "جوقین",
+    "ostanId": "8",
+    "shahrestanId": "282",
+    "amarCode": "230903"
+  },
+  {
+    "id": "183",
+    "name": "جوکار",
+    "ostanId": "30",
+    "shahrestanId": "398",
+    "amarCode": "130201"
+  },
+  {
+    "id": "184",
+    "name": "جولکی",
+    "ostanId": "13",
+    "shahrestanId": "12",
+    "amarCode": "62602"
+  },
+  {
+    "id": "185",
+    "name": "جونقان",
+    "ostanId": "9",
+    "shahrestanId": "297",
+    "amarCode": "140304"
+  },
+  {
+    "id": "186",
+    "name": "جویم",
+    "ostanId": "17",
+    "shahrestanId": "373",
+    "amarCode": "71102"
+  },
+  {
+    "id": "187",
+    "name": "چابکسر",
+    "ostanId": "25",
+    "shahrestanId": "219",
+    "amarCode": "10704"
+  },
+  {
+    "id": "188",
+    "name": "چاپشلو",
+    "ostanId": "11",
+    "shahrestanId": "179",
+    "amarCode": "90701"
+  },
+  {
+    "id": "189",
+    "name": "چاروسا",
+    "ostanId": "23",
+    "shahrestanId": "355",
+    "amarCode": "170202"
+  },
+  {
+    "id": "190",
+    "name": "چاه دادخدا",
+    "ostanId": "21",
+    "shahrestanId": "326",
+    "amarCode": "81601"
+  },
+  {
+    "id": "191",
+    "name": "چاه مبارک",
+    "ostanId": "7",
+    "shahrestanId": "294",
+    "amarCode": "181002"
+  },
+  {
+    "id": "192",
+    "name": "چاه مرید",
+    "ostanId": "21",
+    "shahrestanId": "356",
+    "amarCode": "80905"
+  },
+  {
+    "id": "193",
+    "name": "چاه ورز",
+    "ostanId": "17",
+    "shahrestanId": "375",
+    "amarCode": "71505"
+  },
+  {
+    "id": "194",
+    "name": "چترود",
+    "ostanId": "21",
+    "shahrestanId": "338",
+    "amarCode": "80807"
+  },
+  {
+    "id": "195",
+    "name": "چشمه ساران",
+    "ostanId": "24",
+    "shahrestanId": "8",
+    "amarCode": "271001"
+  },
+  {
+    "id": "196",
+    "name": "چغادک",
+    "ostanId": "7",
+    "shahrestanId": "88",
+    "amarCode": "180103"
+  },
+  {
+    "id": "197",
+    "name": "چغامیش",
+    "ostanId": "13",
+    "shahrestanId": "183",
+    "amarCode": "60803"
+  },
+  {
+    "id": "198",
+    "name": "چگنی",
+    "ostanId": "26",
+    "shahrestanId": "147",
+    "amarCode": "151001"
+  },
+  {
+    "id": "199",
+    "name": "چلو",
+    "ostanId": "13",
+    "shahrestanId": "45",
+    "amarCode": "62102"
+  },
+  {
+    "id": "200",
+    "name": "چم خلف عیسی",
+    "ostanId": "13",
+    "shahrestanId": "444",
+    "amarCode": "61802"
+  },
+  {
+    "id": "201",
+    "name": "چمستان",
+    "ostanId": "27",
+    "shahrestanId": "426",
+    "amarCode": "21402"
+  },
+  {
+    "id": "202",
+    "name": "چنارود",
+    "ostanId": "4",
+    "shahrestanId": "139",
+    "amarCode": "102001"
+  },
+  {
+    "id": "203",
+    "name": "چندار",
+    "ostanId": "5",
+    "shahrestanId": "235",
+    "amarCode": "300203"
+  },
+  {
+    "id": "204",
+    "name": "چنگ الماس",
+    "ostanId": "20",
+    "shahrestanId": "98",
+    "amarCode": "120201"
+  },
+  {
+    "id": "205",
+    "name": "چوار",
+    "ostanId": "6",
+    "shahrestanId": "53",
+    "amarCode": "160102"
+  },
+  {
+    "id": "206",
+    "name": "چورزق",
+    "ostanId": "14",
+    "shahrestanId": "288",
+    "amarCode": "190801"
+  },
+  {
+    "id": "207",
+    "name": "چهارباغ",
+    "ostanId": "5",
+    "shahrestanId": "235",
+    "amarCode": "300204"
+  },
+  {
+    "id": "208",
+    "name": "چهاردانگه",
+    "ostanId": "1",
+    "shahrestanId": "445",
+    "amarCode": "32702"
+  },
+  {
+    "id": "209",
+    "name": "چهاردانگه",
+    "ostanId": "8",
+    "shahrestanId": "33",
+    "amarCode": "231001"
+  },
+  {
+    "id": "210",
+    "name": "چهاردانگه",
+    "ostanId": "27",
+    "shahrestanId": "233",
+    "amarCode": "20701"
+  },
+  {
+    "id": "211",
+    "name": "چهاردولی",
+    "ostanId": "20",
+    "shahrestanId": "321",
+    "amarCode": "120504"
+  },
+  {
+    "id": "212",
+    "name": "حاجیلار",
+    "ostanId": "2",
+    "shahrestanId": "144",
+    "amarCode": "41601"
+  },
+  {
+    "id": "213",
+    "name": "حبیب آباد",
+    "ostanId": "4",
+    "shahrestanId": "68",
+    "amarCode": "102201"
+  },
+  {
+    "id": "214",
+    "name": "حتی",
+    "ostanId": "13",
+    "shahrestanId": "374",
+    "amarCode": "61702"
+  },
+  {
+    "id": "215",
+    "name": "حرا",
+    "ostanId": "29",
+    "shahrestanId": "323",
+    "amarCode": "220404"
+  },
+  {
+    "id": "216",
+    "name": "حسن آباد",
+    "ostanId": "17",
+    "shahrestanId": "39",
+    "amarCode": "70303"
+  },
+  {
+    "id": "217",
+    "name": "حسین آباد",
+    "ostanId": "20",
+    "shahrestanId": "259",
+    "amarCode": "120405"
+  },
+  {
+    "id": "218",
+    "name": "حلب",
+    "ostanId": "14",
+    "shahrestanId": "50",
+    "amarCode": "190601"
+  },
+  {
+    "id": "219",
+    "name": "حمیل",
+    "ostanId": "22",
+    "shahrestanId": "32",
+    "amarCode": "50101"
+  },
+  {
+    "id": "220",
+    "name": "حناء",
+    "ostanId": "17",
+    "shahrestanId": "66",
+    "amarCode": "73502"
+  },
+  {
+    "id": "221",
+    "name": "حور",
+    "ostanId": "21",
+    "shahrestanId": "299",
+    "amarCode": "82202"
+  },
+  {
+    "id": "222",
+    "name": "حومه",
+    "ostanId": "1",
+    "shahrestanId": "5",
+    "amarCode": "32103"
+  },
+  {
+    "id": "223",
+    "name": "حویق",
+    "ostanId": "25",
+    "shahrestanId": "291",
+    "amarCode": "10406"
+  },
+  {
+    "id": "224",
+    "name": "خارک",
+    "ostanId": "7",
+    "shahrestanId": "88",
+    "amarCode": "180101"
+  },
+  {
+    "id": "225",
+    "name": "خاروانا",
+    "ostanId": "1",
+    "shahrestanId": "436",
+    "amarCode": "32401"
+  },
+  {
+    "id": "226",
+    "name": "خاوران",
+    "ostanId": "8",
+    "shahrestanId": "221",
+    "amarCode": "230305"
+  },
+  {
+    "id": "227",
+    "name": "خاوومیرآباد",
+    "ostanId": "20",
+    "shahrestanId": "393",
+    "amarCode": "120601"
+  },
+  {
+    "id": "228",
+    "name": "خاوه",
+    "ostanId": "26",
+    "shahrestanId": "188",
+    "amarCode": "150403"
+  },
+  {
+    "id": "229",
+    "name": "خبر",
+    "ostanId": "21",
+    "shahrestanId": "60",
+    "amarCode": "80104"
+  },
+  {
+    "id": "230",
+    "name": "خبوشان",
+    "ostanId": "12",
+    "shahrestanId": "298",
+    "amarCode": "280501"
+  },
+  {
+    "id": "231",
+    "name": "خرانق",
+    "ostanId": "31",
+    "shahrestanId": "22",
+    "amarCode": "210101"
+  },
+  {
+    "id": "232",
+    "name": "خرقان",
+    "ostanId": "28",
+    "shahrestanId": "228",
+    "amarCode": "1001"
+  },
+  {
+    "id": "233",
+    "name": "خرم آباد",
+    "ostanId": "27",
+    "shahrestanId": "123",
+    "amarCode": "20504"
+  },
+  {
+    "id": "234",
+    "name": "خرمدشت",
+    "ostanId": "18",
+    "shahrestanId": "113",
+    "amarCode": "260202"
+  },
+  {
+    "id": "235",
+    "name": "خزل",
+    "ostanId": "30",
+    "shahrestanId": "428",
+    "amarCode": "130301"
+  },
+  {
+    "id": "236",
+    "name": "خسروشاه",
+    "ostanId": "1",
+    "shahrestanId": "115",
+    "amarCode": "30304"
+  },
+  {
+    "id": "237",
+    "name": "خشت",
+    "ostanId": "17",
+    "shahrestanId": "331",
+    "amarCode": "71006"
+  },
+  {
+    "id": "238",
+    "name": "خشکبیجار",
+    "ostanId": "25",
+    "shahrestanId": "211",
+    "amarCode": "10506"
+  },
+  {
+    "id": "239",
+    "name": "خضرآباد",
+    "ostanId": "31",
+    "shahrestanId": "35",
+    "amarCode": "210801"
+  },
+  {
+    "id": "240",
+    "name": "خلجستان",
+    "ostanId": "19",
+    "shahrestanId": "327",
+    "amarCode": "250102"
+  },
+  {
+    "id": "241",
+    "name": "خلیفان",
+    "ostanId": "2",
+    "shahrestanId": "404",
+    "amarCode": "40701"
+  },
+  {
+    "id": "242",
+    "name": "خمام",
+    "ostanId": "25",
+    "shahrestanId": "211",
+    "amarCode": "10501"
+  },
+  {
+    "id": "243",
+    "name": "خنافره",
+    "ostanId": "13",
+    "shahrestanId": "268",
+    "amarCode": "61102"
+  },
+  {
+    "id": "244",
+    "name": "خنجین",
+    "ostanId": "28",
+    "shahrestanId": "302",
+    "amarCode": "1302"
+  },
+  {
+    "id": "245",
+    "name": "خواجه",
+    "ostanId": "1",
+    "shahrestanId": "439",
+    "amarCode": "31601"
+  },
+  {
+    "id": "246",
+    "name": "خورش رستم",
+    "ostanId": "3",
+    "shahrestanId": "162",
+    "amarCode": "240301"
+  },
+  {
+    "id": "247",
+    "name": "خورگام",
+    "ostanId": "25",
+    "shahrestanId": "217",
+    "amarCode": "10604"
+  },
+  {
+    "id": "248",
+    "name": "دابودشت",
+    "ostanId": "27",
+    "shahrestanId": "14",
+    "amarCode": "20103"
+  },
+  {
+    "id": "249",
+    "name": "دارخوین",
+    "ostanId": "13",
+    "shahrestanId": "268",
+    "amarCode": "61103"
+  },
+  {
+    "id": "250",
+    "name": "داشلی برون",
+    "ostanId": "24",
+    "shahrestanId": "371",
+    "amarCode": "270602"
+  },
+  {
+    "id": "251",
+    "name": "دالخانی",
+    "ostanId": "27",
+    "shahrestanId": "203",
+    "amarCode": "20602"
+  },
+  {
+    "id": "252",
+    "name": "دامن",
+    "ostanId": "16",
+    "shahrestanId": "52",
+    "amarCode": "110106"
+  },
+  {
+    "id": "253",
+    "name": "درب گنبد",
+    "ostanId": "26",
+    "shahrestanId": "352",
+    "amarCode": "150605"
+  },
+  {
+    "id": "254",
+    "name": "درح",
+    "ostanId": "10",
+    "shahrestanId": "243",
+    "amarCode": "290303"
+  },
+  {
+    "id": "255",
+    "name": "درودزن",
+    "ostanId": "17",
+    "shahrestanId": "392",
+    "amarCode": "71205"
+  },
+  {
+    "id": "256",
+    "name": "دستگردان",
+    "ostanId": "10",
+    "shahrestanId": "290",
+    "amarCode": "291101"
+  },
+  {
+    "id": "257",
+    "name": "دشت سر",
+    "ostanId": "27",
+    "shahrestanId": "14",
+    "amarCode": "20105"
+  },
+  {
+    "id": "258",
+    "name": "دشت عباس",
+    "ostanId": "6",
+    "shahrestanId": "196",
+    "amarCode": "160305"
+  },
+  {
+    "id": "259",
+    "name": "دشتابی",
+    "ostanId": "18",
+    "shahrestanId": "91",
+    "amarCode": "260106"
+  },
+  {
+    "id": "260",
+    "name": "دشتک",
+    "ostanId": "2",
+    "shahrestanId": "141",
+    "amarCode": "41401"
+  },
+  {
+    "id": "261",
+    "name": "دشمن زیاری",
+    "ostanId": "17",
+    "shahrestanId": "401",
+    "amarCode": "71305"
+  },
+  {
+    "id": "262",
+    "name": "دلبران",
+    "ostanId": "20",
+    "shahrestanId": "321",
+    "amarCode": "120505"
+  },
+  {
+    "id": "263",
+    "name": "دلوار",
+    "ostanId": "7",
+    "shahrestanId": "124",
+    "amarCode": "180201"
+  },
+  {
+    "id": "264",
+    "name": "دوآب صمصامی",
+    "ostanId": "9",
+    "shahrestanId": "353",
+    "amarCode": "140603"
+  },
+  {
+    "id": "265",
+    "name": "دودانگه",
+    "ostanId": "27",
+    "shahrestanId": "233",
+    "amarCode": "20702"
+  },
+  {
+    "id": "266",
+    "name": "دهبکری",
+    "ostanId": "21",
+    "shahrestanId": "77",
+    "amarCode": "80208"
+  },
+  {
+    "id": "267",
+    "name": "دهج",
+    "ostanId": "21",
+    "shahrestanId": "279",
+    "amarCode": "80702"
+  },
+  {
+    "id": "268",
+    "name": "دهدز",
+    "ostanId": "13",
+    "shahrestanId": "51",
+    "amarCode": "60402"
+  },
+  {
+    "id": "269",
+    "name": "دهرم",
+    "ostanId": "17",
+    "shahrestanId": "301",
+    "amarCode": "72202"
+  },
+  {
+    "id": "270",
+    "name": "دهفری",
+    "ostanId": "27",
+    "shahrestanId": "307",
+    "amarCode": "22301"
+  },
+  {
+    "id": "271",
+    "name": "دیشموک",
+    "ostanId": "23",
+    "shahrestanId": "355",
+    "amarCode": "170206"
+  },
+  {
+    "id": "272",
+    "name": "دیلمان",
+    "ostanId": "25",
+    "shahrestanId": "262",
+    "amarCode": "11501"
+  },
+  {
+    "id": "273",
+    "name": "دینور",
+    "ostanId": "22",
+    "shahrestanId": "286",
+    "amarCode": "51001"
+  },
+  {
+    "id": "274",
+    "name": "دیهوک",
+    "ostanId": "10",
+    "shahrestanId": "290",
+    "amarCode": "291103"
+  },
+  {
+    "id": "275",
+    "name": "ذلقی",
+    "ostanId": "26",
+    "shahrestanId": "41",
+    "amarCode": "150104"
+  },
+  {
+    "id": "276",
+    "name": "رامند",
+    "ostanId": "18",
+    "shahrestanId": "91",
+    "amarCode": "260102"
+  },
+  {
+    "id": "277",
+    "name": "رانکوه",
+    "ostanId": "25",
+    "shahrestanId": "42",
+    "amarCode": "11301"
+  },
+  {
+    "id": "278",
+    "name": "راهگان",
+    "ostanId": "17",
+    "shahrestanId": "161",
+    "amarCode": "73402"
+  },
+  {
+    "id": "279",
+    "name": "راین",
+    "ostanId": "21",
+    "shahrestanId": "338",
+    "amarCode": "80806"
+  },
+  {
+    "id": "280",
+    "name": "رحمت آباد",
+    "ostanId": "17",
+    "shahrestanId": "226",
+    "amarCode": "73002"
+  },
+  {
+    "id": "281",
+    "name": "رحمت آباد و بلوکات",
+    "ostanId": "25",
+    "shahrestanId": "217",
+    "amarCode": "10601"
+  },
+  {
+    "id": "282",
+    "name": "رحیم آباد",
+    "ostanId": "25",
+    "shahrestanId": "219",
+    "amarCode": "10702"
+  },
+  {
+    "id": "283",
+    "name": "رستاق",
+    "ostanId": "17",
+    "shahrestanId": "175",
+    "amarCode": "70502"
+  },
+  {
+    "id": "284",
+    "name": "رضویه",
+    "ostanId": "11",
+    "shahrestanId": "396",
+    "amarCode": "91606"
+  },
+  {
+    "id": "285",
+    "name": "رغیوه",
+    "ostanId": "13",
+    "shahrestanId": "441",
+    "amarCode": "62201"
+  },
+  {
+    "id": "286",
+    "name": "روداب",
+    "ostanId": "11",
+    "shahrestanId": "237",
+    "amarCode": "90805"
+  },
+  {
+    "id": "287",
+    "name": "روداب",
+    "ostanId": "21",
+    "shahrestanId": "420",
+    "amarCode": "82102"
+  },
+  {
+    "id": "288",
+    "name": "رودبارالموت شرقی",
+    "ostanId": "18",
+    "shahrestanId": "322",
+    "amarCode": "260302"
+  },
+  {
+    "id": "289",
+    "name": "رودبارالموت غربی",
+    "ostanId": "18",
+    "shahrestanId": "322",
+    "amarCode": "260303"
+  },
+  {
+    "id": "290",
+    "name": "رودبارقصران",
+    "ostanId": "8",
+    "shahrestanId": "275",
+    "amarCode": "230401"
+  },
+  {
+    "id": "291",
+    "name": "رودبست",
+    "ostanId": "27",
+    "shahrestanId": "56",
+    "amarCode": "21604"
+  },
+  {
+    "id": "292",
+    "name": "رودبنه",
+    "ostanId": "25",
+    "shahrestanId": "376",
+    "amarCode": "11104"
+  },
+  {
+    "id": "293",
+    "name": "رودپی",
+    "ostanId": "27",
+    "shahrestanId": "233",
+    "amarCode": "20706"
+  },
+  {
+    "id": "294",
+    "name": "رودپی شمالی",
+    "ostanId": "27",
+    "shahrestanId": "233",
+    "amarCode": "20707"
+  },
+  {
+    "id": "295",
+    "name": "رودخانه",
+    "ostanId": "29",
+    "shahrestanId": "216",
+    "amarCode": "220701"
+  },
+  {
+    "id": "296",
+    "name": "روددشت",
+    "ostanId": "9",
+    "shahrestanId": "377",
+    "amarCode": "140405"
+  },
+  {
+    "id": "297",
+    "name": "رودزرد",
+    "ostanId": "13",
+    "shahrestanId": "205",
+    "amarCode": "61003"
+  },
+  {
+    "id": "298",
+    "name": "رودهن",
+    "ostanId": "8",
+    "shahrestanId": "191",
+    "amarCode": "230203"
+  },
+  {
+    "id": "299",
+    "name": "رونیز",
+    "ostanId": "17",
+    "shahrestanId": "28",
+    "amarCode": "70201"
+  },
+  {
+    "id": "300",
+    "name": "رویدر",
+    "ostanId": "29",
+    "shahrestanId": "164",
+    "amarCode": "221001"
+  },
+  {
+    "id": "301",
+    "name": "ریز",
+    "ostanId": "7",
+    "shahrestanId": "133",
+    "amarCode": "180901"
+  },
+  {
+    "id": "302",
+    "name": "ریگ",
+    "ostanId": "7",
+    "shahrestanId": "370",
+    "amarCode": "180702"
+  },
+  {
+    "id": "303",
+    "name": "ریگ ملک",
+    "ostanId": "16",
+    "shahrestanId": "415",
+    "amarCode": "111703"
+  },
+  {
+    "id": "304",
+    "name": "زارچ",
+    "ostanId": "31",
+    "shahrestanId": "448",
+    "amarCode": "210504"
+  },
+  {
+    "id": "305",
+    "name": "زاغه",
+    "ostanId": "26",
+    "shahrestanId": "157",
+    "amarCode": "150305"
+  },
+  {
+    "id": "306",
+    "name": "زاگرس",
+    "ostanId": "6",
+    "shahrestanId": "146",
+    "amarCode": "160405"
+  },
+  {
+    "id": "307",
+    "name": "زالیان",
+    "ostanId": "28",
+    "shahrestanId": "269",
+    "amarCode": "703"
+  },
+  {
+    "id": "308",
+    "name": "زاوین",
+    "ostanId": "11",
+    "shahrestanId": "340",
+    "amarCode": "92801"
+  },
+  {
+    "id": "309",
+    "name": "زاینده رود",
+    "ostanId": "9",
+    "shahrestanId": "234",
+    "amarCode": "140802"
+  },
+  {
+    "id": "310",
+    "name": "زبرخان",
+    "ostanId": "11",
+    "shahrestanId": "432",
+    "amarCode": "91702"
+  },
+  {
+    "id": "311",
+    "name": "زرآباد",
+    "ostanId": "16",
+    "shahrestanId": "345",
+    "amarCode": "110901"
+  },
+  {
+    "id": "312",
+    "name": "زرنه",
+    "ostanId": "6",
+    "shahrestanId": "54",
+    "amarCode": "160701"
+  },
+  {
+    "id": "313",
+    "name": "زرین آباد",
+    "ostanId": "6",
+    "shahrestanId": "196",
+    "amarCode": "160301"
+  },
+  {
+    "id": "314",
+    "name": "زرین دشت",
+    "ostanId": "30",
+    "shahrestanId": "428",
+    "amarCode": "130303"
+  },
+  {
+    "id": "315",
+    "name": "ززوماهرو",
+    "ostanId": "26",
+    "shahrestanId": "41",
+    "amarCode": "150102"
+  },
+  {
+    "id": "316",
+    "name": "زمکان",
+    "ostanId": "22",
+    "shahrestanId": "128",
+    "amarCode": "51203"
+  },
+  {
+    "id": "317",
+    "name": "زنجانرود",
+    "ostanId": "14",
+    "shahrestanId": "230",
+    "amarCode": "190402"
+  },
+  {
+    "id": "318",
+    "name": "زند",
+    "ostanId": "30",
+    "shahrestanId": "398",
+    "amarCode": "130204"
+  },
+  {
+    "id": "319",
+    "name": "زنده رود",
+    "ostanId": "4",
+    "shahrestanId": "305",
+    "amarCode": "100604"
+  },
+  {
+    "id": "320",
+    "name": "زواره",
+    "ostanId": "4",
+    "shahrestanId": "21",
+    "amarCode": "100102"
+  },
+  {
+    "id": "321",
+    "name": "زهان",
+    "ostanId": "10",
+    "shahrestanId": "232",
+    "amarCode": "290902"
+  },
+  {
+    "id": "322",
+    "name": "زیدآباد",
+    "ostanId": "21",
+    "shahrestanId": "264",
+    "amarCode": "80604"
+  },
+  {
+    "id": "323",
+    "name": "زیدون",
+    "ostanId": "13",
+    "shahrestanId": "95",
+    "amarCode": "60602"
+  },
+  {
+    "id": "324",
+    "name": "زیرآب",
+    "ostanId": "27",
+    "shahrestanId": "260",
+    "amarCode": "20803"
+  },
+  {
+    "id": "325",
+    "name": "زیلایی",
+    "ostanId": "23",
+    "shahrestanId": "381",
+    "amarCode": "170902"
+  },
+  {
+    "id": "326",
+    "name": "زیویه",
+    "ostanId": "20",
+    "shahrestanId": "252",
+    "amarCode": "120301"
+  },
+  {
+    "id": "327",
+    "name": "سارال",
+    "ostanId": "20",
+    "shahrestanId": "199",
+    "amarCode": "120703"
+  },
+  {
+    "id": "328",
+    "name": "ساربوک",
+    "ostanId": "16",
+    "shahrestanId": "325",
+    "amarCode": "111802"
+  },
+  {
+    "id": "329",
+    "name": "ساردوییه",
+    "ostanId": "21",
+    "shahrestanId": "138",
+    "amarCode": "80301"
+  },
+  {
+    "id": "330",
+    "name": "ساروق",
+    "ostanId": "28",
+    "shahrestanId": "19",
+    "amarCode": "103"
+  },
+  {
+    "id": "331",
+    "name": "سامن",
+    "ostanId": "30",
+    "shahrestanId": "398",
+    "amarCode": "130202"
+  },
+  {
+    "id": "332",
+    "name": "سبلان",
+    "ostanId": "3",
+    "shahrestanId": "249",
+    "amarCode": "241002"
+  },
+  {
+    "id": "333",
+    "name": "سجاس رود",
+    "ostanId": "14",
+    "shahrestanId": "155",
+    "amarCode": "190304"
+  },
+  {
+    "id": "334",
+    "name": "سده",
+    "ostanId": "10",
+    "shahrestanId": "318",
+    "amarCode": "290405"
+  },
+  {
+    "id": "335",
+    "name": "سده",
+    "ostanId": "17",
+    "shahrestanId": "39",
+    "amarCode": "70301"
+  },
+  {
+    "id": "336",
+    "name": "سراب باغ",
+    "ostanId": "6",
+    "shahrestanId": "3",
+    "amarCode": "160603"
+  },
+  {
+    "id": "337",
+    "name": "سراب میمه",
+    "ostanId": "6",
+    "shahrestanId": "196",
+    "amarCode": "160304"
+  },
+  {
+    "id": "338",
+    "name": "سراجو",
+    "ostanId": "1",
+    "shahrestanId": "389",
+    "amarCode": "30603"
+  },
+  {
+    "id": "339",
+    "name": "سربند",
+    "ostanId": "28",
+    "shahrestanId": "269",
+    "amarCode": "702"
+  },
+  {
+    "id": "340",
+    "name": "سرحد",
+    "ostanId": "12",
+    "shahrestanId": "284",
+    "amarCode": "280401"
+  },
+  {
+    "id": "341",
+    "name": "سرخرود",
+    "ostanId": "27",
+    "shahrestanId": "388",
+    "amarCode": "21801"
+  },
+  {
+    "id": "342",
+    "name": "سرخه",
+    "ostanId": "15",
+    "shahrestanId": "247",
+    "amarCode": "200801"
+  },
+  {
+    "id": "343",
+    "name": "سردارجنگل",
+    "ostanId": "25",
+    "shahrestanId": "312",
+    "amarCode": "10903"
+  },
+  {
+    "id": "344",
+    "name": "سردرود",
+    "ostanId": "30",
+    "shahrestanId": "209",
+    "amarCode": "130801"
+  },
+  {
+    "id": "345",
+    "name": "سردشت",
+    "ostanId": "13",
+    "shahrestanId": "183",
+    "amarCode": "60801"
+  },
+  {
+    "id": "346",
+    "name": "سرشیو",
+    "ostanId": "20",
+    "shahrestanId": "252",
+    "amarCode": "120303"
+  },
+  {
+    "id": "347",
+    "name": "سرشیو",
+    "ostanId": "20",
+    "shahrestanId": "393",
+    "amarCode": "120602"
+  },
+  {
+    "id": "348",
+    "name": "سرفاریاب",
+    "ostanId": "23",
+    "shahrestanId": "145",
+    "amarCode": "170602"
+  },
+  {
+    "id": "349",
+    "name": "سرولایت",
+    "ostanId": "11",
+    "shahrestanId": "432",
+    "amarCode": "91703"
+  },
+  {
+    "id": "350",
+    "name": "سریش آباد",
+    "ostanId": "20",
+    "shahrestanId": "321",
+    "amarCode": "120503"
+  },
+  {
+    "id": "351",
+    "name": "سعدآباد",
+    "ostanId": "7",
+    "shahrestanId": "185",
+    "amarCode": "180301"
+  },
+  {
+    "id": "352",
+    "name": "سلامی",
+    "ostanId": "11",
+    "shahrestanId": "169",
+    "amarCode": "91904"
+  },
+  {
+    "id": "353",
+    "name": "سلطان آباد",
+    "ostanId": "13",
+    "shahrestanId": "205",
+    "amarCode": "61004"
+  },
+  {
+    "id": "354",
+    "name": "سلفچگان",
+    "ostanId": "19",
+    "shahrestanId": "327",
+    "amarCode": "250105"
+  },
+  {
+    "id": "355",
+    "name": "سلمانشهر",
+    "ostanId": "27",
+    "shahrestanId": "292",
+    "amarCode": "22402"
+  },
+  {
+    "id": "356",
+    "name": "سلیمان",
+    "ostanId": "11",
+    "shahrestanId": "224",
+    "amarCode": "93502"
+  },
+  {
+    "id": "357",
+    "name": "سملقان",
+    "ostanId": "12",
+    "shahrestanId": "384",
+    "amarCode": "280601"
+  },
+  {
+    "id": "358",
+    "name": "سندرک",
+    "ostanId": "29",
+    "shahrestanId": "416",
+    "amarCode": "220502"
+  },
+  {
+    "id": "359",
+    "name": "سنگان",
+    "ostanId": "11",
+    "shahrestanId": "169",
+    "amarCode": "91901"
+  },
+  {
+    "id": "360",
+    "name": "سنگر",
+    "ostanId": "25",
+    "shahrestanId": "211",
+    "amarCode": "10502"
+  },
+  {
+    "id": "361",
+    "name": "سورنا",
+    "ostanId": "17",
+    "shahrestanId": "210",
+    "amarCode": "72601"
+  },
+  {
+    "id": "362",
+    "name": "سوری",
+    "ostanId": "26",
+    "shahrestanId": "220",
+    "amarCode": "151101"
+  },
+  {
+    "id": "363",
+    "name": "سوسن",
+    "ostanId": "13",
+    "shahrestanId": "51",
+    "amarCode": "60404"
+  },
+  {
+    "id": "364",
+    "name": "سوق",
+    "ostanId": "23",
+    "shahrestanId": "355",
+    "amarCode": "170207"
+  },
+  {
+    "id": "365",
+    "name": "سومار",
+    "ostanId": "22",
+    "shahrestanId": "324",
+    "amarCode": "50601"
+  },
+  {
+    "id": "366",
+    "name": "سویسه",
+    "ostanId": "13",
+    "shahrestanId": "330",
+    "amarCode": "62702"
+  },
+  {
+    "id": "367",
+    "name": "سه قلعه",
+    "ostanId": "10",
+    "shahrestanId": "241",
+    "amarCode": "290602"
+  },
+  {
+    "id": "368",
+    "name": "سیجوال",
+    "ostanId": "24",
+    "shahrestanId": "118",
+    "amarCode": "270203"
+  },
+  {
+    "id": "369",
+    "name": "سیدان",
+    "ostanId": "17",
+    "shahrestanId": "392",
+    "amarCode": "71206"
+  },
+  {
+    "id": "370",
+    "name": "سیراف",
+    "ostanId": "7",
+    "shahrestanId": "346",
+    "amarCode": "180603"
+  },
+  {
+    "id": "371",
+    "name": "سیروان",
+    "ostanId": "20",
+    "shahrestanId": "259",
+    "amarCode": "120406"
+  },
+  {
+    "id": "372",
+    "name": "سیلاخور",
+    "ostanId": "26",
+    "shahrestanId": "193",
+    "amarCode": "150501"
+  },
+  {
+    "id": "373",
+    "name": "سیلوانه",
+    "ostanId": "2",
+    "shahrestanId": "26",
+    "amarCode": "40102"
+  },
+  {
+    "id": "374",
+    "name": "سیمکان",
+    "ostanId": "17",
+    "shahrestanId": "137",
+    "amarCode": "70402"
+  },
+  {
+    "id": "375",
+    "name": "سیمینه",
+    "ostanId": "2",
+    "shahrestanId": "89",
+    "amarCode": "41001"
+  },
+  {
+    "id": "376",
+    "name": "سیوان",
+    "ostanId": "6",
+    "shahrestanId": "53",
+    "amarCode": "160104"
+  },
+  {
+    "id": "377",
+    "name": "سیه رود",
+    "ostanId": "1",
+    "shahrestanId": "132",
+    "amarCode": "31901"
+  },
+  {
+    "id": "378",
+    "name": "شادمهر",
+    "ostanId": "11",
+    "shahrestanId": "403",
+    "amarCode": "93001"
+  },
+  {
+    "id": "379",
+    "name": "شادیان",
+    "ostanId": "1",
+    "shahrestanId": "140",
+    "amarCode": "32301"
+  },
+  {
+    "id": "380",
+    "name": "شاسکوه",
+    "ostanId": "10",
+    "shahrestanId": "232",
+    "amarCode": "290903"
+  },
+  {
+    "id": "381",
+    "name": "شال",
+    "ostanId": "18",
+    "shahrestanId": "91",
+    "amarCode": "260103"
+  },
+  {
+    "id": "382",
+    "name": "شاندرمن",
+    "ostanId": "25",
+    "shahrestanId": "382",
+    "amarCode": "11601"
+  },
+  {
+    "id": "383",
+    "name": "شاندیز",
+    "ostanId": "11",
+    "shahrestanId": "102",
+    "amarCode": "93202"
+  },
+  {
+    "id": "384",
+    "name": "شاوور",
+    "ostanId": "13",
+    "shahrestanId": "276",
+    "amarCode": "61401"
+  },
+  {
+    "id": "385",
+    "name": "شاهرود",
+    "ostanId": "3",
+    "shahrestanId": "162",
+    "amarCode": "240303"
+  },
+  {
+    "id": "386",
+    "name": "شاهنجرین",
+    "ostanId": "30",
+    "shahrestanId": "180",
+    "amarCode": "131001"
+  },
+  {
+    "id": "387",
+    "name": "شاهو",
+    "ostanId": "22",
+    "shahrestanId": "215",
+    "amarCode": "51401"
+  },
+  {
+    "id": "388",
+    "name": "شاهیوند",
+    "ostanId": "26",
+    "shahrestanId": "147",
+    "amarCode": "151002"
+  },
+  {
+    "id": "389",
+    "name": "شباب",
+    "ostanId": "6",
+    "shahrestanId": "146",
+    "amarCode": "160404"
+  },
+  {
+    "id": "390",
+    "name": "شبانکاره",
+    "ostanId": "7",
+    "shahrestanId": "185",
+    "amarCode": "180302"
+  },
+  {
+    "id": "391",
+    "name": "شراء",
+    "ostanId": "30",
+    "shahrestanId": "443",
+    "amarCode": "130405"
+  },
+  {
+    "id": "392",
+    "name": "شریف آباد",
+    "ostanId": "8",
+    "shahrestanId": "106",
+    "amarCode": "231301"
+  },
+  {
+    "id": "393",
+    "name": "ششتمد",
+    "ostanId": "11",
+    "shahrestanId": "237",
+    "amarCode": "90806"
+  },
+  {
+    "id": "394",
+    "name": "ششده وقره بلاغ",
+    "ostanId": "17",
+    "shahrestanId": "309",
+    "amarCode": "70801"
+  },
+  {
+    "id": "395",
+    "name": "ششطراز",
+    "ostanId": "11",
+    "shahrestanId": "163",
+    "amarCode": "92901"
+  },
+  {
+    "id": "396",
+    "name": "شعیبیه",
+    "ostanId": "13",
+    "shahrestanId": "277",
+    "amarCode": "61203"
+  },
+  {
+    "id": "397",
+    "name": "شنبه و طسوج",
+    "ostanId": "7",
+    "shahrestanId": "186",
+    "amarCode": "180403"
+  },
+  {
+    "id": "398",
+    "name": "شوسف",
+    "ostanId": "10",
+    "shahrestanId": "429",
+    "amarCode": "290501"
+  },
+  {
+    "id": "399",
+    "name": "شهاب",
+    "ostanId": "29",
+    "shahrestanId": "323",
+    "amarCode": "220401"
+  },
+  {
+    "id": "400",
+    "name": "شهداد",
+    "ostanId": "21",
+    "shahrestanId": "338",
+    "amarCode": "80802"
+  },
+  {
+    "id": "401",
+    "name": "شهرآباد",
+    "ostanId": "11",
+    "shahrestanId": "69",
+    "amarCode": "92303"
+  },
+  {
+    "id": "402",
+    "name": "شهمیرزاد",
+    "ostanId": "15",
+    "shahrestanId": "405",
+    "amarCode": "200501"
+  },
+  {
+    "id": "403",
+    "name": "شهیون",
+    "ostanId": "13",
+    "shahrestanId": "183",
+    "amarCode": "60804"
+  },
+  {
+    "id": "404",
+    "name": "شیبکوه",
+    "ostanId": "17",
+    "shahrestanId": "309",
+    "amarCode": "70802"
+  },
+  {
+    "id": "405",
+    "name": "شیبکوه",
+    "ostanId": "29",
+    "shahrestanId": "84",
+    "amarCode": "220302"
+  },
+  {
+    "id": "406",
+    "name": "شیدا",
+    "ostanId": "9",
+    "shahrestanId": "79",
+    "amarCode": "140902"
+  },
+  {
+    "id": "407",
+    "name": "شیرین سو",
+    "ostanId": "30",
+    "shahrestanId": "335",
+    "amarCode": "130503"
+  },
+  {
+    "id": "408",
+    "name": "صابری",
+    "ostanId": "16",
+    "shahrestanId": "434",
+    "amarCode": "111502"
+  },
+  {
+    "id": "409",
+    "name": "صالح آباد",
+    "ostanId": "6",
+    "shahrestanId": "407",
+    "amarCode": "160502"
+  },
+  {
+    "id": "410",
+    "name": "صالح آباد",
+    "ostanId": "30",
+    "shahrestanId": "93",
+    "amarCode": "130703"
+  },
+  {
+    "id": "411",
+    "name": "صحرای باغ",
+    "ostanId": "17",
+    "shahrestanId": "373",
+    "amarCode": "71108"
+  },
+  {
+    "id": "412",
+    "name": "صفا دشت",
+    "ostanId": "8",
+    "shahrestanId": "397",
+    "amarCode": "231702"
+  },
+  {
+    "id": "413",
+    "name": "صفاییه",
+    "ostanId": "2",
+    "shahrestanId": "174",
+    "amarCode": "40303"
+  },
+  {
+    "id": "414",
+    "name": "صوغان",
+    "ostanId": "21",
+    "shahrestanId": "24",
+    "amarCode": "82302"
+  },
+  {
+    "id": "415",
+    "name": "صوفیان",
+    "ostanId": "1",
+    "shahrestanId": "273",
+    "amarCode": "31401"
+  },
+  {
+    "id": "416",
+    "name": "صومای برادوست",
+    "ostanId": "2",
+    "shahrestanId": "26",
+    "amarCode": "40103"
+  },
+  {
+    "id": "417",
+    "name": "صیدون",
+    "ostanId": "13",
+    "shahrestanId": "59",
+    "amarCode": "61503"
+  },
+  {
+    "id": "418",
+    "name": "ضیاءآباد",
+    "ostanId": "18",
+    "shahrestanId": "113",
+    "amarCode": "260203"
+  },
+  {
+    "id": "419",
+    "name": "طارم سفلی",
+    "ostanId": "18",
+    "shahrestanId": "322",
+    "amarCode": "260304"
+  },
+  {
+    "id": "420",
+    "name": "طاغنکوه",
+    "ostanId": "11",
+    "shahrestanId": "316",
+    "amarCode": "93302"
+  },
+  {
+    "id": "421",
+    "name": "طرقبه",
+    "ostanId": "11",
+    "shahrestanId": "102",
+    "amarCode": "93201"
+  },
+  {
+    "id": "422",
+    "name": "طرهان",
+    "ostanId": "26",
+    "shahrestanId": "352",
+    "amarCode": "150602"
+  },
+  {
+    "id": "423",
+    "name": "طسوج",
+    "ostanId": "17",
+    "shahrestanId": "348",
+    "amarCode": "72802"
+  },
+  {
+    "id": "424",
+    "name": "طغرل الجرد",
+    "ostanId": "21",
+    "shahrestanId": "351",
+    "amarCode": "81401"
+  },
+  {
+    "id": "425",
+    "name": "عطاملک",
+    "ostanId": "11",
+    "shahrestanId": "136",
+    "amarCode": "93602"
+  },
+  {
+    "id": "426",
+    "name": "عقدا",
+    "ostanId": "31",
+    "shahrestanId": "22",
+    "amarCode": "210103"
+  },
+  {
+    "id": "427",
+    "name": "عقیلی",
+    "ostanId": "13",
+    "shahrestanId": "359",
+    "amarCode": "62001"
+  },
+  {
+    "id": "428",
+    "name": "علامرودشت",
+    "ostanId": "17",
+    "shahrestanId": "375",
+    "amarCode": "71504"
+  },
+  {
+    "id": "429",
+    "name": "عمارلو",
+    "ostanId": "25",
+    "shahrestanId": "217",
+    "amarCode": "10602"
+  },
+  {
+    "id": "430",
+    "name": "عنبر",
+    "ostanId": "13",
+    "shahrestanId": "394",
+    "amarCode": "61305"
+  },
+  {
+    "id": "431",
+    "name": "عنبران",
+    "ostanId": "3",
+    "shahrestanId": "425",
+    "amarCode": "240803"
+  },
+  {
+    "id": "432",
+    "name": "غلامان",
+    "ostanId": "12",
+    "shahrestanId": "201",
+    "amarCode": "280802"
+  },
+  {
+    "id": "433",
+    "name": "غیزانیه",
+    "ostanId": "13",
+    "shahrestanId": "49",
+    "amarCode": "60305"
+  },
+  {
+    "id": "434",
+    "name": "فارغان",
+    "ostanId": "29",
+    "shahrestanId": "149",
+    "amarCode": "220801"
+  },
+  {
+    "id": "435",
+    "name": "فتح المبین",
+    "ostanId": "13",
+    "shahrestanId": "276",
+    "amarCode": "61403"
+  },
+  {
+    "id": "436",
+    "name": "فرح دشت",
+    "ostanId": "11",
+    "shahrestanId": "333",
+    "amarCode": "91405"
+  },
+  {
+    "id": "437",
+    "name": "فرخشهر",
+    "ostanId": "9",
+    "shahrestanId": "281",
+    "amarCode": "140206"
+  },
+  {
+    "id": "438",
+    "name": "فردوس",
+    "ostanId": "21",
+    "shahrestanId": "214",
+    "amarCode": "80405"
+  },
+  {
+    "id": "439",
+    "name": "فسارود",
+    "ostanId": "17",
+    "shahrestanId": "175",
+    "amarCode": "70506"
+  },
+  {
+    "id": "440",
+    "name": "فشاپویه",
+    "ostanId": "8",
+    "shahrestanId": "221",
+    "amarCode": "230302"
+  },
+  {
+    "id": "441",
+    "name": "فلارد",
+    "ostanId": "9",
+    "shahrestanId": "377",
+    "amarCode": "140401"
+  },
+  {
+    "id": "442",
+    "name": "فندرسک",
+    "ostanId": "24",
+    "shahrestanId": "206",
+    "amarCode": "271101"
+  },
+  {
+    "id": "443",
+    "name": "فندقلو",
+    "ostanId": "1",
+    "shahrestanId": "48",
+    "amarCode": "30205"
+  },
+  {
+    "id": "444",
+    "name": "فورگ",
+    "ostanId": "17",
+    "shahrestanId": "175",
+    "amarCode": "70504"
+  },
+  {
+    "id": "445",
+    "name": "فیرورق",
+    "ostanId": "2",
+    "shahrestanId": "174",
+    "amarCode": "40306"
+  },
+  {
+    "id": "446",
+    "name": "فیروز",
+    "ostanId": "3",
+    "shahrestanId": "349",
+    "amarCode": "240702"
+  },
+  {
+    "id": "447",
+    "name": "فیروزآباد",
+    "ostanId": "26",
+    "shahrestanId": "253",
+    "amarCode": "150901"
+  },
+  {
+    "id": "448",
+    "name": "فیروزاباد",
+    "ostanId": "22",
+    "shahrestanId": "339",
+    "amarCode": "50203"
+  },
+  {
+    "id": "449",
+    "name": "فین",
+    "ostanId": "29",
+    "shahrestanId": "82",
+    "amarCode": "220203"
+  },
+  {
+    "id": "450",
+    "name": "قرقری",
+    "ostanId": "16",
+    "shahrestanId": "447",
+    "amarCode": "111102"
+  },
+  {
+    "id": "451",
+    "name": "قره پشتلو",
+    "ostanId": "14",
+    "shahrestanId": "230",
+    "amarCode": "190406"
+  },
+  {
+    "id": "452",
+    "name": "قره چای",
+    "ostanId": "28",
+    "shahrestanId": "168",
+    "amarCode": "1201"
+  },
+  {
+    "id": "453",
+    "name": "قره قویون",
+    "ostanId": "2",
+    "shahrestanId": "278",
+    "amarCode": "41701"
+  },
+  {
+    "id": "454",
+    "name": "قره کهریز",
+    "ostanId": "28",
+    "shahrestanId": "269",
+    "amarCode": "704"
+  },
+  {
+    "id": "455",
+    "name": "قشلاق دشت",
+    "ostanId": "3",
+    "shahrestanId": "101",
+    "amarCode": "240202"
+  },
+  {
+    "id": "456",
+    "name": "قصابه",
+    "ostanId": "3",
+    "shahrestanId": "395",
+    "amarCode": "240405"
+  },
+  {
+    "id": "457",
+    "name": "قطرویه",
+    "ostanId": "17",
+    "shahrestanId": "430",
+    "amarCode": "71404"
+  },
+  {
+    "id": "458",
+    "name": "قطور",
+    "ostanId": "2",
+    "shahrestanId": "174",
+    "amarCode": "40305"
+  },
+  {
+    "id": "459",
+    "name": "قلعه چای",
+    "ostanId": "1",
+    "shahrestanId": "293",
+    "amarCode": "32501"
+  },
+  {
+    "id": "460",
+    "name": "قلعه شاهین",
+    "ostanId": "22",
+    "shahrestanId": "244",
+    "amarCode": "50402"
+  },
+  {
+    "id": "461",
+    "name": "قلعه قاضی",
+    "ostanId": "29",
+    "shahrestanId": "82",
+    "amarCode": "220206"
+  },
+  {
+    "id": "462",
+    "name": "قلعه نو",
+    "ostanId": "8",
+    "shahrestanId": "221",
+    "amarCode": "230306"
+  },
+  {
+    "id": "463",
+    "name": "قلقل رود",
+    "ostanId": "30",
+    "shahrestanId": "125",
+    "amarCode": "130101"
+  },
+  {
+    "id": "464",
+    "name": "قلندرآباد",
+    "ostanId": "11",
+    "shahrestanId": "308",
+    "amarCode": "92201"
+  },
+  {
+    "id": "465",
+    "name": "قمصر",
+    "ostanId": "4",
+    "shahrestanId": "332",
+    "amarCode": "101002"
+  },
+  {
+    "id": "466",
+    "name": "قوشخانه",
+    "ostanId": "12",
+    "shahrestanId": "284",
+    "amarCode": "280403"
+  },
+  {
+    "id": "467",
+    "name": "قهدریجان",
+    "ostanId": "4",
+    "shahrestanId": "310",
+    "amarCode": "100803"
+  },
+  {
+    "id": "468",
+    "name": "قهستان",
+    "ostanId": "10",
+    "shahrestanId": "181",
+    "amarCode": "290201"
+  },
+  {
+    "id": "469",
+    "name": "کاخک",
+    "ostanId": "11",
+    "shahrestanId": "369",
+    "amarCode": "91503"
+  },
+  {
+    "id": "470",
+    "name": "کارزان",
+    "ostanId": "6",
+    "shahrestanId": "265",
+    "amarCode": "160902"
+  },
+  {
+    "id": "471",
+    "name": "کاغذکنان",
+    "ostanId": "1",
+    "shahrestanId": "413",
+    "amarCode": "31002"
+  },
+  {
+    "id": "472",
+    "name": "کاکاوند",
+    "ostanId": "26",
+    "shahrestanId": "188",
+    "amarCode": "150401"
+  },
+  {
+    "id": "473",
+    "name": "کاکی",
+    "ostanId": "7",
+    "shahrestanId": "186",
+    "amarCode": "180401"
+  },
+  {
+    "id": "474",
+    "name": "کالپوش",
+    "ostanId": "15",
+    "shahrestanId": "410",
+    "amarCode": "200702"
+  },
+  {
+    "id": "475",
+    "name": "کامفیروز",
+    "ostanId": "17",
+    "shahrestanId": "392",
+    "amarCode": "71203"
+  },
+  {
+    "id": "476",
+    "name": "کامفیروز شمالی",
+    "ostanId": "17",
+    "shahrestanId": "392",
+    "amarCode": "71207"
+  },
+  {
+    "id": "477",
+    "name": "کبگیان",
+    "ostanId": "23",
+    "shahrestanId": "90",
+    "amarCode": "170105"
+  },
+  {
+    "id": "478",
+    "name": "کجور",
+    "ostanId": "27",
+    "shahrestanId": "427",
+    "amarCode": "21502"
+  },
+  {
+    "id": "479",
+    "name": "کدکن",
+    "ostanId": "11",
+    "shahrestanId": "117",
+    "amarCode": "90505"
+  },
+  {
+    "id": "480",
+    "name": "کرانی",
+    "ostanId": "20",
+    "shahrestanId": "98",
+    "amarCode": "120202"
+  },
+  {
+    "id": "481",
+    "name": "کربال",
+    "ostanId": "17",
+    "shahrestanId": "156",
+    "amarCode": "72901"
+  },
+  {
+    "id": "482",
+    "name": "کرچمبو",
+    "ostanId": "4",
+    "shahrestanId": "86",
+    "amarCode": "102402"
+  },
+  {
+    "id": "483",
+    "name": "کردیان",
+    "ostanId": "17",
+    "shahrestanId": "137",
+    "amarCode": "70403"
+  },
+  {
+    "id": "484",
+    "name": "کرفتو",
+    "ostanId": "20",
+    "shahrestanId": "199",
+    "amarCode": "120701"
+  },
+  {
+    "id": "485",
+    "name": "کرگان رود",
+    "ostanId": "25",
+    "shahrestanId": "291",
+    "amarCode": "10404"
+  },
+  {
+    "id": "486",
+    "name": "کرون",
+    "ostanId": "4",
+    "shahrestanId": "127",
+    "amarCode": "101901"
+  },
+  {
+    "id": "487",
+    "name": "کشاورز",
+    "ostanId": "2",
+    "shahrestanId": "271",
+    "amarCode": "41102"
+  },
+  {
+    "id": "488",
+    "name": "کشکوییه",
+    "ostanId": "21",
+    "shahrestanId": "214",
+    "amarCode": "80403"
+  },
+  {
+    "id": "489",
+    "name": "کلات",
+    "ostanId": "6",
+    "shahrestanId": "3",
+    "amarCode": "160601"
+  },
+  {
+    "id": "490",
+    "name": "کلاتان",
+    "ostanId": "16",
+    "shahrestanId": "78",
+    "amarCode": "112002"
+  },
+  {
+    "id": "491",
+    "name": "کلاترزان",
+    "ostanId": "20",
+    "shahrestanId": "259",
+    "amarCode": "120404"
+  },
+  {
+    "id": "492",
+    "name": "کلاچای",
+    "ostanId": "25",
+    "shahrestanId": "219",
+    "amarCode": "10705"
+  },
+  {
+    "id": "493",
+    "name": "کلار",
+    "ostanId": "27",
+    "shahrestanId": "292",
+    "amarCode": "22403"
+  },
+  {
+    "id": "494",
+    "name": "کلاشی",
+    "ostanId": "22",
+    "shahrestanId": "134",
+    "amarCode": "50904"
+  },
+  {
+    "id": "495",
+    "name": "کلباد",
+    "ostanId": "27",
+    "shahrestanId": "367",
+    "amarCode": "22201"
+  },
+  {
+    "id": "496",
+    "name": "کلیایی",
+    "ostanId": "22",
+    "shahrestanId": "258",
+    "amarCode": "50502"
+  },
+  {
+    "id": "497",
+    "name": "کلیجان رستاق",
+    "ostanId": "27",
+    "shahrestanId": "233",
+    "amarCode": "20705"
+  },
+  {
+    "id": "498",
+    "name": "کمالان",
+    "ostanId": "24",
+    "shahrestanId": "295",
+    "amarCode": "270302"
+  },
+  {
+    "id": "499",
+    "name": "کمره",
+    "ostanId": "28",
+    "shahrestanId": "165",
+    "amarCode": "402"
+  },
+  {
+    "id": "500",
+    "name": "کن",
+    "ostanId": "8",
+    "shahrestanId": "126",
+    "amarCode": "230101"
+  },
+  {
+    "id": "501",
+    "name": "کنار تخته و کمارج",
+    "ostanId": "17",
+    "shahrestanId": "331",
+    "amarCode": "71002"
+  },
+  {
+    "id": "502",
+    "name": "کندوان",
+    "ostanId": "1",
+    "shahrestanId": "413",
+    "amarCode": "31003"
+  },
+  {
+    "id": "503",
+    "name": "کوچصفهان",
+    "ostanId": "25",
+    "shahrestanId": "211",
+    "amarCode": "10503"
+  },
+  {
+    "id": "504",
+    "name": "کوخرد-هرنگ",
+    "ostanId": "29",
+    "shahrestanId": "74",
+    "amarCode": "220903"
+  },
+  {
+    "id": "505",
+    "name": "کوراییم",
+    "ostanId": "3",
+    "shahrestanId": "431",
+    "amarCode": "240902"
+  },
+  {
+    "id": "506",
+    "name": "کورین",
+    "ostanId": "16",
+    "shahrestanId": "225",
+    "amarCode": "110504"
+  },
+  {
+    "id": "507",
+    "name": "کوزران",
+    "ostanId": "22",
+    "shahrestanId": "339",
+    "amarCode": "50207"
+  },
+  {
+    "id": "508",
+    "name": "کوشکنار",
+    "ostanId": "29",
+    "shahrestanId": "104",
+    "amarCode": "221101"
+  },
+  {
+    "id": "509",
+    "name": "کومله",
+    "ostanId": "25",
+    "shahrestanId": "380",
+    "amarCode": "11003"
+  },
+  {
+    "id": "510",
+    "name": "کوهپایه",
+    "ostanId": "4",
+    "shahrestanId": "37",
+    "amarCode": "100202"
+  },
+  {
+    "id": "511",
+    "name": "کوهسار",
+    "ostanId": "2",
+    "shahrestanId": "255",
+    "amarCode": "40502"
+  },
+  {
+    "id": "512",
+    "name": "کوهسارات",
+    "ostanId": "24",
+    "shahrestanId": "417",
+    "amarCode": "270705"
+  },
+  {
+    "id": "513",
+    "name": "کوهساران",
+    "ostanId": "21",
+    "shahrestanId": "207",
+    "amarCode": "81101"
+  },
+  {
+    "id": "514",
+    "name": "کوهمره",
+    "ostanId": "17",
+    "shahrestanId": "350",
+    "amarCode": "73302"
+  },
+  {
+    "id": "515",
+    "name": "کوهنانی",
+    "ostanId": "26",
+    "shahrestanId": "352",
+    "amarCode": "150604"
+  },
+  {
+    "id": "516",
+    "name": "کوهنجان",
+    "ostanId": "17",
+    "shahrestanId": "251",
+    "amarCode": "72501"
+  },
+  {
+    "id": "517",
+    "name": "کوهین",
+    "ostanId": "18",
+    "shahrestanId": "322",
+    "amarCode": "260307"
+  },
+  {
+    "id": "518",
+    "name": "کویرات",
+    "ostanId": "4",
+    "shahrestanId": "7",
+    "amarCode": "101801"
+  },
+  {
+    "id": "519",
+    "name": "کهریزک",
+    "ostanId": "8",
+    "shahrestanId": "221",
+    "amarCode": "230303"
+  },
+  {
+    "id": "520",
+    "name": "کهک",
+    "ostanId": "19",
+    "shahrestanId": "327",
+    "amarCode": "250104"
+  },
+  {
+    "id": "521",
+    "name": "کهن آباد",
+    "ostanId": "15",
+    "shahrestanId": "6",
+    "amarCode": "200602"
+  },
+  {
+    "id": "522",
+    "name": "کیاشهر",
+    "ostanId": "25",
+    "shahrestanId": "10",
+    "amarCode": "10201"
+  },
+  {
+    "id": "523",
+    "name": "کیش",
+    "ostanId": "29",
+    "shahrestanId": "84",
+    "amarCode": "220303"
+  },
+  {
+    "id": "524",
+    "name": "کیشکور",
+    "ostanId": "16",
+    "shahrestanId": "242",
+    "amarCode": "112302"
+  },
+  {
+    "id": "525",
+    "name": "گاریزات",
+    "ostanId": "31",
+    "shahrestanId": "119",
+    "amarCode": "210304"
+  },
+  {
+    "id": "526",
+    "name": "گافروپارمون",
+    "ostanId": "29",
+    "shahrestanId": "75",
+    "amarCode": "221303"
+  },
+  {
+    "id": "527",
+    "name": "گتاب",
+    "ostanId": "27",
+    "shahrestanId": "55",
+    "amarCode": "20206"
+  },
+  {
+    "id": "528",
+    "name": "گتیج",
+    "ostanId": "16",
+    "shahrestanId": "311",
+    "amarCode": "111902"
+  },
+  {
+    "id": "529",
+    "name": "گچی",
+    "ostanId": "6",
+    "shahrestanId": "400",
+    "amarCode": "160802"
+  },
+  {
+    "id": "530",
+    "name": "گرکن جنوبی",
+    "ostanId": "4",
+    "shahrestanId": "386",
+    "amarCode": "101702"
+  },
+  {
+    "id": "531",
+    "name": "گرمادوز",
+    "ostanId": "1",
+    "shahrestanId": "154",
+    "amarCode": "32602"
+  },
+  {
+    "id": "532",
+    "name": "گرمخان",
+    "ostanId": "12",
+    "shahrestanId": "65",
+    "amarCode": "280205"
+  },
+  {
+    "id": "533",
+    "name": "گزیک",
+    "ostanId": "10",
+    "shahrestanId": "181",
+    "amarCode": "290202"
+  },
+  {
+    "id": "534",
+    "name": "گل تپه",
+    "ostanId": "30",
+    "shahrestanId": "335",
+    "amarCode": "130501"
+  },
+  {
+    "id": "535",
+    "name": "گلباف",
+    "ostanId": "21",
+    "shahrestanId": "338",
+    "amarCode": "80803"
+  },
+  {
+    "id": "536",
+    "name": "گلبهار",
+    "ostanId": "11",
+    "shahrestanId": "148",
+    "amarCode": "91801"
+  },
+  {
+    "id": "537",
+    "name": "گلدشت",
+    "ostanId": "24",
+    "shahrestanId": "368",
+    "amarCode": "271302"
+  },
+  {
+    "id": "538",
+    "name": "گلزار",
+    "ostanId": "21",
+    "shahrestanId": "70",
+    "amarCode": "81003"
+  },
+  {
+    "id": "539",
+    "name": "گلستان",
+    "ostanId": "8",
+    "shahrestanId": "94",
+    "amarCode": "231901"
+  },
+  {
+    "id": "540",
+    "name": "گلستان",
+    "ostanId": "21",
+    "shahrestanId": "264",
+    "amarCode": "80603"
+  },
+  {
+    "id": "541",
+    "name": "گلگیر",
+    "ostanId": "13",
+    "shahrestanId": "394",
+    "amarCode": "61304"
+  },
+  {
+    "id": "542",
+    "name": "گله دار",
+    "ostanId": "17",
+    "shahrestanId": "406",
+    "amarCode": "72101"
+  },
+  {
+    "id": "543",
+    "name": "گلی داغ",
+    "ostanId": "24",
+    "shahrestanId": "390",
+    "amarCode": "271202"
+  },
+  {
+    "id": "544",
+    "name": "گمبوعه",
+    "ostanId": "13",
+    "shahrestanId": "150",
+    "amarCode": "62502"
+  },
+  {
+    "id": "545",
+    "name": "گنبکی",
+    "ostanId": "21",
+    "shahrestanId": "222",
+    "amarCode": "81701"
+  },
+  {
+    "id": "546",
+    "name": "گندمان",
+    "ostanId": "9",
+    "shahrestanId": "72",
+    "amarCode": "140102"
+  },
+  {
+    "id": "547",
+    "name": "گواور",
+    "ostanId": "22",
+    "shahrestanId": "372",
+    "amarCode": "50802"
+  },
+  {
+    "id": "548",
+    "name": "گوگان",
+    "ostanId": "1",
+    "shahrestanId": "5",
+    "amarCode": "32101"
+  },
+  {
+    "id": "549",
+    "name": "گوهران",
+    "ostanId": "29",
+    "shahrestanId": "75",
+    "amarCode": "221302"
+  },
+  {
+    "id": "550",
+    "name": "گوهرکوه",
+    "ostanId": "16",
+    "shahrestanId": "120",
+    "amarCode": "112103"
+  },
+  {
+    "id": "551",
+    "name": "گهرباران",
+    "ostanId": "27",
+    "shahrestanId": "412",
+    "amarCode": "22502"
+  },
+  {
+    "id": "552",
+    "name": "گهواره",
+    "ostanId": "22",
+    "shahrestanId": "176",
+    "amarCode": "51301"
+  },
+  {
+    "id": "553",
+    "name": "گیان",
+    "ostanId": "30",
+    "shahrestanId": "428",
+    "amarCode": "130304"
+  },
+  {
+    "id": "554",
+    "name": "گیل خوران",
+    "ostanId": "27",
+    "shahrestanId": "135",
+    "amarCode": "22101"
+  },
+  {
+    "id": "555",
+    "name": "گیلوان",
+    "ostanId": "14",
+    "shahrestanId": "288",
+    "amarCode": "190803"
+  },
+  {
+    "id": "556",
+    "name": "لاجان",
+    "ostanId": "2",
+    "shahrestanId": "111",
+    "amarCode": "40202"
+  },
+  {
+    "id": "557",
+    "name": "لادیز",
+    "ostanId": "16",
+    "shahrestanId": "415",
+    "amarCode": "111702"
+  },
+  {
+    "id": "558",
+    "name": "لاران",
+    "ostanId": "9",
+    "shahrestanId": "281",
+    "amarCode": "140205"
+  },
+  {
+    "id": "559",
+    "name": "لاریجان",
+    "ostanId": "27",
+    "shahrestanId": "14",
+    "amarCode": "20101"
+  },
+  {
+    "id": "560",
+    "name": "لاشار",
+    "ostanId": "16",
+    "shahrestanId": "433",
+    "amarCode": "110704"
+  },
+  {
+    "id": "561",
+    "name": "لالجین",
+    "ostanId": "30",
+    "shahrestanId": "93",
+    "amarCode": "130701"
+  },
+  {
+    "id": "562",
+    "name": "لاله آباد",
+    "ostanId": "27",
+    "shahrestanId": "55",
+    "amarCode": "20205"
+  },
+  {
+    "id": "563",
+    "name": "لاله زار",
+    "ostanId": "21",
+    "shahrestanId": "70",
+    "amarCode": "81002"
+  },
+  {
+    "id": "564",
+    "name": "لشت نشاء",
+    "ostanId": "25",
+    "shahrestanId": "211",
+    "amarCode": "10504"
+  },
+  {
+    "id": "565",
+    "name": "لطف آباد",
+    "ostanId": "11",
+    "shahrestanId": "179",
+    "amarCode": "90702"
+  },
+  {
+    "id": "566",
+    "name": "لواسانات",
+    "ostanId": "8",
+    "shahrestanId": "275",
+    "amarCode": "230402"
+  },
+  {
+    "id": "567",
+    "name": "لوداب",
+    "ostanId": "23",
+    "shahrestanId": "90",
+    "amarCode": "170104"
+  },
+  {
+    "id": "568",
+    "name": "لوندویل",
+    "ostanId": "25",
+    "shahrestanId": "9",
+    "amarCode": "10102"
+  },
+  {
+    "id": "569",
+    "name": "لوه",
+    "ostanId": "24",
+    "shahrestanId": "358",
+    "amarCode": "271402"
+  },
+  {
+    "id": "570",
+    "name": "لیردف",
+    "ostanId": "29",
+    "shahrestanId": "130",
+    "amarCode": "220603"
+  },
+  {
+    "id": "571",
+    "name": "لیلان",
+    "ostanId": "1",
+    "shahrestanId": "399",
+    "amarCode": "32001"
+  },
+  {
+    "id": "572",
+    "name": "ماژین",
+    "ostanId": "6",
+    "shahrestanId": "182",
+    "amarCode": "160204"
+  },
+  {
+    "id": "573",
+    "name": "مانه",
+    "ostanId": "12",
+    "shahrestanId": "384",
+    "amarCode": "280602"
+  },
+  {
+    "id": "574",
+    "name": "ماهان",
+    "ostanId": "21",
+    "shahrestanId": "338",
+    "amarCode": "80804"
+  },
+  {
+    "id": "575",
+    "name": "ماهورمیلانی",
+    "ostanId": "17",
+    "shahrestanId": "401",
+    "amarCode": "71302"
+  },
+  {
+    "id": "576",
+    "name": "ماهیدشت",
+    "ostanId": "22",
+    "shahrestanId": "339",
+    "amarCode": "50206"
+  },
+  {
+    "id": "577",
+    "name": "محمدیار",
+    "ostanId": "2",
+    "shahrestanId": "423",
+    "amarCode": "40903"
+  },
+  {
+    "id": "578",
+    "name": "محمدیه",
+    "ostanId": "18",
+    "shahrestanId": "40",
+    "amarCode": "260501"
+  },
+  {
+    "id": "579",
+    "name": "محمله",
+    "ostanId": "17",
+    "shahrestanId": "167",
+    "amarCode": "72401"
+  },
+  {
+    "id": "580",
+    "name": "مرادلو",
+    "ostanId": "3",
+    "shahrestanId": "395",
+    "amarCode": "240404"
+  },
+  {
+    "id": "581",
+    "name": "مرحمت آباد",
+    "ostanId": "2",
+    "shahrestanId": "411",
+    "amarCode": "40804"
+  },
+  {
+    "id": "582",
+    "name": "مرزداران",
+    "ostanId": "11",
+    "shahrestanId": "246",
+    "amarCode": "92001"
+  },
+  {
+    "id": "583",
+    "name": "مرزن آباد",
+    "ostanId": "27",
+    "shahrestanId": "142",
+    "amarCode": "22003"
+  },
+  {
+    "id": "584",
+    "name": "مرکزی",
+    "ostanId": "3",
+    "shahrestanId": "20",
+    "amarCode": "240101"
+  },
+  {
+    "id": "585",
+    "name": "مرکزی",
+    "ostanId": "3",
+    "shahrestanId": "38",
+    "amarCode": "241101"
+  },
+  {
+    "id": "586",
+    "name": "مرکزی",
+    "ostanId": "3",
+    "shahrestanId": "101",
+    "amarCode": "240201"
+  },
+  {
+    "id": "587",
+    "name": "مرکزی",
+    "ostanId": "3",
+    "shahrestanId": "103",
+    "amarCode": "240601"
+  },
+  {
+    "id": "588",
+    "name": "مرکزی",
+    "ostanId": "3",
+    "shahrestanId": "162",
+    "amarCode": "240304"
+  },
+  {
+    "id": "589",
+    "name": "مرکزی",
+    "ostanId": "3",
+    "shahrestanId": "249",
+    "amarCode": "241001"
+  },
+  {
+    "id": "590",
+    "name": "مرکزی",
+    "ostanId": "3",
+    "shahrestanId": "349",
+    "amarCode": "240701"
+  },
+  {
+    "id": "591",
+    "name": "مرکزی",
+    "ostanId": "3",
+    "shahrestanId": "365",
+    "amarCode": "240504"
+  },
+  {
+    "id": "592",
+    "name": "مرکزی",
+    "ostanId": "3",
+    "shahrestanId": "395",
+    "amarCode": "240402"
+  },
+  {
+    "id": "593",
+    "name": "مرکزی",
+    "ostanId": "3",
+    "shahrestanId": "425",
+    "amarCode": "240802"
+  },
+  {
+    "id": "594",
+    "name": "مرکزی",
+    "ostanId": "3",
+    "shahrestanId": "431",
+    "amarCode": "240901"
+  },
+  {
+    "id": "595",
+    "name": "مرکزی",
+    "ostanId": "4",
+    "shahrestanId": "21",
+    "amarCode": "100101"
+  },
+  {
+    "id": "596",
+    "name": "مرکزی",
+    "ostanId": "4",
+    "shahrestanId": "37",
+    "amarCode": "100203"
+  },
+  {
+    "id": "597",
+    "name": "مرکزی",
+    "ostanId": "4",
+    "shahrestanId": "7",
+    "amarCode": "101802"
+  },
+  {
+    "id": "598",
+    "name": "مرکزی",
+    "ostanId": "4",
+    "shahrestanId": "68",
+    "amarCode": "102202"
+  },
+  {
+    "id": "599",
+    "name": "مرکزی",
+    "ostanId": "4",
+    "shahrestanId": "86",
+    "amarCode": "102401"
+  },
+  {
+    "id": "600",
+    "name": "مرکزی",
+    "ostanId": "4",
+    "shahrestanId": "127",
+    "amarCode": "101902"
+  },
+  {
+    "id": "601",
+    "name": "مرکزی",
+    "ostanId": "4",
+    "shahrestanId": "139",
+    "amarCode": "102002"
+  },
+  {
+    "id": "602",
+    "name": "مرکزی",
+    "ostanId": "4",
+    "shahrestanId": "166",
+    "amarCode": "100301"
+  },
+  {
+    "id": "603",
+    "name": "مرکزی",
+    "ostanId": "4",
+    "shahrestanId": "170",
+    "amarCode": "100401"
+  },
+  {
+    "id": "604",
+    "name": "مرکزی",
+    "ostanId": "4",
+    "shahrestanId": "171",
+    "amarCode": "102301"
+  },
+  {
+    "id": "605",
+    "name": "مرکزی",
+    "ostanId": "4",
+    "shahrestanId": "194",
+    "amarCode": "102101"
+  },
+  {
+    "id": "606",
+    "name": "مرکزی",
+    "ostanId": "4",
+    "shahrestanId": "257",
+    "amarCode": "100502"
+  },
+  {
+    "id": "607",
+    "name": "مرکزی",
+    "ostanId": "4",
+    "shahrestanId": "272",
+    "amarCode": "101603"
+  },
+  {
+    "id": "608",
+    "name": "مرکزی",
+    "ostanId": "4",
+    "shahrestanId": "280",
+    "amarCode": "100902"
+  },
+  {
+    "id": "609",
+    "name": "مرکزی",
+    "ostanId": "4",
+    "shahrestanId": "305",
+    "amarCode": "100603"
+  },
+  {
+    "id": "610",
+    "name": "مرکزی",
+    "ostanId": "4",
+    "shahrestanId": "306",
+    "amarCode": "100701"
+  },
+  {
+    "id": "611",
+    "name": "مرکزی",
+    "ostanId": "4",
+    "shahrestanId": "310",
+    "amarCode": "100802"
+  },
+  {
+    "id": "612",
+    "name": "مرکزی",
+    "ostanId": "4",
+    "shahrestanId": "332",
+    "amarCode": "101003"
+  },
+  {
+    "id": "613",
+    "name": "مرکزی",
+    "ostanId": "4",
+    "shahrestanId": "366",
+    "amarCode": "101101"
+  },
+  {
+    "id": "614",
+    "name": "مرکزی",
+    "ostanId": "4",
+    "shahrestanId": "378",
+    "amarCode": "101203"
+  },
+  {
+    "id": "615",
+    "name": "مرکزی",
+    "ostanId": "4",
+    "shahrestanId": "386",
+    "amarCode": "101701"
+  },
+  {
+    "id": "616",
+    "name": "مرکزی",
+    "ostanId": "4",
+    "shahrestanId": "418",
+    "amarCode": "101303"
+  },
+  {
+    "id": "617",
+    "name": "مرکزی",
+    "ostanId": "4",
+    "shahrestanId": "419",
+    "amarCode": "101402"
+  },
+  {
+    "id": "618",
+    "name": "مرکزی",
+    "ostanId": "4",
+    "shahrestanId": "421",
+    "amarCode": "101501"
+  },
+  {
+    "id": "619",
+    "name": "مرکزی",
+    "ostanId": "5",
+    "shahrestanId": "34",
+    "amarCode": "300501"
+  },
+  {
+    "id": "620",
+    "name": "مرکزی",
+    "ostanId": "5",
+    "shahrestanId": "235",
+    "amarCode": "300201"
+  },
+  {
+    "id": "621",
+    "name": "مرکزی",
+    "ostanId": "5",
+    "shahrestanId": "289",
+    "amarCode": "300401"
+  },
+  {
+    "id": "622",
+    "name": "مرکزی",
+    "ostanId": "5",
+    "shahrestanId": "304",
+    "amarCode": "300601"
+  },
+  {
+    "id": "623",
+    "name": "مرکزی",
+    "ostanId": "5",
+    "shahrestanId": "336",
+    "amarCode": "300101"
+  },
+  {
+    "id": "624",
+    "name": "مرکزی",
+    "ostanId": "5",
+    "shahrestanId": "422",
+    "amarCode": "300301"
+  },
+  {
+    "id": "625",
+    "name": "مرکزی",
+    "ostanId": "6",
+    "shahrestanId": "53",
+    "amarCode": "160103"
+  },
+  {
+    "id": "626",
+    "name": "مرکزی",
+    "ostanId": "6",
+    "shahrestanId": "54",
+    "amarCode": "160702"
+  },
+  {
+    "id": "627",
+    "name": "مرکزی",
+    "ostanId": "6",
+    "shahrestanId": "3",
+    "amarCode": "160602"
+  },
+  {
+    "id": "628",
+    "name": "مرکزی",
+    "ostanId": "6",
+    "shahrestanId": "67",
+    "amarCode": "161001"
+  },
+  {
+    "id": "629",
+    "name": "مرکزی",
+    "ostanId": "6",
+    "shahrestanId": "146",
+    "amarCode": "160402"
+  },
+  {
+    "id": "630",
+    "name": "مرکزی",
+    "ostanId": "6",
+    "shahrestanId": "182",
+    "amarCode": "160203"
+  },
+  {
+    "id": "631",
+    "name": "مرکزی",
+    "ostanId": "6",
+    "shahrestanId": "196",
+    "amarCode": "160302"
+  },
+  {
+    "id": "632",
+    "name": "مرکزی",
+    "ostanId": "6",
+    "shahrestanId": "265",
+    "amarCode": "160901"
+  },
+  {
+    "id": "633",
+    "name": "مرکزی",
+    "ostanId": "6",
+    "shahrestanId": "400",
+    "amarCode": "160801"
+  },
+  {
+    "id": "634",
+    "name": "مرکزی",
+    "ostanId": "6",
+    "shahrestanId": "407",
+    "amarCode": "160503"
+  },
+  {
+    "id": "635",
+    "name": "مرکزی",
+    "ostanId": "6",
+    "shahrestanId": "442",
+    "amarCode": "161101"
+  },
+  {
+    "id": "636",
+    "name": "مرکزی",
+    "ostanId": "1",
+    "shahrestanId": "31",
+    "amarCode": "32202"
+  },
+  {
+    "id": "637",
+    "name": "مرکزی",
+    "ostanId": "1",
+    "shahrestanId": "48",
+    "amarCode": "30202"
+  },
+  {
+    "id": "638",
+    "name": "مرکزی",
+    "ostanId": "1",
+    "shahrestanId": "73",
+    "amarCode": "31302"
+  },
+  {
+    "id": "639",
+    "name": "مرکزی",
+    "ostanId": "1",
+    "shahrestanId": "80",
+    "amarCode": "31201"
+  },
+  {
+    "id": "640",
+    "name": "مرکزی",
+    "ostanId": "1",
+    "shahrestanId": "115",
+    "amarCode": "30303"
+  },
+  {
+    "id": "641",
+    "name": "مرکزی",
+    "ostanId": "1",
+    "shahrestanId": "132",
+    "amarCode": "31902"
+  },
+  {
+    "id": "642",
+    "name": "مرکزی",
+    "ostanId": "1",
+    "shahrestanId": "140",
+    "amarCode": "32302"
+  },
+  {
+    "id": "643",
+    "name": "مرکزی",
+    "ostanId": "1",
+    "shahrestanId": "154",
+    "amarCode": "32601"
+  },
+  {
+    "id": "644",
+    "name": "مرکزی",
+    "ostanId": "1",
+    "shahrestanId": "239",
+    "amarCode": "30501"
+  },
+  {
+    "id": "645",
+    "name": "مرکزی",
+    "ostanId": "1",
+    "shahrestanId": "273",
+    "amarCode": "31402"
+  },
+  {
+    "id": "646",
+    "name": "مرکزی",
+    "ostanId": "1",
+    "shahrestanId": "293",
+    "amarCode": "32502"
+  },
+  {
+    "id": "647",
+    "name": "مرکزی",
+    "ostanId": "1",
+    "shahrestanId": "343",
+    "amarCode": "31502"
+  },
+  {
+    "id": "648",
+    "name": "مرکزی",
+    "ostanId": "1",
+    "shahrestanId": "389",
+    "amarCode": "30602"
+  },
+  {
+    "id": "649",
+    "name": "مرکزی",
+    "ostanId": "1",
+    "shahrestanId": "391",
+    "amarCode": "30702"
+  },
+  {
+    "id": "650",
+    "name": "مرکزی",
+    "ostanId": "1",
+    "shahrestanId": "399",
+    "amarCode": "32002"
+  },
+  {
+    "id": "651",
+    "name": "مرکزی",
+    "ostanId": "1",
+    "shahrestanId": "413",
+    "amarCode": "31004"
+  },
+  {
+    "id": "652",
+    "name": "مرکزی",
+    "ostanId": "1",
+    "shahrestanId": "439",
+    "amarCode": "31602"
+  },
+  {
+    "id": "653",
+    "name": "مرکزی",
+    "ostanId": "1",
+    "shahrestanId": "440",
+    "amarCode": "31102"
+  },
+  {
+    "id": "654",
+    "name": "مرکزی",
+    "ostanId": "1",
+    "shahrestanId": "445",
+    "amarCode": "32701"
+  },
+  {
+    "id": "655",
+    "name": "مرکزی",
+    "ostanId": "1",
+    "shahrestanId": "436",
+    "amarCode": "32402"
+  },
+  {
+    "id": "656",
+    "name": "مرکزی",
+    "ostanId": "2",
+    "shahrestanId": "26",
+    "amarCode": "40104"
+  },
+  {
+    "id": "657",
+    "name": "مرکزی",
+    "ostanId": "2",
+    "shahrestanId": "36",
+    "amarCode": "41301"
+  },
+  {
+    "id": "658",
+    "name": "مرکزی",
+    "ostanId": "2",
+    "shahrestanId": "89",
+    "amarCode": "41002"
+  },
+  {
+    "id": "659",
+    "name": "مرکزی",
+    "ostanId": "2",
+    "shahrestanId": "110",
+    "amarCode": "41502"
+  },
+  {
+    "id": "660",
+    "name": "مرکزی",
+    "ostanId": "2",
+    "shahrestanId": "111",
+    "amarCode": "40201"
+  },
+  {
+    "id": "661",
+    "name": "مرکزی",
+    "ostanId": "2",
+    "shahrestanId": "122",
+    "amarCode": "41201"
+  },
+  {
+    "id": "662",
+    "name": "مرکزی",
+    "ostanId": "2",
+    "shahrestanId": "141",
+    "amarCode": "41402"
+  },
+  {
+    "id": "663",
+    "name": "مرکزی",
+    "ostanId": "2",
+    "shahrestanId": "144",
+    "amarCode": "41602"
+  },
+  {
+    "id": "664",
+    "name": "مرکزی",
+    "ostanId": "2",
+    "shahrestanId": "174",
+    "amarCode": "40302"
+  },
+  {
+    "id": "665",
+    "name": "مرکزی",
+    "ostanId": "2",
+    "shahrestanId": "248",
+    "amarCode": "40401"
+  },
+  {
+    "id": "666",
+    "name": "مرکزی",
+    "ostanId": "2",
+    "shahrestanId": "255",
+    "amarCode": "40501"
+  },
+  {
+    "id": "667",
+    "name": "مرکزی",
+    "ostanId": "2",
+    "shahrestanId": "271",
+    "amarCode": "41101"
+  },
+  {
+    "id": "668",
+    "name": "مرکزی",
+    "ostanId": "2",
+    "shahrestanId": "278",
+    "amarCode": "41702"
+  },
+  {
+    "id": "669",
+    "name": "مرکزی",
+    "ostanId": "2",
+    "shahrestanId": "383",
+    "amarCode": "40604"
+  },
+  {
+    "id": "670",
+    "name": "مرکزی",
+    "ostanId": "2",
+    "shahrestanId": "404",
+    "amarCode": "40702"
+  },
+  {
+    "id": "671",
+    "name": "مرکزی",
+    "ostanId": "2",
+    "shahrestanId": "411",
+    "amarCode": "40803"
+  },
+  {
+    "id": "672",
+    "name": "مرکزی",
+    "ostanId": "2",
+    "shahrestanId": "423",
+    "amarCode": "40902"
+  },
+  {
+    "id": "673",
+    "name": "مرکزی",
+    "ostanId": "7",
+    "shahrestanId": "88",
+    "amarCode": "180102"
+  },
+  {
+    "id": "674",
+    "name": "مرکزی",
+    "ostanId": "7",
+    "shahrestanId": "124",
+    "amarCode": "180202"
+  },
+  {
+    "id": "675",
+    "name": "مرکزی",
+    "ostanId": "7",
+    "shahrestanId": "133",
+    "amarCode": "180902"
+  },
+  {
+    "id": "676",
+    "name": "مرکزی",
+    "ostanId": "7",
+    "shahrestanId": "185",
+    "amarCode": "180303"
+  },
+  {
+    "id": "677",
+    "name": "مرکزی",
+    "ostanId": "7",
+    "shahrestanId": "186",
+    "amarCode": "180402"
+  },
+  {
+    "id": "678",
+    "name": "مرکزی",
+    "ostanId": "7",
+    "shahrestanId": "197",
+    "amarCode": "180502"
+  },
+  {
+    "id": "679",
+    "name": "مرکزی",
+    "ostanId": "7",
+    "shahrestanId": "198",
+    "amarCode": "180802"
+  },
+  {
+    "id": "680",
+    "name": "مرکزی",
+    "ostanId": "7",
+    "shahrestanId": "294",
+    "amarCode": "181001"
+  },
+  {
+    "id": "681",
+    "name": "مرکزی",
+    "ostanId": "7",
+    "shahrestanId": "346",
+    "amarCode": "180602"
+  },
+  {
+    "id": "682",
+    "name": "مرکزی",
+    "ostanId": "7",
+    "shahrestanId": "370",
+    "amarCode": "180703"
+  },
+  {
+    "id": "683",
+    "name": "مرکزی",
+    "ostanId": "8",
+    "shahrestanId": "33",
+    "amarCode": "231002"
+  },
+  {
+    "id": "684",
+    "name": "مرکزی",
+    "ostanId": "8",
+    "shahrestanId": "106",
+    "amarCode": "231302"
+  },
+  {
+    "id": "685",
+    "name": "مرکزی",
+    "ostanId": "8",
+    "shahrestanId": "112",
+    "amarCode": "231801"
+  },
+  {
+    "id": "686",
+    "name": "مرکزی",
+    "ostanId": "8",
+    "shahrestanId": "126",
+    "amarCode": "230102"
+  },
+  {
+    "id": "687",
+    "name": "مرکزی",
+    "ostanId": "8",
+    "shahrestanId": "191",
+    "amarCode": "230202"
+  },
+  {
+    "id": "688",
+    "name": "مرکزی",
+    "ostanId": "8",
+    "shahrestanId": "208",
+    "amarCode": "231202"
+  },
+  {
+    "id": "689",
+    "name": "مرکزی",
+    "ostanId": "8",
+    "shahrestanId": "221",
+    "amarCode": "230304"
+  },
+  {
+    "id": "690",
+    "name": "مرکزی",
+    "ostanId": "8",
+    "shahrestanId": "282",
+    "amarCode": "230902"
+  },
+  {
+    "id": "691",
+    "name": "مرکزی",
+    "ostanId": "8",
+    "shahrestanId": "315",
+    "amarCode": "231402"
+  },
+  {
+    "id": "692",
+    "name": "مرکزی",
+    "ostanId": "8",
+    "shahrestanId": "319",
+    "amarCode": "231601"
+  },
+  {
+    "id": "693",
+    "name": "مرکزی",
+    "ostanId": "8",
+    "shahrestanId": "320",
+    "amarCode": "232101"
+  },
+  {
+    "id": "694",
+    "name": "مرکزی",
+    "ostanId": "8",
+    "shahrestanId": "397",
+    "amarCode": "231701"
+  },
+  {
+    "id": "695",
+    "name": "مرکزی",
+    "ostanId": "8",
+    "shahrestanId": "435",
+    "amarCode": "230603"
+  },
+  {
+    "id": "696",
+    "name": "مرکزی",
+    "ostanId": "9",
+    "shahrestanId": "23",
+    "amarCode": "140501"
+  },
+  {
+    "id": "697",
+    "name": "مرکزی",
+    "ostanId": "9",
+    "shahrestanId": "72",
+    "amarCode": "140103"
+  },
+  {
+    "id": "698",
+    "name": "مرکزی",
+    "ostanId": "9",
+    "shahrestanId": "79",
+    "amarCode": "140901"
+  },
+  {
+    "id": "699",
+    "name": "مرکزی",
+    "ostanId": "9",
+    "shahrestanId": "153",
+    "amarCode": "141001"
+  },
+  {
+    "id": "700",
+    "name": "مرکزی",
+    "ostanId": "9",
+    "shahrestanId": "234",
+    "amarCode": "140801"
+  },
+  {
+    "id": "701",
+    "name": "مرکزی",
+    "ostanId": "9",
+    "shahrestanId": "281",
+    "amarCode": "140202"
+  },
+  {
+    "id": "702",
+    "name": "مرکزی",
+    "ostanId": "9",
+    "shahrestanId": "297",
+    "amarCode": "140302"
+  },
+  {
+    "id": "703",
+    "name": "مرکزی",
+    "ostanId": "9",
+    "shahrestanId": "353",
+    "amarCode": "140602"
+  },
+  {
+    "id": "704",
+    "name": "مرکزی",
+    "ostanId": "9",
+    "shahrestanId": "357",
+    "amarCode": "140701"
+  },
+  {
+    "id": "705",
+    "name": "مرکزی",
+    "ostanId": "9",
+    "shahrestanId": "377",
+    "amarCode": "140402"
+  },
+  {
+    "id": "706",
+    "name": "مرکزی",
+    "ostanId": "10",
+    "shahrestanId": "76",
+    "amarCode": "290801"
+  },
+  {
+    "id": "707",
+    "name": "مرکزی",
+    "ostanId": "10",
+    "shahrestanId": "99",
+    "amarCode": "290104"
+  },
+  {
+    "id": "708",
+    "name": "مرکزی",
+    "ostanId": "10",
+    "shahrestanId": "172",
+    "amarCode": "291001"
+  },
+  {
+    "id": "709",
+    "name": "مرکزی",
+    "ostanId": "10",
+    "shahrestanId": "181",
+    "amarCode": "290203"
+  },
+  {
+    "id": "710",
+    "name": "مرکزی",
+    "ostanId": "10",
+    "shahrestanId": "232",
+    "amarCode": "290901"
+  },
+  {
+    "id": "711",
+    "name": "مرکزی",
+    "ostanId": "10",
+    "shahrestanId": "243",
+    "amarCode": "290301"
+  },
+  {
+    "id": "712",
+    "name": "مرکزی",
+    "ostanId": "10",
+    "shahrestanId": "290",
+    "amarCode": "291102"
+  },
+  {
+    "id": "713",
+    "name": "مرکزی",
+    "ostanId": "10",
+    "shahrestanId": "318",
+    "amarCode": "290402"
+  },
+  {
+    "id": "714",
+    "name": "مرکزی",
+    "ostanId": "10",
+    "shahrestanId": "429",
+    "amarCode": "290502"
+  },
+  {
+    "id": "715",
+    "name": "مرکزی",
+    "ostanId": "11",
+    "shahrestanId": "57",
+    "amarCode": "93701"
+  },
+  {
+    "id": "716",
+    "name": "مرکزی",
+    "ostanId": "11",
+    "shahrestanId": "64",
+    "amarCode": "93101"
+  },
+  {
+    "id": "717",
+    "name": "مرکزی",
+    "ostanId": "11",
+    "shahrestanId": "69",
+    "amarCode": "92302"
+  },
+  {
+    "id": "718",
+    "name": "مرکزی",
+    "ostanId": "11",
+    "shahrestanId": "114",
+    "amarCode": "90402"
+  },
+  {
+    "id": "719",
+    "name": "مرکزی",
+    "ostanId": "11",
+    "shahrestanId": "116",
+    "amarCode": "90602"
+  },
+  {
+    "id": "720",
+    "name": "مرکزی",
+    "ostanId": "11",
+    "shahrestanId": "117",
+    "amarCode": "90506"
+  },
+  {
+    "id": "721",
+    "name": "مرکزی",
+    "ostanId": "11",
+    "shahrestanId": "131",
+    "amarCode": "93401"
+  },
+  {
+    "id": "722",
+    "name": "مرکزی",
+    "ostanId": "11",
+    "shahrestanId": "136",
+    "amarCode": "93601"
+  },
+  {
+    "id": "723",
+    "name": "مرکزی",
+    "ostanId": "11",
+    "shahrestanId": "148",
+    "amarCode": "91802"
+  },
+  {
+    "id": "724",
+    "name": "مرکزی",
+    "ostanId": "11",
+    "shahrestanId": "163",
+    "amarCode": "92902"
+  },
+  {
+    "id": "725",
+    "name": "مرکزی",
+    "ostanId": "11",
+    "shahrestanId": "169",
+    "amarCode": "91902"
+  },
+  {
+    "id": "726",
+    "name": "مرکزی",
+    "ostanId": "11",
+    "shahrestanId": "173",
+    "amarCode": "93801"
+  },
+  {
+    "id": "727",
+    "name": "مرکزی",
+    "ostanId": "11",
+    "shahrestanId": "178",
+    "amarCode": "93901"
+  },
+  {
+    "id": "728",
+    "name": "مرکزی",
+    "ostanId": "11",
+    "shahrestanId": "179",
+    "amarCode": "90703"
+  },
+  {
+    "id": "729",
+    "name": "مرکزی",
+    "ostanId": "11",
+    "shahrestanId": "212",
+    "amarCode": "92702"
+  },
+  {
+    "id": "730",
+    "name": "مرکزی",
+    "ostanId": "11",
+    "shahrestanId": "224",
+    "amarCode": "93501"
+  },
+  {
+    "id": "731",
+    "name": "مرکزی",
+    "ostanId": "11",
+    "shahrestanId": "237",
+    "amarCode": "90807"
+  },
+  {
+    "id": "732",
+    "name": "مرکزی",
+    "ostanId": "11",
+    "shahrestanId": "246",
+    "amarCode": "92002"
+  },
+  {
+    "id": "733",
+    "name": "مرکزی",
+    "ostanId": "11",
+    "shahrestanId": "285",
+    "amarCode": "94001"
+  },
+  {
+    "id": "734",
+    "name": "مرکزی",
+    "ostanId": "11",
+    "shahrestanId": "308",
+    "amarCode": "92202"
+  },
+  {
+    "id": "735",
+    "name": "مرکزی",
+    "ostanId": "11",
+    "shahrestanId": "316",
+    "amarCode": "93301"
+  },
+  {
+    "id": "736",
+    "name": "مرکزی",
+    "ostanId": "11",
+    "shahrestanId": "328",
+    "amarCode": "91303"
+  },
+  {
+    "id": "737",
+    "name": "مرکزی",
+    "ostanId": "11",
+    "shahrestanId": "333",
+    "amarCode": "91404"
+  },
+  {
+    "id": "738",
+    "name": "مرکزی",
+    "ostanId": "11",
+    "shahrestanId": "340",
+    "amarCode": "92802"
+  },
+  {
+    "id": "739",
+    "name": "مرکزی",
+    "ostanId": "11",
+    "shahrestanId": "354",
+    "amarCode": "94101"
+  },
+  {
+    "id": "740",
+    "name": "مرکزی",
+    "ostanId": "11",
+    "shahrestanId": "369",
+    "amarCode": "91502"
+  },
+  {
+    "id": "741",
+    "name": "مرکزی",
+    "ostanId": "11",
+    "shahrestanId": "396",
+    "amarCode": "91605"
+  },
+  {
+    "id": "742",
+    "name": "مرکزی",
+    "ostanId": "11",
+    "shahrestanId": "403",
+    "amarCode": "93002"
+  },
+  {
+    "id": "743",
+    "name": "مرکزی",
+    "ostanId": "11",
+    "shahrestanId": "432",
+    "amarCode": "91704"
+  },
+  {
+    "id": "744",
+    "name": "مرکزی",
+    "ostanId": "12",
+    "shahrestanId": "30",
+    "amarCode": "280102"
+  },
+  {
+    "id": "745",
+    "name": "مرکزی",
+    "ostanId": "12",
+    "shahrestanId": "65",
+    "amarCode": "280204"
+  },
+  {
+    "id": "746",
+    "name": "مرکزی",
+    "ostanId": "12",
+    "shahrestanId": "129",
+    "amarCode": "280303"
+  },
+  {
+    "id": "747",
+    "name": "مرکزی",
+    "ostanId": "12",
+    "shahrestanId": "201",
+    "amarCode": "280801"
+  },
+  {
+    "id": "748",
+    "name": "مرکزی",
+    "ostanId": "12",
+    "shahrestanId": "284",
+    "amarCode": "280402"
+  },
+  {
+    "id": "749",
+    "name": "مرکزی",
+    "ostanId": "12",
+    "shahrestanId": "298",
+    "amarCode": "280502"
+  },
+  {
+    "id": "750",
+    "name": "مرکزی",
+    "ostanId": "12",
+    "shahrestanId": "364",
+    "amarCode": "280701"
+  },
+  {
+    "id": "751",
+    "name": "مرکزی",
+    "ostanId": "12",
+    "shahrestanId": "384",
+    "amarCode": "280603"
+  },
+  {
+    "id": "752",
+    "name": "مرکزی",
+    "ostanId": "13",
+    "shahrestanId": "43",
+    "amarCode": "61602"
+  },
+  {
+    "id": "753",
+    "name": "مرکزی",
+    "ostanId": "13",
+    "shahrestanId": "45",
+    "amarCode": "62103"
+  },
+  {
+    "id": "754",
+    "name": "مرکزی",
+    "ostanId": "13",
+    "shahrestanId": "46",
+    "amarCode": "60202"
+  },
+  {
+    "id": "755",
+    "name": "مرکزی",
+    "ostanId": "13",
+    "shahrestanId": "49",
+    "amarCode": "60302"
+  },
+  {
+    "id": "756",
+    "name": "مرکزی",
+    "ostanId": "13",
+    "shahrestanId": "51",
+    "amarCode": "60403"
+  },
+  {
+    "id": "757",
+    "name": "مرکزی",
+    "ostanId": "13",
+    "shahrestanId": "1",
+    "amarCode": "60102"
+  },
+  {
+    "id": "758",
+    "name": "مرکزی",
+    "ostanId": "13",
+    "shahrestanId": "12",
+    "amarCode": "62601"
+  },
+  {
+    "id": "759",
+    "name": "مرکزی",
+    "ostanId": "13",
+    "shahrestanId": "59",
+    "amarCode": "61502"
+  },
+  {
+    "id": "760",
+    "name": "مرکزی",
+    "ostanId": "13",
+    "shahrestanId": "63",
+    "amarCode": "62401"
+  },
+  {
+    "id": "761",
+    "name": "مرکزی",
+    "ostanId": "13",
+    "shahrestanId": "85",
+    "amarCode": "60502"
+  },
+  {
+    "id": "762",
+    "name": "مرکزی",
+    "ostanId": "13",
+    "shahrestanId": "95",
+    "amarCode": "60603"
+  },
+  {
+    "id": "763",
+    "name": "مرکزی",
+    "ostanId": "13",
+    "shahrestanId": "150",
+    "amarCode": "62501"
+  },
+  {
+    "id": "764",
+    "name": "مرکزی",
+    "ostanId": "13",
+    "shahrestanId": "160",
+    "amarCode": "60701"
+  },
+  {
+    "id": "765",
+    "name": "مرکزی",
+    "ostanId": "13",
+    "shahrestanId": "183",
+    "amarCode": "60802"
+  },
+  {
+    "id": "766",
+    "name": "مرکزی",
+    "ostanId": "13",
+    "shahrestanId": "184",
+    "amarCode": "60902"
+  },
+  {
+    "id": "767",
+    "name": "مرکزی",
+    "ostanId": "13",
+    "shahrestanId": "204",
+    "amarCode": "61901"
+  },
+  {
+    "id": "768",
+    "name": "مرکزی",
+    "ostanId": "13",
+    "shahrestanId": "205",
+    "amarCode": "61002"
+  },
+  {
+    "id": "769",
+    "name": "مرکزی",
+    "ostanId": "13",
+    "shahrestanId": "268",
+    "amarCode": "61101"
+  },
+  {
+    "id": "770",
+    "name": "مرکزی",
+    "ostanId": "13",
+    "shahrestanId": "276",
+    "amarCode": "61402"
+  },
+  {
+    "id": "771",
+    "name": "مرکزی",
+    "ostanId": "13",
+    "shahrestanId": "277",
+    "amarCode": "61202"
+  },
+  {
+    "id": "772",
+    "name": "مرکزی",
+    "ostanId": "13",
+    "shahrestanId": "330",
+    "amarCode": "62701"
+  },
+  {
+    "id": "773",
+    "name": "مرکزی",
+    "ostanId": "13",
+    "shahrestanId": "359",
+    "amarCode": "62002"
+  },
+  {
+    "id": "774",
+    "name": "مرکزی",
+    "ostanId": "13",
+    "shahrestanId": "374",
+    "amarCode": "61701"
+  },
+  {
+    "id": "775",
+    "name": "مرکزی",
+    "ostanId": "13",
+    "shahrestanId": "394",
+    "amarCode": "61303"
+  },
+  {
+    "id": "776",
+    "name": "مرکزی",
+    "ostanId": "13",
+    "shahrestanId": "441",
+    "amarCode": "62202"
+  },
+  {
+    "id": "777",
+    "name": "مرکزی",
+    "ostanId": "13",
+    "shahrestanId": "444",
+    "amarCode": "61801"
+  },
+  {
+    "id": "778",
+    "name": "مرکزی",
+    "ostanId": "13",
+    "shahrestanId": "446",
+    "amarCode": "62302"
+  },
+  {
+    "id": "779",
+    "name": "مرکزی",
+    "ostanId": "14",
+    "shahrestanId": "18",
+    "amarCode": "190103"
+  },
+  {
+    "id": "780",
+    "name": "مرکزی",
+    "ostanId": "14",
+    "shahrestanId": "50",
+    "amarCode": "190602"
+  },
+  {
+    "id": "781",
+    "name": "مرکزی",
+    "ostanId": "14",
+    "shahrestanId": "155",
+    "amarCode": "190303"
+  },
+  {
+    "id": "782",
+    "name": "مرکزی",
+    "ostanId": "14",
+    "shahrestanId": "159",
+    "amarCode": "190701"
+  },
+  {
+    "id": "783",
+    "name": "مرکزی",
+    "ostanId": "14",
+    "shahrestanId": "230",
+    "amarCode": "190405"
+  },
+  {
+    "id": "784",
+    "name": "مرکزی",
+    "ostanId": "14",
+    "shahrestanId": "254",
+    "amarCode": "191001"
+  },
+  {
+    "id": "785",
+    "name": "مرکزی",
+    "ostanId": "14",
+    "shahrestanId": "288",
+    "amarCode": "190802"
+  },
+  {
+    "id": "786",
+    "name": "مرکزی",
+    "ostanId": "14",
+    "shahrestanId": "385",
+    "amarCode": "190902"
+  },
+  {
+    "id": "787",
+    "name": "مرکزی",
+    "ostanId": "15",
+    "shahrestanId": "6",
+    "amarCode": "200601"
+  },
+  {
+    "id": "788",
+    "name": "مرکزی",
+    "ostanId": "15",
+    "shahrestanId": "177",
+    "amarCode": "200102"
+  },
+  {
+    "id": "789",
+    "name": "مرکزی",
+    "ostanId": "15",
+    "shahrestanId": "256",
+    "amarCode": "200201"
+  },
+  {
+    "id": "790",
+    "name": "مرکزی",
+    "ostanId": "15",
+    "shahrestanId": "270",
+    "amarCode": "200303"
+  },
+  {
+    "id": "791",
+    "name": "مرکزی",
+    "ostanId": "15",
+    "shahrestanId": "363",
+    "amarCode": "200402"
+  },
+  {
+    "id": "792",
+    "name": "مرکزی",
+    "ostanId": "15",
+    "shahrestanId": "405",
+    "amarCode": "200502"
+  },
+  {
+    "id": "793",
+    "name": "مرکزی",
+    "ostanId": "15",
+    "shahrestanId": "410",
+    "amarCode": "200701"
+  },
+  {
+    "id": "794",
+    "name": "مرکزی",
+    "ostanId": "16",
+    "shahrestanId": "52",
+    "amarCode": "110105"
+  },
+  {
+    "id": "795",
+    "name": "مرکزی",
+    "ostanId": "16",
+    "shahrestanId": "78",
+    "amarCode": "112001"
+  },
+  {
+    "id": "796",
+    "name": "مرکزی",
+    "ostanId": "16",
+    "shahrestanId": "120",
+    "amarCode": "112101"
+  },
+  {
+    "id": "797",
+    "name": "مرکزی",
+    "ostanId": "16",
+    "shahrestanId": "143",
+    "amarCode": "110202"
+  },
+  {
+    "id": "798",
+    "name": "مرکزی",
+    "ostanId": "16",
+    "shahrestanId": "152",
+    "amarCode": "110301"
+  },
+  {
+    "id": "799",
+    "name": "مرکزی",
+    "ostanId": "16",
+    "shahrestanId": "187",
+    "amarCode": "112201"
+  },
+  {
+    "id": "800",
+    "name": "مرکزی",
+    "ostanId": "16",
+    "shahrestanId": "189",
+    "amarCode": "111201"
+  },
+  {
+    "id": "801",
+    "name": "مرکزی",
+    "ostanId": "16",
+    "shahrestanId": "202",
+    "amarCode": "110803"
+  },
+  {
+    "id": "802",
+    "name": "مرکزی",
+    "ostanId": "16",
+    "shahrestanId": "223",
+    "amarCode": "110404"
+  },
+  {
+    "id": "803",
+    "name": "مرکزی",
+    "ostanId": "16",
+    "shahrestanId": "225",
+    "amarCode": "110501"
+  },
+  {
+    "id": "804",
+    "name": "مرکزی",
+    "ostanId": "16",
+    "shahrestanId": "231",
+    "amarCode": "111002"
+  },
+  {
+    "id": "805",
+    "name": "مرکزی",
+    "ostanId": "16",
+    "shahrestanId": "240",
+    "amarCode": "110604"
+  },
+  {
+    "id": "806",
+    "name": "مرکزی",
+    "ostanId": "16",
+    "shahrestanId": "242",
+    "amarCode": "112301"
+  },
+  {
+    "id": "807",
+    "name": "مرکزی",
+    "ostanId": "16",
+    "shahrestanId": "263",
+    "amarCode": "111401"
+  },
+  {
+    "id": "808",
+    "name": "مرکزی",
+    "ostanId": "16",
+    "shahrestanId": "311",
+    "amarCode": "111901"
+  },
+  {
+    "id": "809",
+    "name": "مرکزی",
+    "ostanId": "16",
+    "shahrestanId": "325",
+    "amarCode": "111801"
+  },
+  {
+    "id": "810",
+    "name": "مرکزی",
+    "ostanId": "16",
+    "shahrestanId": "345",
+    "amarCode": "110902"
+  },
+  {
+    "id": "811",
+    "name": "مرکزی",
+    "ostanId": "16",
+    "shahrestanId": "408",
+    "amarCode": "111301"
+  },
+  {
+    "id": "812",
+    "name": "مرکزی",
+    "ostanId": "16",
+    "shahrestanId": "415",
+    "amarCode": "111701"
+  },
+  {
+    "id": "813",
+    "name": "مرکزی",
+    "ostanId": "16",
+    "shahrestanId": "433",
+    "amarCode": "110705"
+  },
+  {
+    "id": "814",
+    "name": "مرکزی",
+    "ostanId": "16",
+    "shahrestanId": "434",
+    "amarCode": "111501"
+  },
+  {
+    "id": "815",
+    "name": "مرکزی",
+    "ostanId": "16",
+    "shahrestanId": "437",
+    "amarCode": "111601"
+  },
+  {
+    "id": "816",
+    "name": "مرکزی",
+    "ostanId": "16",
+    "shahrestanId": "447",
+    "amarCode": "111101"
+  },
+  {
+    "id": "817",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "25",
+    "amarCode": "71701"
+  },
+  {
+    "id": "818",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "28",
+    "amarCode": "70202"
+  },
+  {
+    "id": "819",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "39",
+    "amarCode": "70302"
+  },
+  {
+    "id": "820",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "47",
+    "amarCode": "73601"
+  },
+  {
+    "id": "821",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "2",
+    "amarCode": "70104"
+  },
+  {
+    "id": "822",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "66",
+    "amarCode": "73501"
+  },
+  {
+    "id": "823",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "87",
+    "amarCode": "71602"
+  },
+  {
+    "id": "824",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "100",
+    "amarCode": "73101"
+  },
+  {
+    "id": "825",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "105",
+    "amarCode": "72301"
+  },
+  {
+    "id": "826",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "137",
+    "amarCode": "70404"
+  },
+  {
+    "id": "827",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "156",
+    "amarCode": "72902"
+  },
+  {
+    "id": "828",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "158",
+    "amarCode": "71802"
+  },
+  {
+    "id": "829",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "161",
+    "amarCode": "73401"
+  },
+  {
+    "id": "830",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "167",
+    "amarCode": "72402"
+  },
+  {
+    "id": "831",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "175",
+    "amarCode": "70503"
+  },
+  {
+    "id": "832",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "210",
+    "amarCode": "72602"
+  },
+  {
+    "id": "833",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "226",
+    "amarCode": "73001"
+  },
+  {
+    "id": "834",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "229",
+    "amarCode": "71902"
+  },
+  {
+    "id": "835",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "238",
+    "amarCode": "70602"
+  },
+  {
+    "id": "836",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "245",
+    "amarCode": "73201"
+  },
+  {
+    "id": "837",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "251",
+    "amarCode": "72502"
+  },
+  {
+    "id": "838",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "283",
+    "amarCode": "70705"
+  },
+  {
+    "id": "839",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "301",
+    "amarCode": "72201"
+  },
+  {
+    "id": "840",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "309",
+    "amarCode": "70803"
+  },
+  {
+    "id": "841",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "314",
+    "amarCode": "70903"
+  },
+  {
+    "id": "842",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "329",
+    "amarCode": "72002"
+  },
+  {
+    "id": "843",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "331",
+    "amarCode": "71004"
+  },
+  {
+    "id": "844",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "348",
+    "amarCode": "72801"
+  },
+  {
+    "id": "845",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "350",
+    "amarCode": "73301"
+  },
+  {
+    "id": "846",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "361",
+    "amarCode": "72701"
+  },
+  {
+    "id": "847",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "373",
+    "amarCode": "71104"
+  },
+  {
+    "id": "848",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "375",
+    "amarCode": "71501"
+  },
+  {
+    "id": "849",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "392",
+    "amarCode": "71204"
+  },
+  {
+    "id": "850",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "401",
+    "amarCode": "71303"
+  },
+  {
+    "id": "851",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "406",
+    "amarCode": "72102"
+  },
+  {
+    "id": "852",
+    "name": "مرکزی",
+    "ostanId": "17",
+    "shahrestanId": "430",
+    "amarCode": "71403"
+  },
+  {
+    "id": "853",
+    "name": "مرکزی",
+    "ostanId": "18",
+    "shahrestanId": "40",
+    "amarCode": "260502"
+  },
+  {
+    "id": "854",
+    "name": "مرکزی",
+    "ostanId": "18",
+    "shahrestanId": "4",
+    "amarCode": "260402"
+  },
+  {
+    "id": "855",
+    "name": "مرکزی",
+    "ostanId": "18",
+    "shahrestanId": "15",
+    "amarCode": "260601"
+  },
+  {
+    "id": "856",
+    "name": "مرکزی",
+    "ostanId": "18",
+    "shahrestanId": "91",
+    "amarCode": "260104"
+  },
+  {
+    "id": "857",
+    "name": "مرکزی",
+    "ostanId": "18",
+    "shahrestanId": "113",
+    "amarCode": "260204"
+  },
+  {
+    "id": "858",
+    "name": "مرکزی",
+    "ostanId": "18",
+    "shahrestanId": "322",
+    "amarCode": "260305"
+  },
+  {
+    "id": "859",
+    "name": "مرکزی",
+    "ostanId": "19",
+    "shahrestanId": "327",
+    "amarCode": "250103"
+  },
+  {
+    "id": "860",
+    "name": "مرکزی",
+    "ostanId": "20",
+    "shahrestanId": "62",
+    "amarCode": "120102"
+  },
+  {
+    "id": "861",
+    "name": "مرکزی",
+    "ostanId": "20",
+    "shahrestanId": "98",
+    "amarCode": "120203"
+  },
+  {
+    "id": "862",
+    "name": "مرکزی",
+    "ostanId": "20",
+    "shahrestanId": "195",
+    "amarCode": "121001"
+  },
+  {
+    "id": "863",
+    "name": "مرکزی",
+    "ostanId": "20",
+    "shahrestanId": "199",
+    "amarCode": "120702"
+  },
+  {
+    "id": "864",
+    "name": "مرکزی",
+    "ostanId": "20",
+    "shahrestanId": "250",
+    "amarCode": "120902"
+  },
+  {
+    "id": "865",
+    "name": "مرکزی",
+    "ostanId": "20",
+    "shahrestanId": "252",
+    "amarCode": "120302"
+  },
+  {
+    "id": "866",
+    "name": "مرکزی",
+    "ostanId": "20",
+    "shahrestanId": "259",
+    "amarCode": "120403"
+  },
+  {
+    "id": "867",
+    "name": "مرکزی",
+    "ostanId": "20",
+    "shahrestanId": "321",
+    "amarCode": "120502"
+  },
+  {
+    "id": "868",
+    "name": "مرکزی",
+    "ostanId": "20",
+    "shahrestanId": "334",
+    "amarCode": "120801"
+  },
+  {
+    "id": "869",
+    "name": "مرکزی",
+    "ostanId": "20",
+    "shahrestanId": "393",
+    "amarCode": "120603"
+  },
+  {
+    "id": "870",
+    "name": "مرکزی",
+    "ostanId": "21",
+    "shahrestanId": "24",
+    "amarCode": "82301"
+  },
+  {
+    "id": "871",
+    "name": "مرکزی",
+    "ostanId": "21",
+    "shahrestanId": "60",
+    "amarCode": "80103"
+  },
+  {
+    "id": "872",
+    "name": "مرکزی",
+    "ostanId": "21",
+    "shahrestanId": "70",
+    "amarCode": "81001"
+  },
+  {
+    "id": "873",
+    "name": "مرکزی",
+    "ostanId": "21",
+    "shahrestanId": "77",
+    "amarCode": "80203"
+  },
+  {
+    "id": "874",
+    "name": "مرکزی",
+    "ostanId": "21",
+    "shahrestanId": "138",
+    "amarCode": "80304"
+  },
+  {
+    "id": "875",
+    "name": "مرکزی",
+    "ostanId": "21",
+    "shahrestanId": "200",
+    "amarCode": "81801"
+  },
+  {
+    "id": "876",
+    "name": "مرکزی",
+    "ostanId": "21",
+    "shahrestanId": "207",
+    "amarCode": "81102"
+  },
+  {
+    "id": "877",
+    "name": "مرکزی",
+    "ostanId": "21",
+    "shahrestanId": "214",
+    "amarCode": "80402"
+  },
+  {
+    "id": "878",
+    "name": "مرکزی",
+    "ostanId": "21",
+    "shahrestanId": "218",
+    "amarCode": "81502"
+  },
+  {
+    "id": "879",
+    "name": "مرکزی",
+    "ostanId": "21",
+    "shahrestanId": "222",
+    "amarCode": "81702"
+  },
+  {
+    "id": "880",
+    "name": "مرکزی",
+    "ostanId": "21",
+    "shahrestanId": "227",
+    "amarCode": "80502"
+  },
+  {
+    "id": "881",
+    "name": "مرکزی",
+    "ostanId": "21",
+    "shahrestanId": "264",
+    "amarCode": "80601"
+  },
+  {
+    "id": "882",
+    "name": "مرکزی",
+    "ostanId": "21",
+    "shahrestanId": "279",
+    "amarCode": "80701"
+  },
+  {
+    "id": "883",
+    "name": "مرکزی",
+    "ostanId": "21",
+    "shahrestanId": "296",
+    "amarCode": "81201"
+  },
+  {
+    "id": "884",
+    "name": "مرکزی",
+    "ostanId": "21",
+    "shahrestanId": "299",
+    "amarCode": "82201"
+  },
+  {
+    "id": "885",
+    "name": "مرکزی",
+    "ostanId": "21",
+    "shahrestanId": "313",
+    "amarCode": "81901"
+  },
+  {
+    "id": "886",
+    "name": "مرکزی",
+    "ostanId": "21",
+    "shahrestanId": "326",
+    "amarCode": "81602"
+  },
+  {
+    "id": "887",
+    "name": "مرکزی",
+    "ostanId": "21",
+    "shahrestanId": "338",
+    "amarCode": "80805"
+  },
+  {
+    "id": "888",
+    "name": "مرکزی",
+    "ostanId": "21",
+    "shahrestanId": "356",
+    "amarCode": "80904"
+  },
+  {
+    "id": "889",
+    "name": "مرکزی",
+    "ostanId": "21",
+    "shahrestanId": "351",
+    "amarCode": "81402"
+  },
+  {
+    "id": "890",
+    "name": "مرکزی",
+    "ostanId": "21",
+    "shahrestanId": "402",
+    "amarCode": "81301"
+  },
+  {
+    "id": "891",
+    "name": "مرکزی",
+    "ostanId": "21",
+    "shahrestanId": "420",
+    "amarCode": "82101"
+  },
+  {
+    "id": "892",
+    "name": "مرکزی",
+    "ostanId": "23",
+    "shahrestanId": "58",
+    "amarCode": "170701"
+  },
+  {
+    "id": "893",
+    "name": "مرکزی",
+    "ostanId": "23",
+    "shahrestanId": "97",
+    "amarCode": "170502"
+  },
+  {
+    "id": "894",
+    "name": "مرکزی",
+    "ostanId": "23",
+    "shahrestanId": "90",
+    "amarCode": "170103"
+  },
+  {
+    "id": "895",
+    "name": "مرکزی",
+    "ostanId": "23",
+    "shahrestanId": "145",
+    "amarCode": "170601"
+  },
+  {
+    "id": "896",
+    "name": "مرکزی",
+    "ostanId": "23",
+    "shahrestanId": "192",
+    "amarCode": "170403"
+  },
+  {
+    "id": "897",
+    "name": "مرکزی",
+    "ostanId": "23",
+    "shahrestanId": "355",
+    "amarCode": "170205"
+  },
+  {
+    "id": "898",
+    "name": "مرکزی",
+    "ostanId": "23",
+    "shahrestanId": "360",
+    "amarCode": "170302"
+  },
+  {
+    "id": "899",
+    "name": "مرکزی",
+    "ostanId": "23",
+    "shahrestanId": "379",
+    "amarCode": "170801"
+  },
+  {
+    "id": "900",
+    "name": "مرکزی",
+    "ostanId": "23",
+    "shahrestanId": "381",
+    "amarCode": "170901"
+  },
+  {
+    "id": "901",
+    "name": "مرکزی",
+    "ostanId": "22",
+    "shahrestanId": "32",
+    "amarCode": "50103"
+  },
+  {
+    "id": "902",
+    "name": "مرکزی",
+    "ostanId": "22",
+    "shahrestanId": "107",
+    "amarCode": "50302"
+  },
+  {
+    "id": "903",
+    "name": "مرکزی",
+    "ostanId": "22",
+    "shahrestanId": "128",
+    "amarCode": "51201"
+  },
+  {
+    "id": "904",
+    "name": "مرکزی",
+    "ostanId": "22",
+    "shahrestanId": "134",
+    "amarCode": "50903"
+  },
+  {
+    "id": "905",
+    "name": "مرکزی",
+    "ostanId": "22",
+    "shahrestanId": "176",
+    "amarCode": "51302"
+  },
+  {
+    "id": "906",
+    "name": "مرکزی",
+    "ostanId": "22",
+    "shahrestanId": "215",
+    "amarCode": "51402"
+  },
+  {
+    "id": "907",
+    "name": "مرکزی",
+    "ostanId": "22",
+    "shahrestanId": "244",
+    "amarCode": "50401"
+  },
+  {
+    "id": "908",
+    "name": "مرکزی",
+    "ostanId": "22",
+    "shahrestanId": "258",
+    "amarCode": "50501"
+  },
+  {
+    "id": "909",
+    "name": "مرکزی",
+    "ostanId": "22",
+    "shahrestanId": "286",
+    "amarCode": "51002"
+  },
+  {
+    "id": "910",
+    "name": "مرکزی",
+    "ostanId": "22",
+    "shahrestanId": "324",
+    "amarCode": "50602"
+  },
+  {
+    "id": "911",
+    "name": "مرکزی",
+    "ostanId": "22",
+    "shahrestanId": "339",
+    "amarCode": "50204"
+  },
+  {
+    "id": "912",
+    "name": "مرکزی",
+    "ostanId": "22",
+    "shahrestanId": "347",
+    "amarCode": "50701"
+  },
+  {
+    "id": "913",
+    "name": "مرکزی",
+    "ostanId": "22",
+    "shahrestanId": "372",
+    "amarCode": "50801"
+  },
+  {
+    "id": "914",
+    "name": "مرکزی",
+    "ostanId": "22",
+    "shahrestanId": "438",
+    "amarCode": "51102"
+  },
+  {
+    "id": "915",
+    "name": "مرکزی",
+    "ostanId": "24",
+    "shahrestanId": "8",
+    "amarCode": "271002"
+  },
+  {
+    "id": "916",
+    "name": "مرکزی",
+    "ostanId": "24",
+    "shahrestanId": "13",
+    "amarCode": "270802"
+  },
+  {
+    "id": "917",
+    "name": "مرکزی",
+    "ostanId": "24",
+    "shahrestanId": "83",
+    "amarCode": "270101"
+  },
+  {
+    "id": "918",
+    "name": "مرکزی",
+    "ostanId": "24",
+    "shahrestanId": "118",
+    "amarCode": "270202"
+  },
+  {
+    "id": "919",
+    "name": "مرکزی",
+    "ostanId": "24",
+    "shahrestanId": "206",
+    "amarCode": "271102"
+  },
+  {
+    "id": "920",
+    "name": "مرکزی",
+    "ostanId": "24",
+    "shahrestanId": "295",
+    "amarCode": "270301"
+  },
+  {
+    "id": "921",
+    "name": "مرکزی",
+    "ostanId": "24",
+    "shahrestanId": "337",
+    "amarCode": "270401"
+  },
+  {
+    "id": "922",
+    "name": "مرکزی",
+    "ostanId": "24",
+    "shahrestanId": "342",
+    "amarCode": "270902"
+  },
+  {
+    "id": "923",
+    "name": "مرکزی",
+    "ostanId": "24",
+    "shahrestanId": "358",
+    "amarCode": "271401"
+  },
+  {
+    "id": "924",
+    "name": "مرکزی",
+    "ostanId": "24",
+    "shahrestanId": "362",
+    "amarCode": "270502"
+  },
+  {
+    "id": "925",
+    "name": "مرکزی",
+    "ostanId": "24",
+    "shahrestanId": "368",
+    "amarCode": "271301"
+  },
+  {
+    "id": "926",
+    "name": "مرکزی",
+    "ostanId": "24",
+    "shahrestanId": "371",
+    "amarCode": "270604"
+  },
+  {
+    "id": "927",
+    "name": "مرکزی",
+    "ostanId": "24",
+    "shahrestanId": "390",
+    "amarCode": "271201"
+  },
+  {
+    "id": "928",
+    "name": "مرکزی",
+    "ostanId": "24",
+    "shahrestanId": "417",
+    "amarCode": "270704"
+  },
+  {
+    "id": "929",
+    "name": "مرکزی",
+    "ostanId": "25",
+    "shahrestanId": "42",
+    "amarCode": "11302"
+  },
+  {
+    "id": "930",
+    "name": "مرکزی",
+    "ostanId": "25",
+    "shahrestanId": "9",
+    "amarCode": "10101"
+  },
+  {
+    "id": "931",
+    "name": "مرکزی",
+    "ostanId": "25",
+    "shahrestanId": "10",
+    "amarCode": "10202"
+  },
+  {
+    "id": "932",
+    "name": "مرکزی",
+    "ostanId": "25",
+    "shahrestanId": "81",
+    "amarCode": "10301"
+  },
+  {
+    "id": "933",
+    "name": "مرکزی",
+    "ostanId": "25",
+    "shahrestanId": "211",
+    "amarCode": "10505"
+  },
+  {
+    "id": "934",
+    "name": "مرکزی",
+    "ostanId": "25",
+    "shahrestanId": "213",
+    "amarCode": "11402"
+  },
+  {
+    "id": "935",
+    "name": "مرکزی",
+    "ostanId": "25",
+    "shahrestanId": "217",
+    "amarCode": "10603"
+  },
+  {
+    "id": "936",
+    "name": "مرکزی",
+    "ostanId": "25",
+    "shahrestanId": "219",
+    "amarCode": "10703"
+  },
+  {
+    "id": "937",
+    "name": "مرکزی",
+    "ostanId": "25",
+    "shahrestanId": "262",
+    "amarCode": "11502"
+  },
+  {
+    "id": "938",
+    "name": "مرکزی",
+    "ostanId": "25",
+    "shahrestanId": "274",
+    "amarCode": "11202"
+  },
+  {
+    "id": "939",
+    "name": "مرکزی",
+    "ostanId": "25",
+    "shahrestanId": "287",
+    "amarCode": "10802"
+  },
+  {
+    "id": "940",
+    "name": "مرکزی",
+    "ostanId": "25",
+    "shahrestanId": "291",
+    "amarCode": "10403"
+  },
+  {
+    "id": "941",
+    "name": "مرکزی",
+    "ostanId": "25",
+    "shahrestanId": "312",
+    "amarCode": "10902"
+  },
+  {
+    "id": "942",
+    "name": "مرکزی",
+    "ostanId": "25",
+    "shahrestanId": "376",
+    "amarCode": "11102"
+  },
+  {
+    "id": "943",
+    "name": "مرکزی",
+    "ostanId": "25",
+    "shahrestanId": "380",
+    "amarCode": "11001"
+  },
+  {
+    "id": "944",
+    "name": "مرکزی",
+    "ostanId": "25",
+    "shahrestanId": "382",
+    "amarCode": "11602"
+  },
+  {
+    "id": "945",
+    "name": "مرکزی",
+    "ostanId": "26",
+    "shahrestanId": "27",
+    "amarCode": "150702"
+  },
+  {
+    "id": "946",
+    "name": "مرکزی",
+    "ostanId": "26",
+    "shahrestanId": "41",
+    "amarCode": "150103"
+  },
+  {
+    "id": "947",
+    "name": "مرکزی",
+    "ostanId": "26",
+    "shahrestanId": "71",
+    "amarCode": "150202"
+  },
+  {
+    "id": "948",
+    "name": "مرکزی",
+    "ostanId": "26",
+    "shahrestanId": "109",
+    "amarCode": "150801"
+  },
+  {
+    "id": "949",
+    "name": "مرکزی",
+    "ostanId": "26",
+    "shahrestanId": "157",
+    "amarCode": "150306"
+  },
+  {
+    "id": "950",
+    "name": "مرکزی",
+    "ostanId": "26",
+    "shahrestanId": "188",
+    "amarCode": "150402"
+  },
+  {
+    "id": "951",
+    "name": "مرکزی",
+    "ostanId": "26",
+    "shahrestanId": "193",
+    "amarCode": "150502"
+  },
+  {
+    "id": "952",
+    "name": "مرکزی",
+    "ostanId": "26",
+    "shahrestanId": "220",
+    "amarCode": "151102"
+  },
+  {
+    "id": "953",
+    "name": "مرکزی",
+    "ostanId": "26",
+    "shahrestanId": "253",
+    "amarCode": "150902"
+  },
+  {
+    "id": "954",
+    "name": "مرکزی",
+    "ostanId": "26",
+    "shahrestanId": "352",
+    "amarCode": "150603"
+  },
+  {
+    "id": "955",
+    "name": "مرکزی",
+    "ostanId": "27",
+    "shahrestanId": "14",
+    "amarCode": "20102"
+  },
+  {
+    "id": "956",
+    "name": "مرکزی",
+    "ostanId": "27",
+    "shahrestanId": "55",
+    "amarCode": "20202"
+  },
+  {
+    "id": "957",
+    "name": "مرکزی",
+    "ostanId": "27",
+    "shahrestanId": "56",
+    "amarCode": "21602"
+  },
+  {
+    "id": "958",
+    "name": "مرکزی",
+    "ostanId": "27",
+    "shahrestanId": "96",
+    "amarCode": "20402"
+  },
+  {
+    "id": "959",
+    "name": "مرکزی",
+    "ostanId": "27",
+    "shahrestanId": "123",
+    "amarCode": "20502"
+  },
+  {
+    "id": "960",
+    "name": "مرکزی",
+    "ostanId": "27",
+    "shahrestanId": "135",
+    "amarCode": "22102"
+  },
+  {
+    "id": "961",
+    "name": "مرکزی",
+    "ostanId": "27",
+    "shahrestanId": "142",
+    "amarCode": "22002"
+  },
+  {
+    "id": "962",
+    "name": "مرکزی",
+    "ostanId": "27",
+    "shahrestanId": "203",
+    "amarCode": "20601"
+  },
+  {
+    "id": "963",
+    "name": "مرکزی",
+    "ostanId": "27",
+    "shahrestanId": "233",
+    "amarCode": "20703"
+  },
+  {
+    "id": "964",
+    "name": "مرکزی",
+    "ostanId": "27",
+    "shahrestanId": "260",
+    "amarCode": "20802"
+  },
+  {
+    "id": "965",
+    "name": "مرکزی",
+    "ostanId": "27",
+    "shahrestanId": "261",
+    "amarCode": "22701"
+  },
+  {
+    "id": "966",
+    "name": "مرکزی",
+    "ostanId": "27",
+    "shahrestanId": "267",
+    "amarCode": "22601"
+  },
+  {
+    "id": "967",
+    "name": "مرکزی",
+    "ostanId": "27",
+    "shahrestanId": "292",
+    "amarCode": "22401"
+  },
+  {
+    "id": "968",
+    "name": "مرکزی",
+    "ostanId": "27",
+    "shahrestanId": "307",
+    "amarCode": "22302"
+  },
+  {
+    "id": "969",
+    "name": "مرکزی",
+    "ostanId": "27",
+    "shahrestanId": "317",
+    "amarCode": "21002"
+  },
+  {
+    "id": "970",
+    "name": "مرکزی",
+    "ostanId": "27",
+    "shahrestanId": "341",
+    "amarCode": "22801"
+  },
+  {
+    "id": "971",
+    "name": "مرکزی",
+    "ostanId": "27",
+    "shahrestanId": "367",
+    "amarCode": "22202"
+  },
+  {
+    "id": "972",
+    "name": "مرکزی",
+    "ostanId": "27",
+    "shahrestanId": "388",
+    "amarCode": "21802"
+  },
+  {
+    "id": "973",
+    "name": "مرکزی",
+    "ostanId": "27",
+    "shahrestanId": "412",
+    "amarCode": "22501"
+  },
+  {
+    "id": "974",
+    "name": "مرکزی",
+    "ostanId": "27",
+    "shahrestanId": "424",
+    "amarCode": "21901"
+  },
+  {
+    "id": "975",
+    "name": "مرکزی",
+    "ostanId": "27",
+    "shahrestanId": "426",
+    "amarCode": "21403"
+  },
+  {
+    "id": "976",
+    "name": "مرکزی",
+    "ostanId": "27",
+    "shahrestanId": "427",
+    "amarCode": "21504"
+  },
+  {
+    "id": "977",
+    "name": "مرکزی",
+    "ostanId": "28",
+    "shahrestanId": "19",
+    "amarCode": "102"
+  },
+  {
+    "id": "978",
+    "name": "مرکزی",
+    "ostanId": "28",
+    "shahrestanId": "11",
+    "amarCode": "201"
+  },
+  {
+    "id": "979",
+    "name": "مرکزی",
+    "ostanId": "28",
+    "shahrestanId": "121",
+    "amarCode": "302"
+  },
+  {
+    "id": "980",
+    "name": "مرکزی",
+    "ostanId": "28",
+    "shahrestanId": "165",
+    "amarCode": "401"
+  },
+  {
+    "id": "981",
+    "name": "مرکزی",
+    "ostanId": "28",
+    "shahrestanId": "168",
+    "amarCode": "1202"
+  },
+  {
+    "id": "982",
+    "name": "مرکزی",
+    "ostanId": "28",
+    "shahrestanId": "190",
+    "amarCode": "501"
+  },
+  {
+    "id": "983",
+    "name": "مرکزی",
+    "ostanId": "28",
+    "shahrestanId": "228",
+    "amarCode": "1002"
+  },
+  {
+    "id": "984",
+    "name": "مرکزی",
+    "ostanId": "28",
+    "shahrestanId": "236",
+    "amarCode": "603"
+  },
+  {
+    "id": "985",
+    "name": "مرکزی",
+    "ostanId": "28",
+    "shahrestanId": "269",
+    "amarCode": "701"
+  },
+  {
+    "id": "986",
+    "name": "مرکزی",
+    "ostanId": "28",
+    "shahrestanId": "302",
+    "amarCode": "1301"
+  },
+  {
+    "id": "987",
+    "name": "مرکزی",
+    "ostanId": "28",
+    "shahrestanId": "344",
+    "amarCode": "1101"
+  },
+  {
+    "id": "988",
+    "name": "مرکزی",
+    "ostanId": "28",
+    "shahrestanId": "387",
+    "amarCode": "901"
+  },
+  {
+    "id": "989",
+    "name": "مرکزی",
+    "ostanId": "29",
+    "shahrestanId": "17",
+    "amarCode": "220102"
+  },
+  {
+    "id": "990",
+    "name": "مرکزی",
+    "ostanId": "29",
+    "shahrestanId": "74",
+    "amarCode": "220902"
+  },
+  {
+    "id": "991",
+    "name": "مرکزی",
+    "ostanId": "29",
+    "shahrestanId": "75",
+    "amarCode": "221301"
+  },
+  {
+    "id": "992",
+    "name": "مرکزی",
+    "ostanId": "29",
+    "shahrestanId": "82",
+    "amarCode": "220204"
+  },
+  {
+    "id": "993",
+    "name": "مرکزی",
+    "ostanId": "29",
+    "shahrestanId": "84",
+    "amarCode": "220305"
+  },
+  {
+    "id": "994",
+    "name": "مرکزی",
+    "ostanId": "29",
+    "shahrestanId": "104",
+    "amarCode": "221102"
+  },
+  {
+    "id": "995",
+    "name": "مرکزی",
+    "ostanId": "29",
+    "shahrestanId": "130",
+    "amarCode": "220602"
+  },
+  {
+    "id": "996",
+    "name": "مرکزی",
+    "ostanId": "29",
+    "shahrestanId": "149",
+    "amarCode": "220802"
+  },
+  {
+    "id": "997",
+    "name": "مرکزی",
+    "ostanId": "29",
+    "shahrestanId": "164",
+    "amarCode": "221002"
+  },
+  {
+    "id": "998",
+    "name": "مرکزی",
+    "ostanId": "29",
+    "shahrestanId": "216",
+    "amarCode": "220702"
+  },
+  {
+    "id": "999",
+    "name": "مرکزی",
+    "ostanId": "29",
+    "shahrestanId": "266",
+    "amarCode": "221202"
+  },
+  {
+    "id": "1000",
+    "name": "مرکزی",
+    "ostanId": "29",
+    "shahrestanId": "323",
+    "amarCode": "220402"
+  },
+  {
+    "id": "1001",
+    "name": "مرکزی",
+    "ostanId": "29",
+    "shahrestanId": "416",
+    "amarCode": "220503"
+  },
+  {
+    "id": "1002",
+    "name": "مرکزی",
+    "ostanId": "30",
+    "shahrestanId": "29",
+    "amarCode": "130601"
+  },
+  {
+    "id": "1003",
+    "name": "مرکزی",
+    "ostanId": "30",
+    "shahrestanId": "93",
+    "amarCode": "130702"
+  },
+  {
+    "id": "1004",
+    "name": "مرکزی",
+    "ostanId": "30",
+    "shahrestanId": "125",
+    "amarCode": "130102"
+  },
+  {
+    "id": "1005",
+    "name": "مرکزی",
+    "ostanId": "30",
+    "shahrestanId": "180",
+    "amarCode": "131002"
+  },
+  {
+    "id": "1006",
+    "name": "مرکزی",
+    "ostanId": "30",
+    "shahrestanId": "209",
+    "amarCode": "130803"
+  },
+  {
+    "id": "1007",
+    "name": "مرکزی",
+    "ostanId": "30",
+    "shahrestanId": "300",
+    "amarCode": "130901"
+  },
+  {
+    "id": "1008",
+    "name": "مرکزی",
+    "ostanId": "30",
+    "shahrestanId": "335",
+    "amarCode": "130502"
+  },
+  {
+    "id": "1009",
+    "name": "مرکزی",
+    "ostanId": "30",
+    "shahrestanId": "398",
+    "amarCode": "130203"
+  },
+  {
+    "id": "1010",
+    "name": "مرکزی",
+    "ostanId": "30",
+    "shahrestanId": "428",
+    "amarCode": "130302"
+  },
+  {
+    "id": "1011",
+    "name": "مرکزی",
+    "ostanId": "30",
+    "shahrestanId": "443",
+    "amarCode": "130407"
+  },
+  {
+    "id": "1012",
+    "name": "مرکزی",
+    "ostanId": "31",
+    "shahrestanId": "16",
+    "amarCode": "210702"
+  },
+  {
+    "id": "1013",
+    "name": "مرکزی",
+    "ostanId": "31",
+    "shahrestanId": "22",
+    "amarCode": "210102"
+  },
+  {
+    "id": "1014",
+    "name": "مرکزی",
+    "ostanId": "31",
+    "shahrestanId": "35",
+    "amarCode": "210802"
+  },
+  {
+    "id": "1015",
+    "name": "مرکزی",
+    "ostanId": "31",
+    "shahrestanId": "61",
+    "amarCode": "210202"
+  },
+  {
+    "id": "1016",
+    "name": "مرکزی",
+    "ostanId": "31",
+    "shahrestanId": "92",
+    "amarCode": "211102"
+  },
+  {
+    "id": "1017",
+    "name": "مرکزی",
+    "ostanId": "31",
+    "shahrestanId": "119",
+    "amarCode": "210302"
+  },
+  {
+    "id": "1018",
+    "name": "مرکزی",
+    "ostanId": "31",
+    "shahrestanId": "151",
+    "amarCode": "210901"
+  },
+  {
+    "id": "1019",
+    "name": "مرکزی",
+    "ostanId": "31",
+    "shahrestanId": "409",
+    "amarCode": "210401"
+  },
+  {
+    "id": "1020",
+    "name": "مرکزی",
+    "ostanId": "31",
+    "shahrestanId": "414",
+    "amarCode": "210601"
+  },
+  {
+    "id": "1021",
+    "name": "مرکزی",
+    "ostanId": "31",
+    "shahrestanId": "448",
+    "amarCode": "210503"
+  },
+  {
+    "id": "1022",
+    "name": "مروست",
+    "ostanId": "31",
+    "shahrestanId": "151",
+    "amarCode": "210902"
+  },
+  {
+    "id": "1023",
+    "name": "مزایجان",
+    "ostanId": "17",
+    "shahrestanId": "87",
+    "amarCode": "71603"
+  },
+  {
+    "id": "1024",
+    "name": "مشراگه",
+    "ostanId": "13",
+    "shahrestanId": "204",
+    "amarCode": "61902"
+  },
+  {
+    "id": "1025",
+    "name": "مشکان",
+    "ostanId": "11",
+    "shahrestanId": "173",
+    "amarCode": "93802"
+  },
+  {
+    "id": "1026",
+    "name": "مشکین دشت",
+    "ostanId": "5",
+    "shahrestanId": "304",
+    "amarCode": "300602"
+  },
+  {
+    "id": "1027",
+    "name": "مشکین شرقی",
+    "ostanId": "3",
+    "shahrestanId": "395",
+    "amarCode": "240403"
+  },
+  {
+    "id": "1028",
+    "name": "مشهدمرغاب",
+    "ostanId": "17",
+    "shahrestanId": "158",
+    "amarCode": "71801"
+  },
+  {
+    "id": "1029",
+    "name": "معصومیه",
+    "ostanId": "28",
+    "shahrestanId": "19",
+    "amarCode": "104"
+  },
+  {
+    "id": "1030",
+    "name": "معمولان",
+    "ostanId": "26",
+    "shahrestanId": "109",
+    "amarCode": "150802"
+  },
+  {
+    "id": "1031",
+    "name": "ممقان",
+    "ostanId": "1",
+    "shahrestanId": "5",
+    "amarCode": "32102"
+  },
+  {
+    "id": "1032",
+    "name": "منج",
+    "ostanId": "9",
+    "shahrestanId": "377",
+    "amarCode": "140404"
+  },
+  {
+    "id": "1033",
+    "name": "منجوان",
+    "ostanId": "1",
+    "shahrestanId": "154",
+    "amarCode": "32603"
+  },
+  {
+    "id": "1034",
+    "name": "موچش",
+    "ostanId": "20",
+    "shahrestanId": "334",
+    "amarCode": "120802"
+  },
+  {
+    "id": "1035",
+    "name": "مود",
+    "ostanId": "10",
+    "shahrestanId": "243",
+    "amarCode": "290302"
+  },
+  {
+    "id": "1036",
+    "name": "موران",
+    "ostanId": "3",
+    "shahrestanId": "365",
+    "amarCode": "240505"
+  },
+  {
+    "id": "1037",
+    "name": "موسیان",
+    "ostanId": "6",
+    "shahrestanId": "196",
+    "amarCode": "160303"
+  },
+  {
+    "id": "1038",
+    "name": "موگرمون",
+    "ostanId": "23",
+    "shahrestanId": "379",
+    "amarCode": "170802"
+  },
+  {
+    "id": "1039",
+    "name": "مهاباد",
+    "ostanId": "4",
+    "shahrestanId": "21",
+    "amarCode": "100103"
+  },
+  {
+    "id": "1040",
+    "name": "مهران",
+    "ostanId": "29",
+    "shahrestanId": "84",
+    "amarCode": "220306"
+  },
+  {
+    "id": "1041",
+    "name": "مهربان",
+    "ostanId": "1",
+    "shahrestanId": "239",
+    "amarCode": "30502"
+  },
+  {
+    "id": "1042",
+    "name": "مهردشت",
+    "ostanId": "4",
+    "shahrestanId": "419",
+    "amarCode": "101403"
+  },
+  {
+    "id": "1043",
+    "name": "مهرگان",
+    "ostanId": "16",
+    "shahrestanId": "240",
+    "amarCode": "110606"
+  },
+  {
+    "id": "1044",
+    "name": "میان آب",
+    "ostanId": "13",
+    "shahrestanId": "277",
+    "amarCode": "61204"
+  },
+  {
+    "id": "1045",
+    "name": "میان جلگه",
+    "ostanId": "11",
+    "shahrestanId": "432",
+    "amarCode": "91705"
+  },
+  {
+    "id": "1046",
+    "name": "میان ولایت",
+    "ostanId": "11",
+    "shahrestanId": "114",
+    "amarCode": "90403"
+  },
+  {
+    "id": "1047",
+    "name": "میانکوه",
+    "ostanId": "9",
+    "shahrestanId": "23",
+    "amarCode": "140502"
+  },
+  {
+    "id": "1048",
+    "name": "میداود",
+    "ostanId": "13",
+    "shahrestanId": "59",
+    "amarCode": "61504"
+  },
+  {
+    "id": "1049",
+    "name": "میرزاکوچک جنگلی",
+    "ostanId": "25",
+    "shahrestanId": "287",
+    "amarCode": "10803"
+  },
+  {
+    "id": "1050",
+    "name": "میلاجرد",
+    "ostanId": "28",
+    "shahrestanId": "344",
+    "amarCode": "1102"
+  },
+  {
+    "id": "1051",
+    "name": "میمند",
+    "ostanId": "17",
+    "shahrestanId": "314",
+    "amarCode": "70904"
+  },
+  {
+    "id": "1052",
+    "name": "میمه",
+    "ostanId": "4",
+    "shahrestanId": "272",
+    "amarCode": "101602"
+  },
+  {
+    "id": "1053",
+    "name": "مینان",
+    "ostanId": "16",
+    "shahrestanId": "242",
+    "amarCode": "112303"
+  },
+  {
+    "id": "1054",
+    "name": "مینو",
+    "ostanId": "13",
+    "shahrestanId": "160",
+    "amarCode": "60702"
+  },
+  {
+    "id": "1055",
+    "name": "نارنجستان",
+    "ostanId": "27",
+    "shahrestanId": "261",
+    "amarCode": "22702"
+  },
+  {
+    "id": "1056",
+    "name": "نازلو",
+    "ostanId": "2",
+    "shahrestanId": "26",
+    "amarCode": "40105"
+  },
+  {
+    "id": "1057",
+    "name": "نازیل",
+    "ostanId": "16",
+    "shahrestanId": "120",
+    "amarCode": "112102"
+  },
+  {
+    "id": "1058",
+    "name": "ناغان",
+    "ostanId": "9",
+    "shahrestanId": "357",
+    "amarCode": "140702"
+  },
+  {
+    "id": "1059",
+    "name": "نالوس",
+    "ostanId": "2",
+    "shahrestanId": "36",
+    "amarCode": "41302"
+  },
+  {
+    "id": "1060",
+    "name": "ندوشن",
+    "ostanId": "31",
+    "shahrestanId": "414",
+    "amarCode": "210602"
+  },
+  {
+    "id": "1061",
+    "name": "نسکند",
+    "ostanId": "16",
+    "shahrestanId": "242",
+    "amarCode": "112304"
+  },
+  {
+    "id": "1062",
+    "name": "نشتا",
+    "ostanId": "27",
+    "shahrestanId": "123",
+    "amarCode": "20503"
+  },
+  {
+    "id": "1063",
+    "name": "نصرآباد",
+    "ostanId": "11",
+    "shahrestanId": "116",
+    "amarCode": "90603"
+  },
+  {
+    "id": "1064",
+    "name": "نصرت آباد",
+    "ostanId": "16",
+    "shahrestanId": "225",
+    "amarCode": "110503"
+  },
+  {
+    "id": "1065",
+    "name": "نظرکهریزی",
+    "ostanId": "1",
+    "shahrestanId": "440",
+    "amarCode": "31103"
+  },
+  {
+    "id": "1066",
+    "name": "نگار",
+    "ostanId": "21",
+    "shahrestanId": "70",
+    "amarCode": "81004"
+  },
+  {
+    "id": "1067",
+    "name": "نگین کویر",
+    "ostanId": "21",
+    "shahrestanId": "313",
+    "amarCode": "81902"
+  },
+  {
+    "id": "1068",
+    "name": "نمشیر",
+    "ostanId": "20",
+    "shahrestanId": "62",
+    "amarCode": "120103"
+  },
+  {
+    "id": "1069",
+    "name": "ننور",
+    "ostanId": "20",
+    "shahrestanId": "62",
+    "amarCode": "120104"
+  },
+  {
+    "id": "1070",
+    "name": "نوبران",
+    "ostanId": "28",
+    "shahrestanId": "236",
+    "amarCode": "604"
+  },
+  {
+    "id": "1071",
+    "name": "نوبندگان",
+    "ostanId": "17",
+    "shahrestanId": "309",
+    "amarCode": "70804"
+  },
+  {
+    "id": "1072",
+    "name": "نوخندان",
+    "ostanId": "11",
+    "shahrestanId": "179",
+    "amarCode": "90704"
+  },
+  {
+    "id": "1073",
+    "name": "نوده انقلاب",
+    "ostanId": "11",
+    "shahrestanId": "173",
+    "amarCode": "93803"
+  },
+  {
+    "id": "1074",
+    "name": "نوسود",
+    "ostanId": "22",
+    "shahrestanId": "107",
+    "amarCode": "50303"
+  },
+  {
+    "id": "1075",
+    "name": "نوق",
+    "ostanId": "21",
+    "shahrestanId": "214",
+    "amarCode": "80404"
+  },
+  {
+    "id": "1076",
+    "name": "نوکنده",
+    "ostanId": "24",
+    "shahrestanId": "83",
+    "amarCode": "270102"
+  },
+  {
+    "id": "1077",
+    "name": "نیاسر",
+    "ostanId": "4",
+    "shahrestanId": "332",
+    "amarCode": "101004"
+  },
+  {
+    "id": "1078",
+    "name": "نیر",
+    "ostanId": "31",
+    "shahrestanId": "119",
+    "amarCode": "210303"
+  },
+  {
+    "id": "1079",
+    "name": "نیسان",
+    "ostanId": "13",
+    "shahrestanId": "446",
+    "amarCode": "62301"
+  },
+  {
+    "id": "1080",
+    "name": "نیمبلوک",
+    "ostanId": "10",
+    "shahrestanId": "318",
+    "amarCode": "290403"
+  },
+  {
+    "id": "1081",
+    "name": "وراوی",
+    "ostanId": "17",
+    "shahrestanId": "406",
+    "amarCode": "72103"
+  },
+  {
+    "id": "1082",
+    "name": "وردشت",
+    "ostanId": "4",
+    "shahrestanId": "257",
+    "amarCode": "100504"
+  },
+  {
+    "id": "1083",
+    "name": "وزینه",
+    "ostanId": "2",
+    "shahrestanId": "248",
+    "amarCode": "40402"
+  },
+  {
+    "id": "1084",
+    "name": "وشمگیر",
+    "ostanId": "24",
+    "shahrestanId": "13",
+    "amarCode": "270801"
+  },
+  {
+    "id": "1085",
+    "name": "ویس",
+    "ostanId": "13",
+    "shahrestanId": "63",
+    "amarCode": "62402"
+  },
+  {
+    "id": "1086",
+    "name": "ویسیان",
+    "ostanId": "26",
+    "shahrestanId": "147",
+    "amarCode": "151003"
+  },
+  {
+    "id": "1087",
+    "name": "ویلکیج",
+    "ostanId": "3",
+    "shahrestanId": "425",
+    "amarCode": "240801"
+  },
+  {
+    "id": "1088",
+    "name": "هرمز",
+    "ostanId": "29",
+    "shahrestanId": "82",
+    "amarCode": "220207"
+  },
+  {
+    "id": "1089",
+    "name": "هزارجریب",
+    "ostanId": "27",
+    "shahrestanId": "424",
+    "amarCode": "21902"
+  },
+  {
+    "id": "1090",
+    "name": "هلالی",
+    "ostanId": "11",
+    "shahrestanId": "131",
+    "amarCode": "93402"
+  },
+  {
+    "id": "1091",
+    "name": "همایجان",
+    "ostanId": "17",
+    "shahrestanId": "238",
+    "amarCode": "70603"
+  },
+  {
+    "id": "1092",
+    "name": "هندمینی",
+    "ostanId": "6",
+    "shahrestanId": "67",
+    "amarCode": "161002"
+  },
+  {
+    "id": "1093",
+    "name": "هنزا",
+    "ostanId": "21",
+    "shahrestanId": "200",
+    "amarCode": "81802"
+  },
+  {
+    "id": "1094",
+    "name": "هیدوچ",
+    "ostanId": "16",
+    "shahrestanId": "263",
+    "amarCode": "111402"
+  },
+  {
+    "id": "1095",
+    "name": "هیر",
+    "ostanId": "3",
+    "shahrestanId": "20",
+    "amarCode": "240104"
+  },
+  {
+    "id": "1096",
+    "name": "یامچی",
+    "ostanId": "1",
+    "shahrestanId": "391",
+    "amarCode": "30703"
+  },
+  {
+    "id": "1097",
+    "name": "یانه سر",
+    "ostanId": "27",
+    "shahrestanId": "96",
+    "amarCode": "20404"
+  },
+  {
+    "id": "1098",
+    "name": "یزدان آباد",
+    "ostanId": "21",
+    "shahrestanId": "227",
+    "amarCode": "80503"
+  },
+  {
+    "id": "1099",
+    "name": "یونسی",
+    "ostanId": "11",
+    "shahrestanId": "64",
+    "amarCode": "93102"
+  }
+]
