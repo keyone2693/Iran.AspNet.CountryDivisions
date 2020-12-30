@@ -30,7 +30,7 @@ i think we won't need this future :)
 
 
 ##
-.net standard 2.0
+.net standard 2.1
 
 ## Easy to install
 Use the library as dll, reference from [nuget](https://www.nuget.org/packages/Iran.AspNet.CountryDivisions/)
