@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <ApplicationIcon>logo.ico</ApplicationIcon>
-    <Version>1.1.0</Version>
+    <Version>1.1.2</Version>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageIcon>logo.png</PackageIcon>
     <RepositoryUrl>https://github.com/keyone2693/Iran.AspNet.CountryDivisions</RepositoryUrl>
