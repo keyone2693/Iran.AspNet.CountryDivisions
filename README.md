@@ -103,5 +103,5 @@ same for others
 
 [Ahmad Azizi](https://github.com/ahmadazizi) and his [database](https://github.com/ahmadazizi/iran-cities/)
 
-## the package will be updated base on his database
+the package will be updated base on his database
 
