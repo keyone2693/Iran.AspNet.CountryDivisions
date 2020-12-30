@@ -24,8 +24,6 @@ and there is no relation between tables
 i think we won't need this future
 if you think otherwise tell me :)
 
-## Overview
-
 ##
 .net standard 2.0
 
@@ -35,7 +33,6 @@ or use this in package manager console
 ```c#
 Install-Package Iran.AspNet.CountryDivisions
 ```
-
 
 
 # Wiki
