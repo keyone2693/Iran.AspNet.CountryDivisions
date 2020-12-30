@@ -65,6 +65,15 @@ public void Configure(IApplicationBuilder app, IHostingEnvironment env)
   //...
 }
 ```
+then : 
+```c#
+  private readonly IIranCountryDivisions _iranCountryDivisions;
+  public TestController(IIranCountryDivisions iranCountryDivisions)
+  {
+      _iranCountryDivisions = iranCountryDivisions;
+  }
+```
+
 or :
 ```c#
   //...
@@ -93,5 +102,6 @@ same for others
 ## Special thanks
 
 [Ahmad Azizi](https://github.com/ahmadazizi) and his [database](https://github.com/ahmadazizi/iran-cities/)
+
 the package will be updated base on his database
 
