@@ -16,12 +16,18 @@
 
 
 #### Current version: 1.1.x [Stable]
+
+| استان | شهرستان | بخش | شهر | دهستان | آبادی |
+| --- | --- | --- | --- | --- | --- |
+| ۳۱ | ۴۴۸ | ۱۰۹۹ | ۱۵۵۴/۱۳۵۴ | ۲۶۳۷ | ۹۸۱۰۰ |
+
 In this version:
 you can get all provinces, cities, districts, cities, towns and villages
 or search for them
 
 and there is no relation between tables , 
 i think we won't need this future :)
+
 
 ##
 .net standard 2.0
