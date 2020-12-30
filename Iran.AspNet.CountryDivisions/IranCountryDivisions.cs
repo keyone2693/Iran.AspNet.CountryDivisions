@@ -4,14 +4,14 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
 
-using Iran.CountryDivisions.AspNet.Data.Models;
-using Iran.CountryDivisions.AspNet.Extensions;
+using Iran.AspNet.CountryDivisions.Data.Models;
+using Iran.AspNet.CountryDivisions.Extensions;
 
 using Microsoft.EntityFrameworkCore;
 
 using Rahnavard724.Core.Data.DatabaseContext;
 
-namespace Iran.CountryDivisions.AspNet
+namespace Iran.AspNet.CountryDivisions
 {
     public class IranCountryDivisions : IIranCountryDivisions
     {

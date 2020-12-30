@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
-namespace Iran.CountryDivisions.AspNet.Extensions
+namespace Iran.AspNet.CountryDivisions.Extensions
 {
 
     public static class JsonDataPath

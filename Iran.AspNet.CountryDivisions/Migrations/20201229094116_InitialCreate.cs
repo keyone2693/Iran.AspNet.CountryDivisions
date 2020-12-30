@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Iran.CountryDivisions.AspNet.Migrations
+namespace Iran.AspNet.CountryDivisions.Migrations
 {
     public partial class InitialCreate : Migration
     {

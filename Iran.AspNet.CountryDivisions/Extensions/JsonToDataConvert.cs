@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-using Iran.CountryDivisions.AspNet.Data.Models;
+using Iran.AspNet.CountryDivisions.Data.Models;
 
 using Newtonsoft.Json;
 
-namespace Iran.CountryDivisions.AspNet.Extensions
+namespace Iran.AspNet.CountryDivisions.Extensions
 {
     public static class JsonToDataConvert
     {

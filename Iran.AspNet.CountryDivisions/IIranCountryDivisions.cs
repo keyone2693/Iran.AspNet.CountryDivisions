@@ -4,9 +4,9 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
 
-using Iran.CountryDivisions.AspNet.Data.Models;
+using Iran.AspNet.CountryDivisions.Data.Models;
 
-namespace Iran.CountryDivisions.AspNet
+namespace Iran.AspNet.CountryDivisions
 {
     public interface IIranCountryDivisions
     {

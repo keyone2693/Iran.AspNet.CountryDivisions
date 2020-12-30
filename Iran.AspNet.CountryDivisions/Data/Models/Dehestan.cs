@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Iran.CountryDivisions.AspNet.Data.Models
+namespace Iran.AspNet.CountryDivisions.Data.Models
 {
     public class Dehestan
     {

@@ -1,4 +1,4 @@
-﻿using Iran.CountryDivisions.AspNet;
+﻿using Iran.AspNet.CountryDivisions;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace Iran.AspNet.CountryDivisions.Helpers

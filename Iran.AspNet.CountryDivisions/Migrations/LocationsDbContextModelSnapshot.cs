@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore.Storage;
 using Rahnavard724.Core.Data.DatabaseContext;
 using System;
 
-namespace Iran.CountryDivisions.AspNet.Migrations
+namespace Iran.AspNet.CountryDivisions.Migrations
 {
     [DbContext(typeof(LocationsDbContext))]
     partial class LocationsDbContextModelSnapshot : ModelSnapshot
@@ -18,7 +18,7 @@ namespace Iran.CountryDivisions.AspNet.Migrations
             modelBuilder
                 .HasAnnotation("ProductVersion", "2.0.0-rtm-26452");
 
-            modelBuilder.Entity("Iran.CountryDivisions.AspNet.Data.Models.Abadi", b =>
+            modelBuilder.Entity("Iran.AspNet.CountryDivisions.Data.Models.Abadi", b =>
                 {
                     b.Property<string>("Id")
                         .ValueGeneratedOnAdd();
@@ -44,7 +44,7 @@ namespace Iran.CountryDivisions.AspNet.Migrations
                     b.ToTable("Abadis");
                 });
 
-            modelBuilder.Entity("Iran.CountryDivisions.AspNet.Data.Models.Bakhsh", b =>
+            modelBuilder.Entity("Iran.AspNet.CountryDivisions.Data.Models.Bakhsh", b =>
                 {
                     b.Property<string>("Id")
                         .ValueGeneratedOnAdd();
@@ -62,7 +62,7 @@ namespace Iran.CountryDivisions.AspNet.Migrations
                     b.ToTable("Bakhshs");
                 });
 
-            modelBuilder.Entity("Iran.CountryDivisions.AspNet.Data.Models.Dehestan", b =>
+            modelBuilder.Entity("Iran.AspNet.CountryDivisions.Data.Models.Dehestan", b =>
                 {
                     b.Property<string>("Id")
                         .ValueGeneratedOnAdd();
@@ -82,7 +82,7 @@ namespace Iran.CountryDivisions.AspNet.Migrations
                     b.ToTable("Dehestans");
                 });
 
-            modelBuilder.Entity("Iran.CountryDivisions.AspNet.Data.Models.Ostan", b =>
+            modelBuilder.Entity("Iran.AspNet.CountryDivisions.Data.Models.Ostan", b =>
                 {
                     b.Property<string>("Id")
                         .ValueGeneratedOnAdd();
@@ -96,7 +96,7 @@ namespace Iran.CountryDivisions.AspNet.Migrations
                     b.ToTable("Ostans");
                 });
 
-            modelBuilder.Entity("Iran.CountryDivisions.AspNet.Data.Models.Shahr", b =>
+            modelBuilder.Entity("Iran.AspNet.CountryDivisions.Data.Models.Shahr", b =>
                 {
                     b.Property<string>("id")
                         .ValueGeneratedOnAdd();
@@ -118,7 +118,7 @@ namespace Iran.CountryDivisions.AspNet.Migrations
                     b.ToTable("Shahrs");
                 });
 
-            modelBuilder.Entity("Iran.CountryDivisions.AspNet.Data.Models.Shahrestan", b =>
+            modelBuilder.Entity("Iran.AspNet.CountryDivisions.Data.Models.Shahrestan", b =>
                 {
                     b.Property<string>("Id")
                         .ValueGeneratedOnAdd();

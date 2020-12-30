@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-using Iran.CountryDivisions.AspNet.Data.Models;
+using Iran.AspNet.CountryDivisions.Data.Models;
 
 using Microsoft.EntityFrameworkCore;
 
