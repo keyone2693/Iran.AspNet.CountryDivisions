@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <ApplicationIcon>logo.ico</ApplicationIcon>
-    <Version>1.1.5</Version>
+    <Version>1.1.11</Version>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageIcon>logo.png</PackageIcon>
     <RepositoryUrl>https://github.com/keyone2693/Iran.AspNet.CountryDivisions</RepositoryUrl>
@@ -17,15 +17,14 @@
     <Company>keyVan Abdollahzadeh</Company>
   </PropertyGroup>
 
-  <ItemGroup>
-    <None Remove="Data\DataBase\locations.db" />
-  </ItemGroup>
 
   <ItemGroup>
     <Content Include="Data\DataBase\locations.db">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <PackageCopyToOutput>true</PackageCopyToOutput>
     </Content>
   </ItemGroup>
+
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Hosting.Abstractions" Version="2.2.0" />
