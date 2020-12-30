@@ -65,6 +65,15 @@ public void Configure(IApplicationBuilder app, IHostingEnvironment env)
   //...
 }
 ```
+then : 
+```c#
+  private readonly IIranCountryDivisions _iranCountryDivisions;
+  public TestController(IIranCountryDivisions iranCountryDivisions)
+  {
+      _iranCountryDivisions = iranCountryDivisions;
+  }
+```
+
 or :
 ```c#
   //...
