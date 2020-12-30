@@ -87,11 +87,11 @@ then you can use it like this :
 
 ```c#
   //...
-  var allOstans = await _iranCountryDivisions.GetOstansAsync(null, null);
+  var allOstans = await _iranCountryDivisions.GetOstansAsync();
   var ostansWithSearchAndOrderByAndCount = await _iranCountryDivisions.GetOstansAsync(p => p.Name.Contains(nameSearch), o=>o.OrderBy(p=>p.Name)) , 10);
   
   
-  var allAbadis = await _iranCountryDivisions.GetOstansAsync(null, null);
+  var allAbadis = await _iranCountryDivisions.GetOstansAsync();
   var abadisWithSearchAndOrderByAndCount = await _iranCountryDivisions.GetAbadisAsync(p => p.ShahrestanId == shahrId &&  p.Name.Contains(nameSearch));
   
   //...
