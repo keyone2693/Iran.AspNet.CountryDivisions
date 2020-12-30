@@ -92,7 +92,7 @@ then you can use it like this :
   
   
   var allAbadis = await _iranCountryDivisions.GetAbadisAsync();
-  var abadisWithSearchAndOrderByAndCount = await _iranCountryDivisions.GetAbadisAsync(p => p.ShahrestanId == shahrId &&  p.Name.Contains(nameSearch));
+  var abadisWithSearch = await _iranCountryDivisions.GetAbadisAsync(p => p.ShahrestanId == shahrId &&  p.Name.Contains(nameSearch));
   
   //...
 ```
