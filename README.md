@@ -91,8 +91,8 @@ then you can use it like this :
   var ostansWithSearchAndOrderByAndCount = await _iranCountryDivisions.GetOstansAsync(p => p.Name.Contains(nameSearch), o=>o.OrderBy(p=>p.Name)) , 10);
   
   
-  var allOstans = await _iranCountryDivisions.GetOstansAsync(null, null);
-  var ostansWithSearchAndOrderByAndCount = await _iranCountryDivisions.GetAbadisAsync(p => p.ShahrestanId == shahrId &&  p.Name.Contains(nameSearch));
+  var allAbadis = await _iranCountryDivisions.GetOstansAsync(null, null);
+  var abadisWithSearchAndOrderByAndCount = await _iranCountryDivisions.GetAbadisAsync(p => p.ShahrestanId == shahrId &&  p.Name.Contains(nameSearch));
   
   //...
 ```
