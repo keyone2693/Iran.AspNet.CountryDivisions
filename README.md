@@ -49,22 +49,12 @@ you only need to add two things
 first:
 add this line of code to your Startup.cs
 
-
+... Recomended ...
 ```c#
 public void ConfigureServices(IServiceCollection services)
 {
   //...
   services.AddIranCountryDivisions();
-  //...
-}
-```
-or :
-```c#
-public void Configure(IApplicationBuilder app, IHostingEnvironment env)
-{
-  //...
-  services.AddScoped<IIranCountryDivisions, IranCountryDivisions>();
-  //...
 }
 ```
 then : 
@@ -79,7 +69,7 @@ then :
 or :
 ```c#
   //...
-  IIranCountryDivisions _iranCountryDivisions = new IranCountryDivisions();
+  IIranCountryDivisions _iranCountryDivisions = new IranCountryDivisions(new Iran.AspNet.CountryDivisions.Data.DatabaseContext.LocationsDbContext());
   //...
 ```
 
