@@ -63,7 +63,6 @@ public void ConfigureServices(IServiceCollection services)
   services.AddIranCountryDivisions();
 }
 ```
-then : 
 ```c#
   private readonly IIranCountryDivisions _iranCountryDivisions;
   public TestController(IIranCountryDivisions iranCountryDivisions)
