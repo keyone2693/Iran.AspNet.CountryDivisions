@@ -1,6 +1,6 @@
 ﻿using System;
 using System.IO;
-namespace Iran.AspNet.CountryDivisions.Extensions
+namespace Iran.AspNet.CountryDivisions.Helpers
 {
     public static class JsonDataPath
     {

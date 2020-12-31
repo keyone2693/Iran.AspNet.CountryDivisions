@@ -5,7 +5,7 @@ using System.Linq.Expressions;
 using System.Threading.Tasks;
 using Iran.AspNet.CountryDivisions.Data.DatabaseContext;
 using Iran.AspNet.CountryDivisions.Data.Models;
-using Iran.AspNet.CountryDivisions.Extensions;
+using Iran.AspNet.CountryDivisions.Helpers;
 using Microsoft.EntityFrameworkCore;
 
 namespace Iran.AspNet.CountryDivisions
@@ -16,7 +16,7 @@ namespace Iran.AspNet.CountryDivisions
         private readonly LocationsDbContext _db;
         public IranCountryDivisions(LocationsDbContext db)
         {
-            _db = db;
+            _db = db ?? new LocationsDbContext();
         }
         #endregion
         #region main
