@@ -2,7 +2,6 @@
 using System.IO;
 namespace Iran.AspNet.CountryDivisions.Extensions
 {
-
     public static class JsonDataPath
     {
         private static AppDomain _appDomain = System.AppDomain.CurrentDomain;
@@ -32,6 +31,5 @@ namespace Iran.AspNet.CountryDivisions.Extensions
         {
             get { return Path.Combine(_basePath, "Data", "shahrestan.json"); }
         }
-
     }
 }

@@ -1,11 +1,8 @@
 ﻿using System;
 using System.IO;
 using System.Reflection;
-
 using Iran.AspNet.CountryDivisions.Data.Models;
-
 using Microsoft.EntityFrameworkCore;
-
 
 namespace Iran.AspNet.CountryDivisions.Data.DatabaseContext
 {
@@ -16,12 +13,9 @@ namespace Iran.AspNet.CountryDivisions.Data.DatabaseContext
         public LocationsDbContext()
         {
         }
-
         protected override void OnConfiguring(DbContextOptionsBuilder optionBuilder)
         {
-
             optionBuilder.UseSqlite("Data Source=" + Path.Combine(_basePath, "Data/DataBase", "locations.db"));
-            //optionBuilder.UseSqlServer(@"Server=.\MSSQLSERVER2017;Database=api_rahnavard;User Id=api_rahnavard;password=Xil8w85#;Trusted_Connection=False;MultipleActiveResultSets=true;");
         }
 
         public  DbSet<Ostan> Ostans { get; set; }
@@ -31,7 +25,6 @@ namespace Iran.AspNet.CountryDivisions.Data.DatabaseContext
         public  DbSet<Dehestan> Dehestans { get; set; }
         public  DbSet<Abadi> Abadis { get; set; }
  
-
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);

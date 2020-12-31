@@ -1,6 +1,4 @@
-﻿
-
-namespace Iran.AspNet.CountryDivisions.Data.Models
+﻿namespace Iran.AspNet.CountryDivisions.Data.Models
 {
     public class Shahr
     {
@@ -12,5 +10,4 @@ namespace Iran.AspNet.CountryDivisions.Data.Models
         public string ShahrType { get; set; }
         public string AmarCode { get; set; }
     }
-
 }

@@ -1,5 +1,4 @@
-﻿
-namespace Iran.AspNet.CountryDivisions.Data.Models
+﻿namespace Iran.AspNet.CountryDivisions.Data.Models
 {
     public class Abadi
     {
@@ -13,5 +12,4 @@ namespace Iran.AspNet.CountryDivisions.Data.Models
         public string AmarCode { get; set; }
         public string Diag { get; set; }
     }
-
 }

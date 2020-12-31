@@ -1,6 +1,4 @@
-﻿
-
-namespace Iran.AspNet.CountryDivisions.Data.Models
+﻿namespace Iran.AspNet.CountryDivisions.Data.Models
 {
     public class Dehestan
     {
@@ -11,5 +9,4 @@ namespace Iran.AspNet.CountryDivisions.Data.Models
         public string Name { get; set; }
         public string AmarCode { get; set; }
     }
-
 }

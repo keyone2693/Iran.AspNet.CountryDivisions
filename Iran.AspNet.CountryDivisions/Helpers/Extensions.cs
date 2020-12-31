@@ -1,13 +1,14 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using Iran.AspNet.CountryDivisions.Data.DatabaseContext;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace Iran.AspNet.CountryDivisions.Helpers
 {
     public static class Extensions
     {
-        public static IServiceCollection AddIranCountryDivisions(this IServiceCollection services)
+        public static void AddIranCountryDivisions(this IServiceCollection services)
         {
-            return services.AddScoped<IIranCountryDivisions, IranCountryDivisions>();
-
+            services.AddDbContext<LocationsDbContext>();
+            services.AddScoped<IIranCountryDivisions, IranCountryDivisions>();
         }
     }
 }

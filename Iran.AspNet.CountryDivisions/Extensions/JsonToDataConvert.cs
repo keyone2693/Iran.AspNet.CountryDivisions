@@ -1,9 +1,6 @@
 ﻿using System.Collections.Generic;
-
 using Iran.AspNet.CountryDivisions.Data.Models;
-
 using Newtonsoft.Json;
-
 namespace Iran.AspNet.CountryDivisions.Extensions
 {
     public static class JsonToDataConvert

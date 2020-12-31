@@ -3,31 +3,29 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
-
 using Iran.AspNet.CountryDivisions.Data.DatabaseContext;
 using Iran.AspNet.CountryDivisions.Data.Models;
 using Iran.AspNet.CountryDivisions.Extensions;
-
 using Microsoft.EntityFrameworkCore;
 
 namespace Iran.AspNet.CountryDivisions
 {
     public class IranCountryDivisions : IIranCountryDivisions
     {
+        #region ctor
         private readonly LocationsDbContext _db;
-
-        public IranCountryDivisions()
+        public IranCountryDivisions(LocationsDbContext db)
         {
-            _db = new LocationsDbContext();
+            _db = db;
         }
-
-
+        #endregion
+        #region main
         private async Task UpdateDatabaseAsync()
         {
             var a = await _db.Abadis.ToListAsync();
             _db.Abadis.RemoveRange(a);
 
-            var b= await _db.Bakhshs.ToListAsync();
+            var b = await _db.Bakhshs.ToListAsync();
             _db.Bakhshs.RemoveRange(b);
 
             var c = await _db.Dehestans.ToListAsync();
@@ -84,12 +82,21 @@ namespace Iran.AspNet.CountryDivisions
 
             await _db.SaveChangesAsync();
         }
-
-
-
+        public IQueryable<TEntity> GetEntity<TEntity>(bool asTracking = false) where TEntity : class
+        {
+            if (asTracking)
+            {
+                return _db.Set<TEntity>().AsTracking();
+            }
+            else
+            {
+                return _db.Set<TEntity>().AsNoTracking();
+            }
+        }
+        #endregion
         #region sync
         public IEnumerable<Ostan> GetOstans(Expression<Func<Ostan, bool>> filter = null,
-Func<IQueryable<Ostan>, IOrderedQueryable<Ostan>> orderBy = null,  int count = 0)
+Func<IQueryable<Ostan>, IOrderedQueryable<Ostan>> orderBy = null, int count = 0)
         {
 
 
@@ -112,7 +119,7 @@ Func<IQueryable<Ostan>, IOrderedQueryable<Ostan>> orderBy = null,  int count = 0
             }
         }
         public IEnumerable<Abadi> GetAbadis(Expression<Func<Abadi, bool>> filter = null,
-              Func<IQueryable<Abadi>, IOrderedQueryable<Abadi>> orderBy = null,int count = 0)
+              Func<IQueryable<Abadi>, IOrderedQueryable<Abadi>> orderBy = null, int count = 0)
         {
 
             var query = _db.Abadis.AsNoTracking();
@@ -136,7 +143,7 @@ Func<IQueryable<Ostan>, IOrderedQueryable<Ostan>> orderBy = null,  int count = 0
 
         }
         public IEnumerable<Bakhsh> GetBakhshs(Expression<Func<Bakhsh, bool>> filter = null,
-             Func<IQueryable<Bakhsh>, IOrderedQueryable<Bakhsh>> orderBy = null,int count = 0)
+             Func<IQueryable<Bakhsh>, IOrderedQueryable<Bakhsh>> orderBy = null, int count = 0)
         {
             var query = _db.Bakhshs.AsNoTracking();
             if (filter != null)
@@ -157,7 +164,7 @@ Func<IQueryable<Ostan>, IOrderedQueryable<Ostan>> orderBy = null,  int count = 0
             }
         }
         public IEnumerable<Dehestan> GetDehestans(Expression<Func<Dehestan, bool>> filter = null,
-             Func<IQueryable<Dehestan>, IOrderedQueryable<Dehestan>> orderBy = null,int count = 0)
+             Func<IQueryable<Dehestan>, IOrderedQueryable<Dehestan>> orderBy = null, int count = 0)
         {
             var query = _db.Dehestans.AsNoTracking();
             if (filter != null)
@@ -178,7 +185,7 @@ Func<IQueryable<Ostan>, IOrderedQueryable<Ostan>> orderBy = null,  int count = 0
             }
         }
         public IEnumerable<Shahr> GetShahrs(Expression<Func<Shahr, bool>> filter = null,
-             Func<IQueryable<Shahr>, IOrderedQueryable<Shahr>> orderBy = null,int count = 0)
+             Func<IQueryable<Shahr>, IOrderedQueryable<Shahr>> orderBy = null, int count = 0)
         {
             var query = _db.Shahrs.AsNoTracking();
             if (filter != null)
@@ -200,7 +207,7 @@ Func<IQueryable<Ostan>, IOrderedQueryable<Ostan>> orderBy = null,  int count = 0
         }
 
         public IEnumerable<Shahrestan> GetShahrestans(Expression<Func<Shahrestan, bool>> filter = null,
-             Func<IQueryable<Shahrestan>, IOrderedQueryable<Shahrestan>> orderBy = null,int count = 0)
+             Func<IQueryable<Shahrestan>, IOrderedQueryable<Shahrestan>> orderBy = null, int count = 0)
         {
             var query = _db.Shahrestans.AsNoTracking();
             if (filter != null)
@@ -221,10 +228,9 @@ Func<IQueryable<Ostan>, IOrderedQueryable<Ostan>> orderBy = null,  int count = 0
             }
         }
         #endregion
-
         #region async
         public async Task<IEnumerable<Ostan>> GetOstansAsync(Expression<Func<Ostan, bool>> filter = null,
-Func<IQueryable<Ostan>, IOrderedQueryable<Ostan>> orderBy = null,  int count = 0)
+Func<IQueryable<Ostan>, IOrderedQueryable<Ostan>> orderBy = null, int count = 0)
         {
 
 
@@ -247,7 +253,7 @@ Func<IQueryable<Ostan>, IOrderedQueryable<Ostan>> orderBy = null,  int count = 0
             }
         }
         public async Task<IEnumerable<Abadi>> GetAbadisAsync(Expression<Func<Abadi, bool>> filter = null,
-              Func<IQueryable<Abadi>, IOrderedQueryable<Abadi>> orderBy = null,int count = 0)
+              Func<IQueryable<Abadi>, IOrderedQueryable<Abadi>> orderBy = null, int count = 0)
         {
 
             var query = _db.Abadis.AsNoTracking();
@@ -271,7 +277,7 @@ Func<IQueryable<Ostan>, IOrderedQueryable<Ostan>> orderBy = null,  int count = 0
 
         }
         public async Task<IEnumerable<Bakhsh>> GetBakhshsAsync(Expression<Func<Bakhsh, bool>> filter = null,
-                     Func<IQueryable<Bakhsh>, IOrderedQueryable<Bakhsh>> orderBy = null,int count = 0)
+                     Func<IQueryable<Bakhsh>, IOrderedQueryable<Bakhsh>> orderBy = null, int count = 0)
         {
             var query = _db.Bakhshs.AsNoTracking();
             if (filter != null)
@@ -292,7 +298,7 @@ Func<IQueryable<Ostan>, IOrderedQueryable<Ostan>> orderBy = null,  int count = 0
             }
         }
         public async Task<IEnumerable<Dehestan>> GetDehestansAsync(Expression<Func<Dehestan, bool>> filter = null,
-                     Func<IQueryable<Dehestan>, IOrderedQueryable<Dehestan>> orderBy = null,int count = 0)
+                     Func<IQueryable<Dehestan>, IOrderedQueryable<Dehestan>> orderBy = null, int count = 0)
         {
             var query = _db.Dehestans.AsNoTracking();
             if (filter != null)
@@ -313,7 +319,7 @@ Func<IQueryable<Ostan>, IOrderedQueryable<Ostan>> orderBy = null,  int count = 0
             }
         }
         public async Task<IEnumerable<Shahr>> GetShahrsAsync(Expression<Func<Shahr, bool>> filter = null,
-                     Func<IQueryable<Shahr>, IOrderedQueryable<Shahr>> orderBy = null,int count = 0)
+                     Func<IQueryable<Shahr>, IOrderedQueryable<Shahr>> orderBy = null, int count = 0)
         {
             var query = _db.Shahrs.AsNoTracking();
             if (filter != null)
@@ -335,7 +341,7 @@ Func<IQueryable<Ostan>, IOrderedQueryable<Ostan>> orderBy = null,  int count = 0
         }
 
         public async Task<IEnumerable<Shahrestan>> GetShahrestansAsync(Expression<Func<Shahrestan, bool>> filter = null,
-                     Func<IQueryable<Shahrestan>, IOrderedQueryable<Shahrestan>> orderBy = null,int count = 0)
+                     Func<IQueryable<Shahrestan>, IOrderedQueryable<Shahrestan>> orderBy = null, int count = 0)
         {
             var query = _db.Shahrestans.AsNoTracking();
             if (filter != null)
@@ -356,20 +362,6 @@ Func<IQueryable<Ostan>, IOrderedQueryable<Ostan>> orderBy = null,  int count = 0
             }
         }
         #endregion
-
-
-        public IQueryable<TEntity> GetEntity<TEntity>(bool asTracking = false) where TEntity : class
-        {
-            if(asTracking)
-            {
-                return _db.Set<TEntity>().AsTracking();
-            }
-            else
-            {
-                return _db.Set<TEntity>().AsNoTracking();
-            }
-        }
-
         #region dispose
         private bool disposed = false;
         protected virtual void Dispose(bool disposing)
@@ -389,7 +381,7 @@ Func<IQueryable<Ostan>, IOrderedQueryable<Ostan>> orderBy = null,  int count = 0
             GC.SuppressFinalize(this);
         }
 
-    
+
 
         ~IranCountryDivisions()
         {
