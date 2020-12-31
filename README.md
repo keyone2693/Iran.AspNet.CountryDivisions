@@ -7,7 +7,7 @@
 
 
 
-[![Build status](https://img.shields.io/appveyor/ci/keyone2693/iran-aspnet-countrydivisions.svg)](https://ci.appveyor.com/project/keyone2693/iran-aspnet-countrydivisions)
+[![Build status](https://img.shields.io/appveyor/ci/keyone2693/imageresizer-aspnetcore.svg)](https://ci.appveyor.com/project/keyone2693/iran-aspnet-countrydivisions)
 [![NuGet](https://img.shields.io/nuget/v/Iran.AspNet.CountryDivisions.svg)](https://www.nuget.org/packages/Iran.AspNet.CountryDivisions/)
 [![GitHub issues](https://img.shields.io/github/issues/keyone2693/Iran.AspNet.CountryDivisions.svg?maxAge=25920?style=plastic)](https://github.com/keyone2693/Iran.AspNet.CountryDivisions/issues)
 [![GitHub stars](https://img.shields.io/github/stars/keyone2693/Iran.AspNet.CountryDivisions.svg?maxAge=25920?style=plastic)](https://github.com/keyone2693/Iran.AspNet.CountryDivisions/stargazers)
