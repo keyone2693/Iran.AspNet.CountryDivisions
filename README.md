@@ -23,7 +23,7 @@
 ### Json Files: [files](https://github.com/keyone2693/Iran.AspNet.CountryDivisions/tree/master/Iran.AspNet.CountryDivisions/Data)
 
 
-#### Current version: 1.1.x [Stable]
+#### Current version: 2.0.x [Stable]
 
 | استان | شهرستان | بخش | شهر | دهستان | آبادی |
 | --- | --- | --- | --- | --- | --- |
