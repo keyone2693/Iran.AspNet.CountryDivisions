@@ -85,7 +85,7 @@ then you can use it like this :
 ```c#
   //...
   var allOstans = await _iranCountryDivisions.GetOstansAsync();
-  var ostansWithSearchAndOrderByAndCount = await _iranCountryDivisions.GetOstansAsync(p => p.Name.Contains(nameSearch), o=>o.OrderBy(p=>p.Name)) , 10);
+  var ostansWithSearchAndOrderByAndCount = await _iranCountryDivisions.GetOstansAsync(p => p.Name.Contains(nameSearch), o=>o.OrderBy(p=>p.Name) , 10);
   
   
   var allAbadis = await _iranCountryDivisions.GetAbadisAsync();
