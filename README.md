@@ -23,22 +23,29 @@
 ### Json Files: [files](https://github.com/keyone2693/Iran.AspNet.CountryDivisions/tree/master/Iran.AspNet.CountryDivisions/Data)
 
 
-#### Current version: 2.0.x [Stable]
+#### Current version: 2.1.x [Stable]
 
 | استان | شهرستان | بخش | شهر | دهستان | آبادی | کشور |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
 | ۳۱ | ۴۴۸ | ۱۰۹۹ | ۱۵۵۴/۱۳۵۴ | ۲۶۳۷ | ۹۸۱۰۰ | 269 |
+
 
 In this version:
 you can get all provinces, cities, districts, cities, towns and villages
+
+
 or search for them
 
-and there is no relation between tables , 
-i think we won't need this future :)
+
+Also its includes country list with their iso , domain , enName , faName , fips
+
+
+--- there is no relation between tables
+
 
 
 ##
-.net standard 2.1
+.net standard 2.0
 
 ## Easy to install
 Use the library as dll, reference from [nuget](https://www.nuget.org/packages/Iran.AspNet.CountryDivisions/)
