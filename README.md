@@ -28,13 +28,13 @@
 
 #### Current version: 2.1.x [Stable]
 
-| استان | شهرستان | بخش | شهر | دهستان | آبادی | کشور |
+| استان (ایران) | شهرستان (ایران) | بخش (ایران) | شهر (ایران) | دهستان (ایران) | آبادی (ایران) | کشور |
 | --- | --- | --- | --- | --- | --- | --- |
 | ۳۱ | ۴۴۸ | ۱۰۹۹ | ۱۵۵۴/۱۳۵۴ | ۲۶۳۷ | ۹۸۱۰۰ | 269 |
 
 
 In this version:
-you can get all provinces, cities, districts, cities, towns and villages
+you can get all IRANS provinces, cities, districts, cities, towns and villages
 
 
 or search for them
@@ -108,7 +108,9 @@ same for others
 
 ## Special thanks
 
-[Ahmad Azizi](https://github.com/ahmadazizi) and his [database](https://github.com/ahmadazizi/iran-cities/)
+[Ahmad Azizi](https://github.com/ahmadazizi) and his [IRAN database](https://github.com/ahmadazizi/iran-cities/)
 
-the package will be updated base on his database
+[OnlyMAJ](https://github.com/onlymaj) and his [COUNTRIES database](https://github.com/onlymaj/FA_Countries_SQL/blob/master/countries.sql)
+
+the package will be updated base on their databases
 
