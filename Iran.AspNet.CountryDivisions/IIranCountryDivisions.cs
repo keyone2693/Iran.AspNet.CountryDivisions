@@ -33,6 +33,10 @@ namespace Iran.AspNet.CountryDivisions
              Func<IQueryable<Shahr>, IOrderedQueryable<Shahr>> orderBy = null, int count = 0);
         Task<IEnumerable<Shahrestan>> GetShahrestansAsync(Expression<Func<Shahrestan, bool>> filter = null,
              Func<IQueryable<Shahrestan>, IOrderedQueryable<Shahrestan>> orderBy = null, int count = 0);
+
+        Task<IEnumerable<Keshvar>> GetKeshvarsAsync(Expression<Func<Keshvar, bool>> filter = null,
+          Func<IQueryable<Keshvar>, IOrderedQueryable<Keshvar>> orderBy = null, int count = 0);
+
         IQueryable<TEntity> GetEntity<TEntity>(bool asTracking = false) where TEntity : class;
     }
 }

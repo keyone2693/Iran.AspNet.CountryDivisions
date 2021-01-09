@@ -247,6 +247,28 @@ Func<IQueryable<Ostan>, IOrderedQueryable<Ostan>> orderBy = null, int count = 0)
                 return query.ToList();
             }
         }
+
+        public IEnumerable<Keshvar> GetKeshvars(Expression<Func<Keshvar, bool>> filter = null,
+     Func<IQueryable<Keshvar>, IOrderedQueryable<Keshvar>> orderBy = null, int count = 0)
+        {
+            var query = _db.Keshvars.AsNoTracking();
+            if (filter != null)
+            {
+                query = query.Where(filter);
+            }
+            count = Math.Abs(count);
+            if (count > 0)
+                query = query.Take(count);
+
+            if (orderBy != null)
+            {
+                return orderBy(query).ToList();
+            }
+            else
+            {
+                return query.ToList();
+            }
+        }
         #endregion
         #region async
         public async Task<IEnumerable<Ostan>> GetOstansAsync(Expression<Func<Ostan, bool>> filter = null,
@@ -364,6 +386,28 @@ Func<IQueryable<Ostan>, IOrderedQueryable<Ostan>> orderBy = null, int count = 0)
                      Func<IQueryable<Shahrestan>, IOrderedQueryable<Shahrestan>> orderBy = null, int count = 0)
         {
             var query = _db.Shahrestans.AsNoTracking();
+            if (filter != null)
+            {
+                query = query.Where(filter);
+            }
+            count = Math.Abs(count);
+            if (count > 0)
+                query = query.Take(count);
+
+            if (orderBy != null)
+            {
+                return await orderBy(query).ToListAsync();
+            }
+            else
+            {
+                return await query.ToListAsync();
+            }
+        }
+
+        public async Task<IEnumerable<Keshvar>> GetKeshvarsAsync(Expression<Func<Keshvar, bool>> filter = null,
+                   Func<IQueryable<Keshvar>, IOrderedQueryable<Keshvar>> orderBy = null, int count = 0)
+        {
+            var query = _db.Keshvars.AsNoTracking();
             if (filter != null)
             {
                 query = query.Where(filter);

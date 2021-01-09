@@ -11,7 +11,7 @@ namespace Example
         {
             var _iranCountryDivisions =
         new IranCountryDivisions(new LocationsDbContext());
-            _iranCountryDivisions.UpdateDatabaseAsync().GetAwaiter();
+           var aa = _iranCountryDivisions.GetKeshvars();
 
             Console.WriteLine("Hello World!");
         }
