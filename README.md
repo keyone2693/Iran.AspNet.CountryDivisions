@@ -25,9 +25,9 @@
 
 #### Current version: 2.0.x [Stable]
 
-| استان | شهرستان | بخش | شهر | دهستان | آبادی |
+| استان | شهرستان | بخش | شهر | دهستان | آبادی | کشور |
 | --- | --- | --- | --- | --- | --- |
-| ۳۱ | ۴۴۸ | ۱۰۹۹ | ۱۵۵۴/۱۳۵۴ | ۲۶۳۷ | ۹۸۱۰۰ |
+| ۳۱ | ۴۴۸ | ۱۰۹۹ | ۱۵۵۴/۱۳۵۴ | ۲۶۳۷ | ۹۸۱۰۰ | 269 |
 
 In this version:
 you can get all provinces, cities, districts, cities, towns and villages
