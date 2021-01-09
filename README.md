@@ -5,7 +5,10 @@
 &#x202b;
 پکیج C# و ASP
 &#x202b;
-برای دریافت و جستوجوی استان ها ، شهر ها ،بخش ها ،دهستان ها و روستاهای ایران
+برای دریافت و جستوجوی 
+کشور ها و
+
+استان ها ، شهر ها ،بخش ها ،دهستان ها و روستاهای ایران
 &#x202b;
 و استفاده در Select ها  ، DropDown لیست ها و همچنین درخواست های Api  
 
@@ -37,7 +40,7 @@ you can get all provinces, cities, districts, cities, towns and villages
 or search for them
 
 
-Also its includes country list with their iso , domain , enName , faName , fips
+Also its includes countries list with their iso , domain , enName , faName , fips
 
 
 --- there is no relation between tables
