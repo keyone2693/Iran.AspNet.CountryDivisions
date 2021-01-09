@@ -3,9 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
+
 using Iran.AspNet.CountryDivisions.Data.DatabaseContext;
 using Iran.AspNet.CountryDivisions.Data.Models;
 using Iran.AspNet.CountryDivisions.Helpers;
+
 using Microsoft.EntityFrameworkCore;
 
 namespace Iran.AspNet.CountryDivisions
@@ -20,25 +22,28 @@ namespace Iran.AspNet.CountryDivisions
         }
         #endregion
         #region main
-        private async Task UpdateDatabaseAsync()
+        public async Task UpdateDatabaseAsync()
         {
             var a = await _db.Abadis.ToListAsync();
-            _db.Abadis.RemoveRange(a);
+            if (a.Any()) _db.Abadis.RemoveRange(a);
 
             var b = await _db.Bakhshs.ToListAsync();
-            _db.Bakhshs.RemoveRange(b);
+            if (b.Any()) _db.Bakhshs.RemoveRange(b);
 
             var c = await _db.Dehestans.ToListAsync();
-            _db.Dehestans.RemoveRange(c);
+            if (c.Any()) _db.Dehestans.RemoveRange(c);
 
             var d = await _db.Ostans.ToListAsync();
-            _db.Ostans.RemoveRange(d);
+            if (d.Any()) _db.Ostans.RemoveRange(d);
 
             var e = await _db.Shahrs.ToListAsync();
-            _db.Shahrs.RemoveRange(e);
+            if (e.Any()) _db.Shahrs.RemoveRange(e);
 
             var f = await _db.Shahrestans.ToListAsync();
-            _db.Shahrestans.RemoveRange(f);
+            if (f.Any()) _db.Shahrestans.RemoveRange(f);
+
+            var g = await _db.Keshvars.ToListAsync();
+            if (g.Any()) _db.Keshvars.RemoveRange(g);
 
             await _db.SaveChangesAsync();
 
@@ -49,6 +54,7 @@ namespace Iran.AspNet.CountryDivisions
             {
                 await _db.Abadis.AddAsync(item);
             }
+
             var txt2 = System.IO.File.ReadAllText(JsonDataPath.BakhshJsonPath);
             var ostans2 = JsonToDataConvert.ToBakhshList(txt2);
             foreach (var item in ostans2.ToList())
@@ -79,8 +85,22 @@ namespace Iran.AspNet.CountryDivisions
             {
                 await _db.Shahrestans.AddAsync(item);
             }
+            var txt7 = System.IO.File.ReadAllText(JsonDataPath.KeshvarJsonPath);
+            var ostans7 = JsonToDataConvert.ToKeshvarList(txt7);
+            foreach (var item in ostans7.ToList())
+            {
+                await _db.Keshvars.AddAsync(item);
+            }
+            try
+            {
+                await _db.SaveChangesAsync();
+            }
+            catch (Exception ex)
+            {
 
-            await _db.SaveChangesAsync();
+                var ee = ex;
+            }
+
         }
         public IQueryable<TEntity> GetEntity<TEntity>(bool asTracking = false) where TEntity : class
         {

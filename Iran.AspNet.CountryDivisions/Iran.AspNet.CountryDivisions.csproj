@@ -1,22 +1,24 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.1</TargetFramework>
+    <TargetFramework>netstandard2.0</TargetFramework>
     <ApplicationIcon>logo.ico</ApplicationIcon>
-    <Version>2.0.0</Version>
+    <Version>2.1.0</Version>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageIcon>logo.png</PackageIcon>
     <RepositoryUrl>https://github.com/keyone2693/Iran.AspNet.CountryDivisions</RepositoryUrl>
     <RepositoryType>public</RepositoryType>
     <Description>The regions and divisions of Iran include the list of all provinces, cities, districts, cities, towns and villages</Description>
-    <PackageReleaseNotes>bug fixes</PackageReleaseNotes>
+    <PackageReleaseNotes>bug fixes,
+country list with their iso  , domain , enName  , faName  , fips just added :)</PackageReleaseNotes>
     <PackageTags>iran ,provinces, cities, districts, cities, towns , villages</PackageTags>
     <PackageProjectUrl>https://github.com/keyone2693/Iran.AspNet.CountryDivisions</PackageProjectUrl>
     <Copyright />
-    <Authors>keyVan Abdollahzadeh</Authors>
-    <Company>keyVan Abdollahzadeh</Company>
+    <Authors>Keyvan Abdollahzadeh</Authors>
+    <Company>Keyvan Abdollahzadeh</Company>
+    <OutputType>Library</OutputType>
+    <StartupObject></StartupObject>
   </PropertyGroup>
-
 
   <ItemGroup>
     <Content Include="Data\DataBase\locations.db">
@@ -25,14 +27,9 @@
     </Content>
   </ItemGroup>
 
-
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Hosting.Abstractions" Version="2.2.0" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.0">
-      <PrivateAssets>all</PrivateAssets>
-      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-    </PackageReference>
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="5.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="2.2.0" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
   </ItemGroup>
 

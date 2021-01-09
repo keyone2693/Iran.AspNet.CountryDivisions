@@ -15,7 +15,7 @@ namespace Iran.AspNet.CountryDivisions.Data.DatabaseContext
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionBuilder)
         {
-            optionBuilder.UseSqlite("Data Source=" + Path.Combine(_basePath, "Data/DataBase", "locations.db"));
+            optionBuilder.UseSqlite("Data Source=" + Path.Combine(_basePath, @"Data\DataBase", "locations.db"));
         }
 
         public  DbSet<Ostan> Ostans { get; set; }
@@ -24,7 +24,8 @@ namespace Iran.AspNet.CountryDivisions.Data.DatabaseContext
         public  DbSet<Shahr> Shahrs { get; set; }
         public  DbSet<Dehestan> Dehestans { get; set; }
         public  DbSet<Abadi> Abadis { get; set; }
- 
+        public  DbSet<Keshvar> Keshvars { get; set; }
+
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);

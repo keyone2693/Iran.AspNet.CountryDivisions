@@ -5,6 +5,10 @@ namespace Iran.AspNet.CountryDivisions.Helpers
 {
     public static class JsonToDataConvert
     {
+        public static IEnumerable<Keshvar> ToKeshvarList(this string json)
+        {
+            return JsonConvert.DeserializeObject<IEnumerable<Keshvar>>(json);
+        }
         public static IEnumerable<Abadi> ToAbadiList(this string json)
         {
             return JsonConvert.DeserializeObject<IEnumerable<Abadi>>(json);

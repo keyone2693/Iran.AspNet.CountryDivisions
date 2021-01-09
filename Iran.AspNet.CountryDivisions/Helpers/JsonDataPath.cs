@@ -7,6 +7,10 @@ namespace Iran.AspNet.CountryDivisions.Helpers
         private static AppDomain _appDomain = System.AppDomain.CurrentDomain;
         private static string _basePath = _appDomain.RelativeSearchPath ?? _appDomain.BaseDirectory;
 
+        public static string KeshvarJsonPath
+        {
+            get { return Path.Combine(_basePath, "Data", "keshvar.json"); }
+        }
         public static string AbadiJsonPath
         {
             get { return Path.Combine(_basePath, "Data", "abadi.json"); }

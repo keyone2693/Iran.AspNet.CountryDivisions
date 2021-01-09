@@ -1,0 +1,2154 @@
+﻿[
+  {
+    "id": 1,
+    "fips": "AA",
+    "iso": "AW",
+    "domain": ".aw",
+    "enName": "Aruba",
+    "faName": "آروبا"
+  },
+  {
+    "id": 2,
+    "fips": "AC",
+    "iso": "AG",
+    "domain": ".ag",
+    "enName": "Antigua and Barbuda",
+    "faName": "آنتيگوا و باربودا"
+  },
+  {
+    "id": 3,
+    "fips": "AE",
+    "iso": "AE",
+    "domain": ".ae",
+    "enName": "United Arab Emirates",
+    "faName": "امارات متحده عربي"
+  },
+  {
+    "id": 4,
+    "fips": "AF",
+    "iso": "AF",
+    "domain": ".af",
+    "enName": "Afghanistan",
+    "faName": "افغانستان"
+  },
+  {
+    "id": 5,
+    "fips": "AG",
+    "iso": "DZ",
+    "domain": ".dz",
+    "enName": "Algeria",
+    "faName": "الجزاير"
+  },
+  {
+    "id": 6,
+    "fips": "AJ",
+    "iso": "AZ",
+    "domain": ".az",
+    "enName": "Azerbaijan",
+    "faName": "آذربايجان"
+  },
+  {
+    "id": 7,
+    "fips": "AL",
+    "iso": "AL",
+    "domain": ".al",
+    "enName": "Albania",
+    "faName": "آلباني"
+  },
+  {
+    "id": 8,
+    "fips": "AM",
+    "iso": "AM",
+    "domain": ".am",
+    "enName": "Armenia",
+    "faName": "ارمنستان"
+  },
+  {
+    "id": 9,
+    "fips": "AN",
+    "iso": "AD",
+    "domain": ".ad",
+    "enName": "Andorra",
+    "faName": "آندورا"
+  },
+  {
+    "id": 10,
+    "fips": "AO",
+    "iso": "AO",
+    "domain": ".ao",
+    "enName": "Angola",
+    "faName": "آنگولا"
+  },
+  {
+    "id": 11,
+    "fips": "AQ",
+    "iso": "AS",
+    "domain": ".as",
+    "enName": "American Samoa",
+    "faName": "سامواي آمريکايي"
+  },
+  {
+    "id": 12,
+    "fips": "AR",
+    "iso": "AR",
+    "domain": ".ar",
+    "enName": "Argentina",
+    "faName": "آرژانتين"
+  },
+  {
+    "id": 13,
+    "fips": "AS",
+    "iso": "AU",
+    "domain": ".au",
+    "enName": "Australia",
+    "faName": "استراليا"
+  },
+  {
+    "id": 14,
+    "fips": "AT",
+    "iso": "-",
+    "domain": "-",
+    "enName": "Ashmore and Cartier Islands",
+    "faName": "اشکمور و جزاير کارتيه"
+  },
+  {
+    "id": 15,
+    "fips": "AU",
+    "iso": "AT",
+    "domain": ".at",
+    "enName": "Austria",
+    "faName": "اتريش"
+  },
+  {
+    "id": 16,
+    "fips": "AV",
+    "iso": "AI",
+    "domain": ".ai",
+    "enName": "Anguilla",
+    "faName": "آنگويلا"
+  },
+  {
+    "id": 17,
+    "fips": "AX",
+    "iso": "AX",
+    "domain": ".ax",
+    "enName": "?land Islands",
+    "faName": "جزاير الند"
+  },
+  {
+    "id": 18,
+    "fips": "AY",
+    "iso": "AQ",
+    "domain": ".aq",
+    "enName": "Antarctica",
+    "faName": "قطب جنوب"
+  },
+  {
+    "id": 19,
+    "fips": "BA",
+    "iso": "BH",
+    "domain": ".bh",
+    "enName": "Bahrain",
+    "faName": "بحرين"
+  },
+  {
+    "id": 20,
+    "fips": "BB",
+    "iso": "BB",
+    "domain": ".bb",
+    "enName": "Barbados",
+    "faName": "باربادوس"
+  },
+  {
+    "id": 21,
+    "fips": "BC",
+    "iso": "BW",
+    "domain": ".bw",
+    "enName": "Botswana",
+    "faName": "بوتسوانا"
+  },
+  {
+    "id": 22,
+    "fips": "BD",
+    "iso": "BM",
+    "domain": ".bm",
+    "enName": "Bermuda",
+    "faName": "برمودا"
+  },
+  {
+    "id": 23,
+    "fips": "BE",
+    "iso": "BE",
+    "domain": ".be",
+    "enName": "Belgium",
+    "faName": "بلژيک"
+  },
+  {
+    "id": 24,
+    "fips": "BF",
+    "iso": "BS",
+    "domain": ".bs",
+    "enName": "Bahamas, The",
+    "faName": "باهاما، The"
+  },
+  {
+    "id": 25,
+    "fips": "BG",
+    "iso": "BD",
+    "domain": ".bd",
+    "enName": "Bangladesh",
+    "faName": "بنگلادش"
+  },
+  {
+    "id": 26,
+    "fips": "BH",
+    "iso": "BZ",
+    "domain": ".bz",
+    "enName": "Belize",
+    "faName": "بليز"
+  },
+  {
+    "id": 27,
+    "fips": "BK",
+    "iso": "BA",
+    "domain": ".ba",
+    "enName": "Bosnia and Herzegovina",
+    "faName": "بوسني و هرزگوين"
+  },
+  {
+    "id": 28,
+    "fips": "BL",
+    "iso": "BO",
+    "domain": ".bo",
+    "enName": "Bolivia",
+    "faName": "بوليوي"
+  },
+  {
+    "id": 29,
+    "fips": "BM",
+    "iso": "MM",
+    "domain": ".mm",
+    "enName": "Myanmar",
+    "faName": "ميانمار"
+  },
+  {
+    "id": 30,
+    "fips": "BN",
+    "iso": "BJ",
+    "domain": ".bj",
+    "enName": "Benin",
+    "faName": "بنين"
+  },
+  {
+    "id": 31,
+    "fips": "BO",
+    "iso": "BY",
+    "domain": ".by",
+    "enName": "Belarus",
+    "faName": "بلاروس"
+  },
+  {
+    "id": 32,
+    "fips": "BP",
+    "iso": "SB",
+    "domain": ".sb",
+    "enName": "Solomon Islands",
+    "faName": "جزاير سليمان"
+  },
+  {
+    "id": 33,
+    "fips": "BQ",
+    "iso": "-",
+    "domain": "-",
+    "enName": "Navassa Island",
+    "faName": "جزيره ناواسا"
+  },
+  {
+    "id": 34,
+    "fips": "BR",
+    "iso": "BR",
+    "domain": ".br",
+    "enName": "Brazil",
+    "faName": "برزيل"
+  },
+  {
+    "id": 35,
+    "fips": "BS",
+    "iso": "-",
+    "domain": "-",
+    "enName": "Bassas da India",
+    "faName": "باساس دا هند"
+  },
+  {
+    "id": 36,
+    "fips": "BT",
+    "iso": "BT",
+    "domain": ".bt",
+    "enName": "Bhutan",
+    "faName": "بوتان"
+  },
+  {
+    "id": 37,
+    "fips": "BU",
+    "iso": "BG",
+    "domain": ".bg",
+    "enName": "Bulgaria",
+    "faName": "بلغارستان"
+  },
+  {
+    "id": 38,
+    "fips": "BV",
+    "iso": "BV",
+    "domain": ".bv",
+    "enName": "Bouvet Island",
+    "faName": "جزيره Bouvet"
+  },
+  {
+    "id": 39,
+    "fips": "BX",
+    "iso": "BN",
+    "domain": ".bn",
+    "enName": "Brunei",
+    "faName": "برونئي"
+  },
+  {
+    "id": 40,
+    "fips": "BY",
+    "iso": "BI",
+    "domain": ".bi",
+    "enName": "Burundi",
+    "faName": "بوروندي"
+  },
+  {
+    "id": 41,
+    "fips": "CA",
+    "iso": "CA",
+    "domain": ".ca",
+    "enName": "Canada",
+    "faName": "کانادا"
+  },
+  {
+    "id": 42,
+    "fips": "CB",
+    "iso": "KH",
+    "domain": ".kh",
+    "enName": "Cambodia",
+    "faName": "کامبوج"
+  },
+  {
+    "id": 43,
+    "fips": "CD",
+    "iso": "TD",
+    "domain": ".td",
+    "enName": "Chad",
+    "faName": "چاد"
+  },
+  {
+    "id": 44,
+    "fips": "CE",
+    "iso": "LK",
+    "domain": ".lk",
+    "enName": "Sri Lanka",
+    "faName": "سري لانکا"
+  },
+  {
+    "id": 45,
+    "fips": "CF",
+    "iso": "CG",
+    "domain": ".cg",
+    "enName": "Congo, Republic of the",
+    "faName": "کنگو، جمهوري"
+  },
+  {
+    "id": 46,
+    "fips": "CG",
+    "iso": "CD",
+    "domain": ".cd",
+    "enName": "Congo, Democratic Republic of the",
+    "faName": "کنگو، جمهوري دموکراتيک"
+  },
+  {
+    "id": 47,
+    "fips": "CH",
+    "iso": "CN",
+    "domain": ".cn",
+    "enName": "China",
+    "faName": "چين"
+  },
+  {
+    "id": 48,
+    "fips": "CI",
+    "iso": "CL",
+    "domain": ".cl",
+    "enName": "Chile",
+    "faName": "شيلي"
+  },
+  {
+    "id": 49,
+    "fips": "CJ",
+    "iso": "KY",
+    "domain": ".ky",
+    "enName": "Cayman Islands",
+    "faName": "جزاير کيمن"
+  },
+  {
+    "id": 50,
+    "fips": "CK",
+    "iso": "CC",
+    "domain": ".cc",
+    "enName": "Cocos (Keeling) Islands",
+    "faName": "جزاير کوکوس (کايلينگ)"
+  },
+  {
+    "id": 51,
+    "fips": "CM",
+    "iso": "CM",
+    "domain": ".cm",
+    "enName": "Cameroon",
+    "faName": "کامرون"
+  },
+  {
+    "id": 52,
+    "fips": "CN",
+    "iso": "KM",
+    "domain": ".km",
+    "enName": "Comoros",
+    "faName": "کومور"
+  },
+  {
+    "id": 53,
+    "fips": "CO",
+    "iso": "CO",
+    "domain": ".co",
+    "enName": "Colombia",
+    "faName": "کلمبيا"
+  },
+  {
+    "id": 54,
+    "fips": "CQ",
+    "iso": "MP",
+    "domain": ".mp",
+    "enName": "Northern Mariana Islands",
+    "faName": "جزاير مارياناي شمالي"
+  },
+  {
+    "id": 55,
+    "fips": "CR",
+    "iso": "-",
+    "domain": "-",
+    "enName": "Coral Sea Islands",
+    "faName": "جزاير درياي مرجاني"
+  },
+  {
+    "id": 56,
+    "fips": "CS",
+    "iso": "CR",
+    "domain": ".cr",
+    "enName": "Costa Rica",
+    "faName": "کاستاريکا"
+  },
+  {
+    "id": 57,
+    "fips": "CT",
+    "iso": "CF",
+    "domain": ".cf",
+    "enName": "Central African Republic",
+    "faName": "جمهوري آفريقاي مرکزي"
+  },
+  {
+    "id": 58,
+    "fips": "CU",
+    "iso": "CU",
+    "domain": ".cu",
+    "enName": "Cuba",
+    "faName": "کوبا"
+  },
+  {
+    "id": 59,
+    "fips": "CV",
+    "iso": "CV",
+    "domain": ".cv",
+    "enName": "Cape Verde",
+    "faName": "کيپ ورد"
+  },
+  {
+    "id": 60,
+    "fips": "CW",
+    "iso": "CK",
+    "domain": ".ck",
+    "enName": "Cook Islands",
+    "faName": "جزاير کوک"
+  },
+  {
+    "id": 61,
+    "fips": "CY",
+    "iso": "CY",
+    "domain": ".cy",
+    "enName": "Cyprus",
+    "faName": "قبرس"
+  },
+  {
+    "id": 62,
+    "fips": "DA",
+    "iso": "DK",
+    "domain": ".dk",
+    "enName": "Denmark",
+    "faName": "دانمارک"
+  },
+  {
+    "id": 63,
+    "fips": "DJ",
+    "iso": "DJ",
+    "domain": ".dj",
+    "enName": "Djibouti",
+    "faName": "جيبوتي"
+  },
+  {
+    "id": 64,
+    "fips": "DO",
+    "iso": "DM",
+    "domain": ".dm",
+    "enName": "Dominica",
+    "faName": "دومينيکا"
+  },
+  {
+    "id": 65,
+    "fips": "DQ",
+    "iso": "UM",
+    "domain": "-",
+    "enName": "Jarvis Island",
+    "faName": "جزيره جارويس"
+  },
+  {
+    "id": 66,
+    "fips": "DR",
+    "iso": "DO",
+    "domain": ".do",
+    "enName": "Dominican Republic",
+    "faName": "جمهوري دومينيکن"
+  },
+  {
+    "id": 67,
+    "fips": "DX",
+    "iso": "-",
+    "domain": "-",
+    "enName": "Dhekelia Sovereign Base Area",
+    "faName": "منطقه ممنوعه Dhekelia"
+  },
+  {
+    "id": 68,
+    "fips": "EC",
+    "iso": "EC",
+    "domain": ".ec",
+    "enName": "Ecuador",
+    "faName": "اکوادور"
+  },
+  {
+    "id": 69,
+    "fips": "EG",
+    "iso": "EG",
+    "domain": ".eg",
+    "enName": "Egypt",
+    "faName": "مصر"
+  },
+  {
+    "id": 70,
+    "fips": "EI",
+    "iso": "IE",
+    "domain": ".ie",
+    "enName": "Ireland",
+    "faName": "ايرلند"
+  },
+  {
+    "id": 71,
+    "fips": "EK",
+    "iso": "GQ",
+    "domain": ".gq",
+    "enName": "Equatorial Guinea",
+    "faName": "گينه استوايي"
+  },
+  {
+    "id": 72,
+    "fips": "EN",
+    "iso": "EE",
+    "domain": ".ee",
+    "enName": "Estonia",
+    "faName": "استوني"
+  },
+  {
+    "id": 73,
+    "fips": "ER",
+    "iso": "ER",
+    "domain": ".er",
+    "enName": "Eritrea",
+    "faName": "اريتره"
+  },
+  {
+    "id": 74,
+    "fips": "ES",
+    "iso": "SV",
+    "domain": ".sv",
+    "enName": "El Salvador",
+    "faName": "السالوادور"
+  },
+  {
+    "id": 75,
+    "fips": "ET",
+    "iso": "ET",
+    "domain": ".et",
+    "enName": "Ethiopia",
+    "faName": "اتيوپي"
+  },
+  {
+    "id": 76,
+    "fips": "EU",
+    "iso": "-",
+    "domain": "-",
+    "enName": "Europa Island",
+    "faName": "جزيره اروپا"
+  },
+  {
+    "id": 77,
+    "fips": "EZ",
+    "iso": "CZ",
+    "domain": ".cz",
+    "enName": "Czech Republic",
+    "faName": "جمهوري چک"
+  },
+  {
+    "id": 78,
+    "fips": "FG",
+    "iso": "GF",
+    "domain": ".gf",
+    "enName": "French Guiana",
+    "faName": "گويان فرانسه"
+  },
+  {
+    "id": 79,
+    "fips": "FI",
+    "iso": "FI",
+    "domain": ".fi",
+    "enName": "Finland",
+    "faName": "فنلاند"
+  },
+  {
+    "id": 80,
+    "fips": "FJ",
+    "iso": "FJ",
+    "domain": ".fj",
+    "enName": "Fiji",
+    "faName": "فيجي"
+  },
+  {
+    "id": 81,
+    "fips": "FK",
+    "iso": "FK",
+    "domain": ".fk",
+    "enName": "Falkland Islands (Islas Malvinas)",
+    "faName": "جزاير فالکلند (جزاير مالويناس)"
+  },
+  {
+    "id": 82,
+    "fips": "FM",
+    "iso": "FM",
+    "domain": ".fm",
+    "enName": "Micronesia, Federated States of",
+    "faName": "ميکرونزي، ايالات فدرال"
+  },
+  {
+    "id": 83,
+    "fips": "FO",
+    "iso": "FO",
+    "domain": ".fo",
+    "enName": "Faroe Islands",
+    "faName": "جزاير فارو"
+  },
+  {
+    "id": 84,
+    "fips": "FP",
+    "iso": "PF",
+    "domain": ".pf",
+    "enName": "French Polynesia",
+    "faName": "پلينزي فرانسه"
+  },
+  {
+    "id": 85,
+    "fips": "FQ",
+    "iso": "UM",
+    "domain": "-",
+    "enName": "Baker Island",
+    "faName": "جزيره بيکر"
+  },
+  {
+    "id": 86,
+    "fips": "FR",
+    "iso": "FR",
+    "domain": ".fr",
+    "enName": "France",
+    "faName": "فرانسه"
+  },
+  {
+    "id": 87,
+    "fips": "FS",
+    "iso": "TF",
+    "domain": ".tf",
+    "enName": "French Southern and Antarctic Lands",
+    "faName": "زمينهاي جنوب و جنوب قطب جنوب فرانسه"
+  },
+  {
+    "id": 88,
+    "fips": "GA",
+    "iso": "GM",
+    "domain": ".gm",
+    "enName": "Gambia, The",
+    "faName": "گامبيا، The"
+  },
+  {
+    "id": 89,
+    "fips": "GB",
+    "iso": "GA",
+    "domain": ".ga",
+    "enName": "Gabon",
+    "faName": "گابن"
+  },
+  {
+    "id": 90,
+    "fips": "GG",
+    "iso": "GE",
+    "domain": ".ge",
+    "enName": "Georgia",
+    "faName": "جورجيا"
+  },
+  {
+    "id": 91,
+    "fips": "GH",
+    "iso": "GH",
+    "domain": ".gh",
+    "enName": "Ghana",
+    "faName": "غنا"
+  },
+  {
+    "id": 92,
+    "fips": "GI",
+    "iso": "GI",
+    "domain": ".gi",
+    "enName": "Gibraltar",
+    "faName": "جبل الطارق"
+  },
+  {
+    "id": 93,
+    "fips": "GJ",
+    "iso": "GD",
+    "domain": ".gd",
+    "enName": "Grenada",
+    "faName": "گرانادا"
+  },
+  {
+    "id": 94,
+    "fips": "GK",
+    "iso": "-",
+    "domain": ".gg",
+    "enName": "Guernsey",
+    "faName": "گورنسي"
+  },
+  {
+    "id": 95,
+    "fips": "GL",
+    "iso": "GL",
+    "domain": ".gl",
+    "enName": "Greenland",
+    "faName": "گرينلند"
+  },
+  {
+    "id": 96,
+    "fips": "GM",
+    "iso": "DE",
+    "domain": ".de",
+    "enName": "Germany",
+    "faName": "آلمان"
+  },
+  {
+    "id": 97,
+    "fips": "GO",
+    "iso": "-",
+    "domain": "-",
+    "enName": "Glorioso Islands",
+    "faName": "جزاير گلوريوزو"
+  },
+  {
+    "id": 98,
+    "fips": "GP",
+    "iso": "GP",
+    "domain": ".gp",
+    "enName": "Guadeloupe",
+    "faName": "گوادلوپ"
+  },
+  {
+    "id": 99,
+    "fips": "GQ",
+    "iso": "GU",
+    "domain": ".gu",
+    "enName": "Guam",
+    "faName": "گوام"
+  },
+  {
+    "id": 100,
+    "fips": "GR",
+    "iso": "GR",
+    "domain": ".gr",
+    "enName": "Greece",
+    "faName": "يونان"
+  },
+  {
+    "id": 101,
+    "fips": "GT",
+    "iso": "GT",
+    "domain": ".gt",
+    "enName": "Guatemala",
+    "faName": "گواتمالا"
+  },
+  {
+    "id": 102,
+    "fips": "GV",
+    "iso": "GN",
+    "domain": ".gn",
+    "enName": "Guinea",
+    "faName": "گينه"
+  },
+  {
+    "id": 103,
+    "fips": "GY",
+    "iso": "GY",
+    "domain": ".gy",
+    "enName": "Guyana",
+    "faName": "گايانا"
+  },
+  {
+    "id": 104,
+    "fips": "GZ",
+    "iso": "-",
+    "domain": "-",
+    "enName": "Gaza Strip",
+    "faName": "نوار غزه"
+  },
+  {
+    "id": 105,
+    "fips": "HA",
+    "iso": "HT",
+    "domain": ".ht",
+    "enName": "Haiti",
+    "faName": "هائيتي"
+  },
+  {
+    "id": 106,
+    "fips": "HK",
+    "iso": "HK",
+    "domain": ".hk",
+    "enName": "Hong Kong",
+    "faName": "هنگ کنگ"
+  },
+  {
+    "id": 107,
+    "fips": "HM",
+    "iso": "HM",
+    "domain": ".hm",
+    "enName": "Heard Island and McDonald Islands",
+    "faName": "جزاير هرد و جزاير مک دونالد"
+  },
+  {
+    "id": 108,
+    "fips": "HO",
+    "iso": "HN",
+    "domain": ".hn",
+    "enName": "Honduras",
+    "faName": "هندوراس"
+  },
+  {
+    "id": 109,
+    "fips": "HQ",
+    "iso": "UM",
+    "domain": "-",
+    "enName": "Howland Island",
+    "faName": "جزيره Howland"
+  },
+  {
+    "id": 110,
+    "fips": "HR",
+    "iso": "HR",
+    "domain": ".hr",
+    "enName": "Croatia",
+    "faName": "کرواسي"
+  },
+  {
+    "id": 111,
+    "fips": "HU",
+    "iso": "HU",
+    "domain": ".hu",
+    "enName": "Hungary",
+    "faName": "مجارستان"
+  },
+  {
+    "id": 112,
+    "fips": "IC",
+    "iso": "IS",
+    "domain": ".is",
+    "enName": "Iceland",
+    "faName": "ايسلند"
+  },
+  {
+    "id": 113,
+    "fips": "id",
+    "iso": "id",
+    "domain": ".id",
+    "enName": "Indonesia",
+    "faName": "اندونزي"
+  },
+  {
+    "id": 114,
+    "fips": "IM",
+    "iso": "IM",
+    "domain": ".im",
+    "enName": "Isle of Man",
+    "faName": "جزيره من"
+  },
+  {
+    "id": 115,
+    "fips": "IN",
+    "iso": "IN",
+    "domain": ".in",
+    "enName": "India",
+    "faName": "هندوستان"
+  },
+  {
+    "id": 116,
+    "fips": "IO",
+    "iso": "IO",
+    "domain": ".io",
+    "enName": "British Indian Ocean Territory",
+    "faName": "قلمرو اقيانوس هند بريتانيا"
+  },
+  {
+    "id": 117,
+    "fips": "IP",
+    "iso": "-",
+    "domain": "-",
+    "enName": "Clipperton Island",
+    "faName": "جزيره Clipperton"
+  },
+  {
+    "id": 118,
+    "fips": "IR",
+    "iso": "IR",
+    "domain": ".ir",
+    "enName": "Iran",
+    "faName": "ايران"
+  },
+  {
+    "id": 119,
+    "fips": "IS",
+    "iso": "IL",
+    "domain": ".il",
+    "enName": "Israel",
+    "faName": "اسرائيل"
+  },
+  {
+    "id": 120,
+    "fips": "IT",
+    "iso": "IT",
+    "domain": ".it",
+    "enName": "Italy",
+    "faName": "ايتاليا"
+  },
+  {
+    "id": 121,
+    "fips": "IV",
+    "iso": "CI",
+    "domain": ".ci",
+    "enName": "Cote dIvoire",
+    "faName": "ساحل عاج"
+  },
+  {
+    "id": 122,
+    "fips": "IZ",
+    "iso": "IQ",
+    "domain": ".iq",
+    "enName": "Iraq",
+    "faName": "عراق"
+  },
+  {
+    "id": 123,
+    "fips": "JA",
+    "iso": "JP",
+    "domain": ".jp",
+    "enName": "Japan",
+    "faName": "ژاپن"
+  },
+  {
+    "id": 124,
+    "fips": "JE",
+    "iso": "JE",
+    "domain": ".je",
+    "enName": "Jersey",
+    "faName": "جرسي"
+  },
+  {
+    "id": 125,
+    "fips": "JM",
+    "iso": "JM",
+    "domain": ".jm",
+    "enName": "Jamaica",
+    "faName": "جامائيکا"
+  },
+  {
+    "id": 126,
+    "fips": "JN",
+    "iso": "SJ",
+    "domain": "-",
+    "enName": "Jan Mayen",
+    "faName": "Jan Mayen"
+  },
+  {
+    "id": 127,
+    "fips": "JO",
+    "iso": "JO",
+    "domain": ".jo",
+    "enName": "Jordan",
+    "faName": "اردن"
+  },
+  {
+    "id": 128,
+    "fips": "JQ",
+    "iso": "UM",
+    "domain": "-",
+    "enName": "Johnston Atoll",
+    "faName": "جانستون اتول"
+  },
+  {
+    "id": 129,
+    "fips": "JU",
+    "iso": "-",
+    "domain": "-",
+    "enName": "Juan de Nova Island",
+    "faName": "جزيره خوان جزيره نوا"
+  },
+  {
+    "id": 130,
+    "fips": "KE",
+    "iso": "KE",
+    "domain": ".ke",
+    "enName": "Kenya",
+    "faName": "کنيا"
+  },
+  {
+    "id": 131,
+    "fips": "KG",
+    "iso": "KG",
+    "domain": ".kg",
+    "enName": "Kyrgyzstan",
+    "faName": "قرقيزستان"
+  },
+  {
+    "id": 132,
+    "fips": "KN",
+    "iso": "KP",
+    "domain": ".kp",
+    "enName": "Korea, North",
+    "faName": "کره شمالي"
+  },
+  {
+    "id": 133,
+    "fips": "KQ",
+    "iso": "UM",
+    "domain": "-",
+    "enName": "Kingman Reef",
+    "faName": "کينگمن ريف"
+  },
+  {
+    "id": 134,
+    "fips": "KR",
+    "iso": "KI",
+    "domain": ".ki",
+    "enName": "Kiribati",
+    "faName": "کيريباتي"
+  },
+  {
+    "id": 135,
+    "fips": "KS",
+    "iso": "KR",
+    "domain": ".kr",
+    "enName": "Korea, South",
+    "faName": "کره جنوبي"
+  },
+  {
+    "id": 136,
+    "fips": "KT",
+    "iso": "CX",
+    "domain": ".cx",
+    "enName": "Christmas Island",
+    "faName": "جزيره کريسمس"
+  },
+  {
+    "id": 137,
+    "fips": "KU",
+    "iso": "KW",
+    "domain": ".kw",
+    "enName": "Kuwait",
+    "faName": "کويت"
+  },
+  {
+    "id": 138,
+    "fips": "KV",
+    "iso": "KV",
+    "domain": "-",
+    "enName": "Kosovo",
+    "faName": "کوزوو"
+  },
+  {
+    "id": 139,
+    "fips": "KZ",
+    "iso": "KZ",
+    "domain": ".kz",
+    "enName": "Kazakhstan",
+    "faName": "قزاقستان"
+  },
+  {
+    "id": 140,
+    "fips": "LA",
+    "iso": "LA",
+    "domain": ".la",
+    "enName": "Laos",
+    "faName": "لائوس"
+  },
+  {
+    "id": 141,
+    "fips": "LE",
+    "iso": "LB",
+    "domain": ".lb",
+    "enName": "Lebanon",
+    "faName": "لبنان"
+  },
+  {
+    "id": 142,
+    "fips": "LG",
+    "iso": "LV",
+    "domain": ".lv",
+    "enName": "Latvia",
+    "faName": "لتوني"
+  },
+  {
+    "id": 143,
+    "fips": "LH",
+    "iso": "LT",
+    "domain": ".lt",
+    "enName": "Lithuania",
+    "faName": "ليتواني"
+  },
+  {
+    "id": 144,
+    "fips": "LI",
+    "iso": "LR",
+    "domain": ".lr",
+    "enName": "Liberia",
+    "faName": "ليبريا"
+  },
+  {
+    "id": 145,
+    "fips": "LO",
+    "iso": "SK",
+    "domain": ".sk",
+    "enName": "Slovakia",
+    "faName": "اسلواکي"
+  },
+  {
+    "id": 146,
+    "fips": "LQ",
+    "iso": "UM",
+    "domain": "-",
+    "enName": "Palmyra Atoll",
+    "faName": "پالميرا اتل"
+  },
+  {
+    "id": 147,
+    "fips": "LS",
+    "iso": "LI",
+    "domain": ".li",
+    "enName": "Liechtenstein",
+    "faName": "ليختن اشتاين"
+  },
+  {
+    "id": 148,
+    "fips": "LT",
+    "iso": "LS",
+    "domain": ".ls",
+    "enName": "Lesotho",
+    "faName": "لسوتو"
+  },
+  {
+    "id": 149,
+    "fips": "LU",
+    "iso": "LU",
+    "domain": ".lu",
+    "enName": "Luxembourg",
+    "faName": "لوکزامبورگ"
+  },
+  {
+    "id": 150,
+    "fips": "LY",
+    "iso": "LY",
+    "domain": ".ly",
+    "enName": "Libyan Arab",
+    "faName": "عرب ليبي"
+  },
+  {
+    "id": 151,
+    "fips": "MA",
+    "iso": "MG",
+    "domain": ".mg",
+    "enName": "Madagascar",
+    "faName": "ماداگاسکار"
+  },
+  {
+    "id": 152,
+    "fips": "MB",
+    "iso": "MQ",
+    "domain": ".mq",
+    "enName": "Martinique",
+    "faName": "مارتينيک"
+  },
+  {
+    "id": 153,
+    "fips": "MC",
+    "iso": "MO",
+    "domain": ".mo",
+    "enName": "Macau",
+    "faName": "ماکائو"
+  },
+  {
+    "id": 154,
+    "fips": "MD",
+    "iso": "MD",
+    "domain": ".md",
+    "enName": "Moldova, Republic of",
+    "faName": "مولداوي، جمهوري"
+  },
+  {
+    "id": 155,
+    "fips": "MF",
+    "iso": "YT",
+    "domain": ".yt",
+    "enName": "Mayotte",
+    "faName": "مايوت"
+  },
+  {
+    "id": 156,
+    "fips": "MG",
+    "iso": "MN",
+    "domain": ".mn",
+    "enName": "Mongolia",
+    "faName": "مغولستان"
+  },
+  {
+    "id": 157,
+    "fips": "MH",
+    "iso": "MS",
+    "domain": ".ms",
+    "enName": "Montserrat",
+    "faName": "مونتسرات"
+  },
+  {
+    "id": 158,
+    "fips": "MI",
+    "iso": "MW",
+    "domain": ".mw",
+    "enName": "Malawi",
+    "faName": "مالاوي"
+  },
+  {
+    "id": 159,
+    "fips": "MJ",
+    "iso": "ME",
+    "domain": ".me",
+    "enName": "Montenegro",
+    "faName": "مونته نگرو"
+  },
+  {
+    "id": 160,
+    "fips": "MK",
+    "iso": "MK",
+    "domain": ".mk",
+    "enName": "The Former Yugoslav Republic of Macedonia",
+    "faName": "جمهوري مقدونيه يوگسلاوي سابق"
+  },
+  {
+    "id": 161,
+    "fips": "ML",
+    "iso": "ML",
+    "domain": ".ml",
+    "enName": "Mali",
+    "faName": "مالزي"
+  },
+  {
+    "id": 162,
+    "fips": "MN",
+    "iso": "MC",
+    "domain": ".mc",
+    "enName": "Monaco",
+    "faName": "موناکو"
+  },
+  {
+    "id": 163,
+    "fips": "MO",
+    "iso": "MA",
+    "domain": ".ma",
+    "enName": "Morocco",
+    "faName": "مراکش"
+  },
+  {
+    "id": 164,
+    "fips": "MP",
+    "iso": "MU",
+    "domain": ".mu",
+    "enName": "Mauritius",
+    "faName": "موريس"
+  },
+  {
+    "id": 165,
+    "fips": "MQ",
+    "iso": "UM",
+    "domain": "-",
+    "enName": "Midway Islands",
+    "faName": "جزاير ميدوي"
+  },
+  {
+    "id": 166,
+    "fips": "MR",
+    "iso": "MR",
+    "domain": ".mr",
+    "enName": "Mauritania",
+    "faName": "موريتاني"
+  },
+  {
+    "id": 167,
+    "fips": "MT",
+    "iso": "MT",
+    "domain": ".mt",
+    "enName": "Malta",
+    "faName": "مالت"
+  },
+  {
+    "id": 168,
+    "fips": "MU",
+    "iso": "OM",
+    "domain": ".om",
+    "enName": "Oman",
+    "faName": "عمان"
+  },
+  {
+    "id": 169,
+    "fips": "MV",
+    "iso": "MV",
+    "domain": ".mv",
+    "enName": "Maldives",
+    "faName": "مالديو"
+  },
+  {
+    "id": 170,
+    "fips": "MX",
+    "iso": "MX",
+    "domain": ".mx",
+    "enName": "Mexico",
+    "faName": "مکزيک"
+  },
+  {
+    "id": 171,
+    "fips": "MY",
+    "iso": "MY",
+    "domain": ".my",
+    "enName": "Malaysia",
+    "faName": "مالزي"
+  },
+  {
+    "id": 172,
+    "fips": "MZ",
+    "iso": "MZ",
+    "domain": ".mz",
+    "enName": "Mozambique",
+    "faName": "موزامبيک"
+  },
+  {
+    "id": 173,
+    "fips": "NC",
+    "iso": "NC",
+    "domain": ".nc",
+    "enName": "New Caledonia",
+    "faName": "کالدونياي جديد"
+  },
+  {
+    "id": 174,
+    "fips": "NE",
+    "iso": "NU",
+    "domain": ".nu",
+    "enName": "Niue",
+    "faName": "نيو"
+  },
+  {
+    "id": 175,
+    "fips": "NF",
+    "iso": "NF",
+    "domain": ".nf",
+    "enName": "Norfolk Island",
+    "faName": "جزيره نورفولک"
+  },
+  {
+    "id": 176,
+    "fips": "NG",
+    "iso": "NE",
+    "domain": ".ne",
+    "enName": "Niger",
+    "faName": "نيجر"
+  },
+  {
+    "id": 177,
+    "fips": "NH",
+    "iso": "VU",
+    "domain": ".vu",
+    "enName": "Vanuatu",
+    "faName": "وانواتو"
+  },
+  {
+    "id": 178,
+    "fips": "NI",
+    "iso": "NG",
+    "domain": ".ng",
+    "enName": "Nigeria",
+    "faName": "نيجريه"
+  },
+  {
+    "id": 179,
+    "fips": "NL",
+    "iso": "NL",
+    "domain": ".nl",
+    "enName": "Netherlands",
+    "faName": "هلند"
+  },
+  {
+    "id": 180,
+    "fips": "NM",
+    "iso": "",
+    "domain": "",
+    "enName": "No Mans Land",
+    "faName": "هيچ مردي زمين نيست"
+  },
+  {
+    "id": 181,
+    "fips": "NO",
+    "iso": "NO",
+    "domain": ".no",
+    "enName": "Norway",
+    "faName": "نروژ"
+  },
+  {
+    "id": 182,
+    "fips": "NP",
+    "iso": "NP",
+    "domain": ".np",
+    "enName": "Nepal",
+    "faName": "نپال"
+  },
+  {
+    "id": 183,
+    "fips": "NR",
+    "iso": "NR",
+    "domain": ".nr",
+    "enName": "Nauru",
+    "faName": "نائورو"
+  },
+  {
+    "id": 184,
+    "fips": "NS",
+    "iso": "SR",
+    "domain": ".sr",
+    "enName": "Suriname",
+    "faName": "سورينام"
+  },
+  {
+    "id": 185,
+    "fips": "NT",
+    "iso": "AN",
+    "domain": ".an",
+    "enName": "Netherlands Antilles",
+    "faName": "آنتيل هلند"
+  },
+  {
+    "id": 186,
+    "fips": "NU",
+    "iso": "NI",
+    "domain": ".ni",
+    "enName": "Nicaragua",
+    "faName": "نيکاراگوئه"
+  },
+  {
+    "id": 187,
+    "fips": "NZ",
+    "iso": "NZ",
+    "domain": ".nz",
+    "enName": "New Zealand",
+    "faName": "نيوزلند"
+  },
+  {
+    "id": 188,
+    "fips": "PA",
+    "iso": "PY",
+    "domain": ".py",
+    "enName": "Paraguay",
+    "faName": "پاراگوئه"
+  },
+  {
+    "id": 189,
+    "fips": "PC",
+    "iso": "PN",
+    "domain": ".pn",
+    "enName": "Pitcairn Islands",
+    "faName": "جزاير پيتکرن"
+  },
+  {
+    "id": 190,
+    "fips": "PE",
+    "iso": "PE",
+    "domain": ".pe",
+    "enName": "Peru",
+    "faName": "پرو"
+  },
+  {
+    "id": 191,
+    "fips": "PF",
+    "iso": "-",
+    "domain": "-",
+    "enName": "Paracel Islands",
+    "faName": "جزاير پاراسل"
+  },
+  {
+    "id": 192,
+    "fips": "PG",
+    "iso": "-",
+    "domain": "-",
+    "enName": "Spratly Islands",
+    "faName": "جزاير اسپارتلي"
+  },
+  {
+    "id": 193,
+    "fips": "PK",
+    "iso": "PK",
+    "domain": ".pk",
+    "enName": "Pakistan",
+    "faName": "پاکستان"
+  },
+  {
+    "id": 194,
+    "fips": "PL",
+    "iso": "PL",
+    "domain": ".pl",
+    "enName": "Poland",
+    "faName": "لهستان"
+  },
+  {
+    "id": 195,
+    "fips": "PM",
+    "iso": "PA",
+    "domain": ".pa",
+    "enName": "Panama",
+    "faName": "پاناما"
+  },
+  {
+    "id": 196,
+    "fips": "PO",
+    "iso": "PT",
+    "domain": ".pt",
+    "enName": "Portugal",
+    "faName": "کشور پرتغال"
+  },
+  {
+    "id": 197,
+    "fips": "PP",
+    "iso": "PG",
+    "domain": ".pg",
+    "enName": "Papua New Guinea",
+    "faName": "پاپوآ گينه نو"
+  },
+  {
+    "id": 198,
+    "fips": "PS",
+    "iso": "PW",
+    "domain": ".pw",
+    "enName": "Palau",
+    "faName": "پالائو"
+  },
+  {
+    "id": 199,
+    "fips": "PU",
+    "iso": "GW",
+    "domain": ".gw",
+    "enName": "Guinea-Bissau",
+    "faName": "گينه بيسائو"
+  },
+  {
+    "id": 200,
+    "fips": "QA",
+    "iso": "QA",
+    "domain": ".qa",
+    "enName": "Qatar",
+    "faName": "قطر"
+  },
+  {
+    "id": 201,
+    "fips": "RE",
+    "iso": "RE",
+    "domain": ".re",
+    "enName": "Reunion",
+    "faName": "تجديد ديدار"
+  },
+  {
+    "id": 202,
+    "fips": "RI",
+    "iso": "RS",
+    "domain": ".rs",
+    "enName": "Serbia",
+    "faName": "صربستان"
+  },
+  {
+    "id": 203,
+    "fips": "RM",
+    "iso": "MH",
+    "domain": ".mh",
+    "enName": "Marshall Islands",
+    "faName": "جزاير مارشال"
+  },
+  {
+    "id": 204,
+    "fips": "RN",
+    "iso": "MF",
+    "domain": "-",
+    "enName": "Saint Martin",
+    "faName": "سنت مارتين"
+  },
+  {
+    "id": 205,
+    "fips": "RO",
+    "iso": "RO",
+    "domain": ".ro",
+    "enName": "Romania",
+    "faName": "روماني"
+  },
+  {
+    "id": 206,
+    "fips": "RP",
+    "iso": "PH",
+    "domain": ".ph",
+    "enName": "Philippines",
+    "faName": "فيليپين"
+  },
+  {
+    "id": 207,
+    "fips": "RQ",
+    "iso": "PR",
+    "domain": ".pr",
+    "enName": "Puerto Rico",
+    "faName": "پورتوريکو"
+  },
+  {
+    "id": 208,
+    "fips": "RS",
+    "iso": "RU",
+    "domain": ".ru",
+    "enName": "Russia",
+    "faName": "روسيه"
+  },
+  {
+    "id": 209,
+    "fips": "RW",
+    "iso": "RW",
+    "domain": ".rw",
+    "enName": "Rwanda",
+    "faName": "رواندا"
+  },
+  {
+    "id": 210,
+    "fips": "SA",
+    "iso": "SA",
+    "domain": ".sa",
+    "enName": "Saudi Arabia",
+    "faName": "عربستان سعودي"
+  },
+  {
+    "id": 211,
+    "fips": "SB",
+    "iso": "PM",
+    "domain": ".pm",
+    "enName": "Saint Pierre and Miquelon",
+    "faName": "سنت پير و ميکلون"
+  },
+  {
+    "id": 212,
+    "fips": "SC",
+    "iso": "KN",
+    "domain": ".kn",
+    "enName": "Saint Kitts and Nevis",
+    "faName": "سنت کيتس و نويس"
+  },
+  {
+    "id": 213,
+    "fips": "SE",
+    "iso": "SC",
+    "domain": ".sc",
+    "enName": "Seychelles",
+    "faName": "سيشل"
+  },
+  {
+    "id": 214,
+    "fips": "SF",
+    "iso": "ZA",
+    "domain": ".za",
+    "enName": "South Africa",
+    "faName": "آفريقاي جنوبي"
+  },
+  {
+    "id": 215,
+    "fips": "SG",
+    "iso": "SN",
+    "domain": ".sn",
+    "enName": "Senegal",
+    "faName": "سنگال"
+  },
+  {
+    "id": 216,
+    "fips": "SH",
+    "iso": "SH",
+    "domain": ".sh",
+    "enName": "Saint Helena",
+    "faName": "سنت هلن"
+  },
+  {
+    "id": 217,
+    "fips": "SI",
+    "iso": "SI",
+    "domain": ".si",
+    "enName": "Slovenia",
+    "faName": "اسلووني"
+  },
+  {
+    "id": 218,
+    "fips": "SL",
+    "iso": "SL",
+    "domain": ".sl",
+    "enName": "Sierra Leone",
+    "faName": "سيرا لئون"
+  },
+  {
+    "id": 219,
+    "fips": "SM",
+    "iso": "SM",
+    "domain": ".sm",
+    "enName": "San Marino",
+    "faName": "سان مارينو"
+  },
+  {
+    "id": 220,
+    "fips": "SN",
+    "iso": "SG",
+    "domain": ".sg",
+    "enName": "Singapore",
+    "faName": "سنگاپور"
+  },
+  {
+    "id": 221,
+    "fips": "SO",
+    "iso": "SO",
+    "domain": ".so",
+    "enName": "Somalia",
+    "faName": "سومالي"
+  },
+  {
+    "id": 222,
+    "fips": "SP",
+    "iso": "ES",
+    "domain": ".es",
+    "enName": "Spain",
+    "faName": "اسپانيا"
+  },
+  {
+    "id": 223,
+    "fips": "ST",
+    "iso": "LC",
+    "domain": ".lc",
+    "enName": "Saint Lucia",
+    "faName": "سنت لوسيا"
+  },
+  {
+    "id": 224,
+    "fips": "SU",
+    "iso": "SD",
+    "domain": ".sd",
+    "enName": "Sudan",
+    "faName": "سودان"
+  },
+  {
+    "id": 225,
+    "fips": "SV",
+    "iso": "SJ",
+    "domain": ".sj",
+    "enName": "Svalbard",
+    "faName": "اسباب بازي"
+  },
+  {
+    "id": 226,
+    "fips": "SW",
+    "iso": "SE",
+    "domain": ".se",
+    "enName": "Sweden",
+    "faName": "سوئد"
+  },
+  {
+    "id": 227,
+    "fips": "SX",
+    "iso": "GS",
+    "domain": ".gs",
+    "enName": "South Georgia and the Islands",
+    "faName": "جنوب گرجستان و جزاير"
+  },
+  {
+    "id": 228,
+    "fips": "SY",
+    "iso": "SY",
+    "domain": ".sy",
+    "enName": "Syrian Arab Republic",
+    "faName": "جمهوري عربي سوريه"
+  },
+  {
+    "id": 229,
+    "fips": "SZ",
+    "iso": "CH",
+    "domain": ".ch",
+    "enName": "Switzerland",
+    "faName": "سوئيس"
+  },
+  {
+    "id": 230,
+    "fips": "TD",
+    "iso": "TT",
+    "domain": ".tt",
+    "enName": "Trinidad and Tobago",
+    "faName": "ترينيداد و توباگو"
+  },
+  {
+    "id": 231,
+    "fips": "TE",
+    "iso": "-",
+    "domain": "-",
+    "enName": "Tromelin Island",
+    "faName": "جزيره ترولين"
+  },
+  {
+    "id": 232,
+    "fips": "TH",
+    "iso": "TH",
+    "domain": ".th",
+    "enName": "Thailand",
+    "faName": "تايلند"
+  },
+  {
+    "id": 233,
+    "fips": "TI",
+    "iso": "TJ",
+    "domain": ".tj",
+    "enName": "Tajikistan",
+    "faName": "تاجيکستان"
+  },
+  {
+    "id": 234,
+    "fips": "TK",
+    "iso": "TC",
+    "domain": ".tc",
+    "enName": "Turks and Caicos Islands",
+    "faName": "جزاير ترکس و کايکوس"
+  },
+  {
+    "id": 235,
+    "fips": "TL",
+    "iso": "TK",
+    "domain": ".tk",
+    "enName": "Tokelau",
+    "faName": "توکلو"
+  },
+  {
+    "id": 236,
+    "fips": "TN",
+    "iso": "TO",
+    "domain": ".to",
+    "enName": "Tonga",
+    "faName": "تونگا"
+  },
+  {
+    "id": 237,
+    "fips": "TO",
+    "iso": "TG",
+    "domain": ".tg",
+    "enName": "Togo",
+    "faName": "رفتن"
+  },
+  {
+    "id": 238,
+    "fips": "TP",
+    "iso": "ST",
+    "domain": ".st",
+    "enName": "Sao Tome and Principe",
+    "faName": "سائوتومه و پرنسيپه"
+  },
+  {
+    "id": 239,
+    "fips": "TS",
+    "iso": "TN",
+    "domain": ".tn",
+    "enName": "Tunisia",
+    "faName": "تونس"
+  },
+  {
+    "id": 240,
+    "fips": "TT",
+    "iso": "TL",
+    "domain": ".tl",
+    "enName": "East Timor",
+    "faName": "تيمور شرقي"
+  },
+  {
+    "id": 241,
+    "fips": "TU",
+    "iso": "TR",
+    "domain": ".tr",
+    "enName": "Turkey",
+    "faName": "بوقلمون"
+  },
+  {
+    "id": 242,
+    "fips": "TV",
+    "iso": "TV",
+    "domain": ".tv",
+    "enName": "Tuvalu",
+    "faName": "توووالو"
+  },
+  {
+    "id": 243,
+    "fips": "TW",
+    "iso": "TW",
+    "domain": ".tw",
+    "enName": "Taiwan",
+    "faName": "تايوان"
+  },
+  {
+    "id": 244,
+    "fips": "TX",
+    "iso": "TM",
+    "domain": ".tm",
+    "enName": "Turkmenistan",
+    "faName": "ترکمنستان"
+  },
+  {
+    "id": 245,
+    "fips": "TZ",
+    "iso": "TZ",
+    "domain": ".tz",
+    "enName": "Tanzania, United Republic of",
+    "faName": "تانزانيا، جمهوري متحده"
+  },
+  {
+    "id": 246,
+    "fips": "UG",
+    "iso": "UG",
+    "domain": ".ug",
+    "enName": "Uganda",
+    "faName": "اوگاندا"
+  },
+  {
+    "id": 247,
+    "fips": "UK",
+    "iso": "GB",
+    "domain": ".uk",
+    "enName": "United Kingdom",
+    "faName": "انگلستان"
+  },
+  {
+    "id": 248,
+    "fips": "UP",
+    "iso": "UA",
+    "domain": ".ua",
+    "enName": "Ukraine",
+    "faName": "اوکراين"
+  },
+  {
+    "id": 249,
+    "fips": "US",
+    "iso": "US",
+    "domain": ".us",
+    "enName": "United States",
+    "faName": "ايالات متحده"
+  },
+  {
+    "id": 250,
+    "fips": "UV",
+    "iso": "BF",
+    "domain": ".bf",
+    "enName": "Burkina Faso",
+    "faName": "بورکينافاسو"
+  },
+  {
+    "id": 251,
+    "fips": "UY",
+    "iso": "UY",
+    "domain": ".uy",
+    "enName": "Uruguay",
+    "faName": "اروگوئه"
+  },
+  {
+    "id": 252,
+    "fips": "UZ",
+    "iso": "UZ",
+    "domain": ".uz",
+    "enName": "Uzbekistan",
+    "faName": "ازبکستان"
+  },
+  {
+    "id": 253,
+    "fips": "VC",
+    "iso": "VC",
+    "domain": ".vc",
+    "enName": "Saint Vincent and the Grenadines",
+    "faName": "سنت وينسنت و گرنادين"
+  },
+  {
+    "id": 254,
+    "fips": "VE",
+    "iso": "VE",
+    "domain": ".ve",
+    "enName": "Venezuela",
+    "faName": "ونزوئلا"
+  },
+  {
+    "id": 255,
+    "fips": "VI",
+    "iso": "VG",
+    "domain": ".vg",
+    "enName": "British Virgin Islands",
+    "faName": "جزاير ويرجين بريتانيا"
+  },
+  {
+    "id": 256,
+    "fips": "VM",
+    "iso": "VN",
+    "domain": ".vn",
+    "enName": "Vietnam",
+    "faName": "ويتنام"
+  },
+  {
+    "id": 257,
+    "fips": "VQ",
+    "iso": "VI",
+    "domain": ".vi",
+    "enName": "Virgin Islands (US)",
+    "faName": "جزاير ويرجين (ايالات متحده)"
+  },
+  {
+    "id": 258,
+    "fips": "VT",
+    "iso": "VA",
+    "domain": ".va",
+    "enName": "Holy See (Vatican City)",
+    "faName": "مقدس (واتيکان)"
+  },
+  {
+    "id": 259,
+    "fips": "WA",
+    "iso": "NA",
+    "domain": ".na",
+    "enName": "Namibia",
+    "faName": "ناميبيا"
+  },
+  {
+    "id": 260,
+    "fips": "WE",
+    "iso": "-",
+    "domain": "-",
+    "enName": "West Bank",
+    "faName": "بانک غرب"
+  },
+  {
+    "id": 261,
+    "fips": "WF",
+    "iso": "WF",
+    "domain": ".wf",
+    "enName": "Wallis and Futuna",
+    "faName": "واليس و فوتونا"
+  },
+  {
+    "id": 262,
+    "fips": "WI",
+    "iso": "EH",
+    "domain": ".eh",
+    "enName": "Western Sahara",
+    "faName": "صحراي غربي"
+  },
+  {
+    "id": 263,
+    "fips": "WQ",
+    "iso": "UM",
+    "domain": "-",
+    "enName": "Wake Island",
+    "faName": "جزيره ويک"
+  },
+  {
+    "id": 264,
+    "fips": "WS",
+    "iso": "WS",
+    "domain": ".ws",
+    "enName": "Samoa",
+    "faName": "ساموآ"
+  },
+  {
+    "id": 265,
+    "fips": "WZ",
+    "iso": "SZ",
+    "domain": ".sz",
+    "enName": "Swaziland",
+    "faName": "سوازيلند"
+  },
+  {
+    "id": 266,
+    "fips": "YI",
+    "iso": "CS",
+    "domain": ".yu",
+    "enName": "Serbia and Montenegro",
+    "faName": "صربستان و مونته نگرو"
+  },
+  {
+    "id": 267,
+    "fips": "YM",
+    "iso": "YE",
+    "domain": ".ye",
+    "enName": "Yemen",
+    "faName": "يمن"
+  },
+  {
+    "id": 268,
+    "fips": "ZA",
+    "iso": "ZM",
+    "domain": ".zm",
+    "enName": "Zambia",
+    "faName": "زامبيا"
+  },
+  {
+    "id": 269,
+    "fips": "ZI",
+    "iso": "ZW",
+    "domain": ".zw",
+    "enName": "Zimbabwe",
+    "faName": "زيمبابوه"
+  }
+]
