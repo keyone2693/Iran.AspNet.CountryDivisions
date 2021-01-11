@@ -34,7 +34,7 @@
 
 
 In this version:
-you can get all IRANS provinces, cities, districts, cities, towns and villages
+you can get all IRANS provinces, cities, districts, counties, towns and villages
 
 
 or search for them
