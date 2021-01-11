@@ -72,11 +72,12 @@ public void ConfigureServices(IServiceCollection services)
 }
 ```
 ```c#
-  private readonly IIranCountryDivisions _iranCountryDivisions;
-  public TestController(IIranCountryDivisions iranCountryDivisions)
-  {
-      _iranCountryDivisions = iranCountryDivisions;
-  }
+//Controller
+private readonly IIranCountryDivisions _iranCountryDivisions;
+public TestController(IIranCountryDivisions iranCountryDivisions)
+{
+  _iranCountryDivisions = iranCountryDivisions;
+}
 ```
 
 or :
