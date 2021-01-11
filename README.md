@@ -62,11 +62,9 @@ Install-Package Iran.AspNet.CountryDivisions
 
 you only need to add two things
 
-first:
-add this line of code to your Startup.cs
-
 ... Recomended ...
 ```c#
+//Startup.cs
 public void ConfigureServices(IServiceCollection services)
 {
   //...
