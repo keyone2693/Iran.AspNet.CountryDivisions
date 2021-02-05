@@ -57,6 +57,8 @@ or use this in your package manager console
 Install-Package Iran.AspNet.CountryDivisions
 ```
 
+After deploying your project be sure to give all permission to the Data Folder on your Server
+
 
 # Wiki
 
