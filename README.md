@@ -4,7 +4,7 @@
 # Iran.AspNet.CountryDivisions
 &#x202b;
 C# and ASP package to receive and search countries and
-Iran's provinces, cities, departments, villages and villages and use in selections, dropdown list and also Api requests 
+Iran's provinces, cities, departments,counties and villages and use in selections, dropdown list and also Api requests 
 
 ## Development 
 
