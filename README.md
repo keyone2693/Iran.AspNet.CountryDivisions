@@ -3,14 +3,8 @@
 
 # Iran.AspNet.CountryDivisions
 &#x202b;
-پکیج C# و ASP
-&#x202b;
-برای دریافت و جستوجوی 
-کشور ها و
-
-استان ها ، شهر ها ،بخش ها ،دهستان ها و روستاهای ایران
-&#x202b;
-و استفاده در Select ها  ، DropDown لیست ها و همچنین درخواست های Api  
+C# and ASP package to receive and search countries and
+Iran's provinces, cities, departments, villages and villages and use in selections, dropdown list and also Api requests 
 
 ## Development 
 
